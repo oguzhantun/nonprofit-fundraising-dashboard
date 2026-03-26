@@ -114,7 +114,7 @@ For SQL — load donors.csv and donations.csv into any SQL database (PostgreSQL,
 
 ## About
 
-**Oguz Tuncel** — Data Analyst | Business Analyst | Power BI Developer
+**Oguz Tuncel** — Data Analyst | Power BI Developer
 
 - LinkedIn: https://linkedin.com/in/oguztuncel
 - Email: ogzhantuncell@gmail.com
