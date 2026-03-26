@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nonprofit Fundraising Dashboard | Oguz Tuncel</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --purple: #534AB7;
+    --purple-light: #EEEDFE;
+    --teal: #1D9E75;
+    --teal-light: #E1F5EE;
+    --amber: #EF9F27;
+    --coral: #D85A30;
+    --blue: #378ADD;
+    --pink: #D4537E;
+    --gray: #888780;
+    --bg: #F4F4F6;
+    --surface: #FFFFFF;
+    --border: #E2E2E8;
+    --text: #111111;
+    --text-muted: #666666;
+    --text-light: #999999;
+  }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+
+  /* ── HEADER ── */
+  .header {
+    background: var(--purple);
+    padding: 0 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 58px;
+  }
+  .header-left { display: flex; align-items: center; gap: 14px; }
+  .header-logo {
+    width: 32px; height: 32px; border-radius: 8px;
+    background: rgba(255,255,255,0.2);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 16px; font-weight: 600; color: #fff;
+  }
+  .header-title { font-size: 15px; font-weight: 600; color: #fff; }
+  .header-sub { font-size: 12px; color: rgba(255,255,255,0.65); margin-top: 1px; }
+  .header-right { display: flex; align-items: center; gap: 20px; }
+  .header-badge {
+    background: rgba(255,255,255,0.15);
+    color: #fff; font-size: 12px;
+    padding: 4px 12px; border-radius: 20px;
+  }
+  .header-link {
+    color: rgba(255,255,255,0.8); font-size: 13px;
+    text-decoration: none; display: flex; align-items: center; gap: 5px;
+  }
+  .header-link:hover { color: #fff; }
+
+  /* ── TOOLBAR ── */
+  .toolbar {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 10px 32px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .toolbar-label { font-size: 12px; color: var(--text-muted); font-weight: 500; }
+  .filter-group { display: flex; align-items: center; gap: 8px; }
+  select {
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    padding: 6px 28px 6px 10px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%23888'/%3E%3C/svg%3E") no-repeat right 10px center;
+    appearance: none;
+    color: var(--text);
+    cursor: pointer;
+  }
+  select:focus { outline: none; border-color: var(--purple); }
+
+  .last-updated {
+    margin-left: auto;
+    font-size: 12px;
+    color: var(--text-light);
+  }
+
+  /* ── MAIN ── */
+  .main { padding: 24px 32px; max-width: 1400px; margin: 0 auto; }
+
+  /* ── KPI GRID ── */
+  .kpi-grid {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0,1fr));
+    gap: 14px;
+    margin-bottom: 22px;
+  }
+  .kpi-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 18px;
+    position: relative;
+    overflow: hidden;
+  }
+  .kpi-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    background: var(--accent, var(--purple));
+  }
+  .kpi-label { font-size: 11px; font-weight: 500; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px; }
+  .kpi-value { font-size: 26px; font-weight: 600; color: var(--text); line-height: 1; margin-bottom: 6px; }
+  .kpi-delta { font-size: 12px; display: flex; align-items: center; gap: 4px; }
+  .kpi-delta.up { color: #0F6E56; }
+  .kpi-delta.down { color: #A32D2D; }
+  .kpi-delta.neutral { color: var(--text-muted); }
+  .arrow-up::before { content: '▲'; font-size: 9px; }
+  .arrow-down::before { content: '▼'; font-size: 9px; }
+
+  /* ── CHART GRID ── */
+  .charts-grid-top {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+  .charts-grid-bottom {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+  .chart-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+  }
+  .chart-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-bottom: 16px;
+  }
+  .chart-title { font-size: 14px; font-weight: 600; color: var(--text); }
+  .chart-sub { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+  .chart-badge {
+    font-size: 11px; padding: 3px 8px;
+    background: var(--purple-light);
+    color: var(--purple);
+    border-radius: 4px; font-weight: 500;
+  }
+  .chart-canvas-wrap { position: relative; }
+
+  /* ── LEGEND ── */
+  .legend {
+    display: flex; flex-wrap: wrap; gap: 10px;
+    margin-bottom: 12px; font-size: 12px; color: var(--text-muted);
+  }
+  .legend-item { display: flex; align-items: center; gap: 5px; }
+  .legend-dot { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
+
+  /* ── INSIGHTS BAR ── */
+  .insights-bar {
+    background: var(--purple-light);
+    border: 1px solid #CECBF6;
+    border-radius: 10px;
+    padding: 14px 20px;
+    display: flex;
+    gap: 32px;
+    flex-wrap: wrap;
+    margin-bottom: 16px;
+  }
+  .insight-item { display: flex; align-items: flex-start; gap: 10px; }
+  .insight-icon {
+    width: 28px; height: 28px; border-radius: 6px;
+    background: var(--purple); color: #fff;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 13px; flex-shrink: 0;
+  }
+  .insight-text { font-size: 12px; color: var(--purple); font-weight: 500; line-height: 1.4; }
+  .insight-label { font-size: 11px; color: #7F77DD; font-weight: 400; }
+
+  /* ── FOOTER ── */
+  .footer {
+    text-align: center;
+    padding: 20px 32px;
+    font-size: 12px;
+    color: var(--text-light);
+    border-top: 1px solid var(--border);
+    margin-top: 8px;
+  }
+  .footer a { color: var(--purple); text-decoration: none; }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="header">
+  <div class="header-left">
+    <div class="header-logo">OT</div>
+    <div>
+      <div class="header-title">Nonprofit Fundraising Dashboard</div>
+      <div class="header-sub">Portfolio Project — Oguz Tuncel, Data Analyst</div>
+    </div>
+  </div>
+  <div class="header-right">
+    <span class="header-badge">2022 — 2024</span>
+    <a class="header-link" href="https://linkedin.com/in/oguztuncel" target="_blank">&#128279; LinkedIn</a>
+    <a class="header-link" href="https://github.com/yourusername/nonprofit-fundraising-dashboard" target="_blank">&#128196; GitHub Repo</a>
+  </div>
+</div>
+
+<!-- TOOLBAR -->
+<div class="toolbar">
+  <span class="toolbar-label">Filters:</span>
+  <div class="filter-group">
+    <span class="toolbar-label">Year</span>
+    <select id="yearFilter" onchange="updateAll()">
+      <option value="all">All Years</option>
+      <option value="2022">2022</option>
+      <option value="2023">2023</option>
+      <option value="2024">2024</option>
+    </select>
+  </div>
+  <div class="filter-group">
+    <span class="toolbar-label">Donor Type</span>
+    <select id="typeFilter" onchange="updateAll()">
+      <option value="all">All Types</option>
+      <option value="individual">Individual</option>
+      <option value="corporate">Corporate</option>
+      <option value="foundation">Foundation</option>
+      <option value="government">Government</option>
+    </select>
+  </div>
+  <div class="filter-group">
+    <span class="toolbar-label">State</span>
+    <select id="stateFilter" onchange="updateAll()">
+      <option value="all">All States</option>
+      <option>VIC</option><option>NSW</option><option>QLD</option>
+      <option>WA</option><option>SA</option><option>ACT</option>
+      <option>TAS</option><option>NT</option>
+    </select>
+  </div>
+  <span class="last-updated">Last updated: March 2024 &nbsp;|&nbsp; Synthetic data for portfolio purposes</span>
+</div>
+
+<!-- MAIN -->
+<div class="main">
+
+  <!-- KPI CARDS -->
+  <div class="kpi-grid">
+    <div class="kpi-card" style="--accent:#534AB7">
+      <div class="kpi-label">Total Raised</div>
+      <div class="kpi-value" id="kv1">$11.7M</div>
+      <div class="kpi-delta up" id="kd1"><span class="arrow-up"></span> +12.4% vs prior year</div>
+    </div>
+    <div class="kpi-card" style="--accent:#1D9E75">
+      <div class="kpi-label">Total Donors</div>
+      <div class="kpi-value" id="kv2">500</div>
+      <div class="kpi-delta up" id="kd2"><span class="arrow-up"></span> +8.2% vs prior year</div>
+    </div>
+    <div class="kpi-card" style="--accent:#EF9F27">
+      <div class="kpi-label">Average Gift</div>
+      <div class="kpi-value" id="kv3">$6,367</div>
+      <div class="kpi-delta up" id="kd3"><span class="arrow-up"></span> +3.1% vs prior year</div>
+    </div>
+    <div class="kpi-card" style="--accent:#378ADD">
+      <div class="kpi-label">Recurring Rate</div>
+      <div class="kpi-value" id="kv4">35.7%</div>
+      <div class="kpi-delta up" id="kd4"><span class="arrow-up"></span> +2.1pp vs prior year</div>
+    </div>
+    <div class="kpi-card" style="--accent:#D85A30">
+      <div class="kpi-label">Total Donations</div>
+      <div class="kpi-value" id="kv5">1,838</div>
+      <div class="kpi-delta up" id="kd5"><span class="arrow-up"></span> +6.4% vs prior year</div>
+    </div>
+  </div>
+
+  <!-- INSIGHTS -->
+  <div class="insights-bar">
+    <div class="insight-item">
+      <div class="insight-icon">&#9650;</div>
+      <div>
+        <div class="insight-text">Youth Education leads all campaigns at $2.1M</div>
+        <div class="insight-label">Top performing campaign</div>
+      </div>
+    </div>
+    <div class="insight-item">
+      <div class="insight-icon">&#9733;</div>
+      <div>
+        <div class="insight-text">Online channel drives 27% of total revenue</div>
+        <div class="insight-label">Top acquisition channel</div>
+      </div>
+    </div>
+    <div class="insight-item">
+      <div class="insight-icon">&#9825;</div>
+      <div>
+        <div class="insight-text">Recurring donors up 2.1pp year-over-year</div>
+        <div class="insight-label">Retention trend</div>
+      </div>
+    </div>
+    <div class="insight-item">
+      <div class="insight-icon">&#9660;</div>
+      <div>
+        <div class="insight-text">VIC + NSW contribute 52% of total funds</div>
+        <div class="insight-label">Geographic concentration</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- TOP CHARTS ROW -->
+  <div class="charts-grid-top">
+    <div class="chart-card">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Monthly Fundraising Trend</div>
+          <div class="chart-sub">Total revenue by month across all campaigns</div>
+        </div>
+        <span class="chart-badge" id="trendBadge">All Years</span>
+      </div>
+      <div class="chart-canvas-wrap" style="height:240px">
+        <canvas id="c_trend"></canvas>
+      </div>
+    </div>
+    <div class="chart-card">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Donor Type Breakdown</div>
+          <div class="chart-sub">Revenue share by donor category</div>
+        </div>
+      </div>
+      <div class="legend" id="leg_type"></div>
+      <div class="chart-canvas-wrap" style="height:190px">
+        <canvas id="c_type"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- BOTTOM CHARTS ROW -->
+  <div class="charts-grid-bottom">
+    <div class="chart-card">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Revenue by Campaign</div>
+          <div class="chart-sub">Total raised per initiative</div>
+        </div>
+      </div>
+      <div class="chart-canvas-wrap" style="height:220px">
+        <canvas id="c_camp"></canvas>
+      </div>
+    </div>
+    <div class="chart-card">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Acquisition Channel</div>
+          <div class="chart-sub">Revenue by donor channel</div>
+        </div>
+      </div>
+      <div class="chart-canvas-wrap" style="height:220px">
+        <canvas id="c_chan"></canvas>
+      </div>
+    </div>
+    <div class="chart-card">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Donor Retention</div>
+          <div class="chart-sub">New vs returning donors by year</div>
+        </div>
+      </div>
+      <div class="chart-canvas-wrap" style="height:220px">
+        <canvas id="c_ret"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- YEAR OVER YEAR -->
+  <div class="chart-card" style="margin-bottom:16px">
+    <div class="chart-header">
+      <div>
+        <div class="chart-title">Year-over-Year Campaign Revenue</div>
+        <div class="chart-sub">Comparing campaign performance across 2022, 2023, and 2024</div>
+      </div>
+    </div>
+    <div class="legend">
+      <div class="legend-item"><div class="legend-dot" style="background:#534AB7"></div> 2022</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#1D9E75"></div> 2023</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#EF9F27"></div> 2024</div>
+    </div>
+    <div class="chart-canvas-wrap" style="height:200px">
+      <canvas id="c_yoy"></canvas>
+    </div>
+  </div>
+
+</div>
+
+<!-- FOOTER -->
+<div class="footer">
+  Built by <a href="https://linkedin.com/in/oguztuncel">Oguz Tuncel</a> &nbsp;|&nbsp;
+  Data Analyst &middot; Business Analyst &middot; Power BI Developer &nbsp;|&nbsp;
+  Melbourne, VIC &nbsp;|&nbsp;
+  <a href="mailto:ogzhantuncell@gmail.com">ogzhantuncell@gmail.com</a> &nbsp;|&nbsp;
+  Synthetic data — portfolio purposes only
+</div>
+
+<script>
+const PURPLE="#534AB7", TEAL="#1D9E75", AMBER="#EF9F27", CORAL="#D85A30";
+const BLUE="#378ADD", PINK="#D4537E", GRAY="#888780", GREEN="#639922";
+
+const DATA = {
+  kpis: {
+    all:  {v1:"$11.7M",v2:"500",v3:"$6,367",v4:"35.7%",v5:"1,838",d1:"+12.4%",d2:"+8.2%",d3:"+3.1%",d4:"+2.1pp",d5:"+6.4%",u1:true,u2:true,u3:true,u4:true,u5:true},
+    2022: {v1:"$3.8M",v2:"380",v3:"$5,980",v4:"33.2%",v5:"580",d1:"Base year",d2:"Base year",d3:"Base year",d4:"Base year",d5:"Base year",u1:null,u2:null,u3:null,u4:null,u5:null},
+    2023: {v1:"$4.0M",v2:"430",v3:"$6,190",v4:"34.8%",v5:"618",d1:"+5.3%",d2:"+13.2%",d3:"+3.5%",d4:"+1.6pp",d5:"+6.6%",u1:true,u2:true,u3:true,u4:true,u5:true},
+    2024: {v1:"$3.9M",v2:"445",v3:"$6,367",v4:"35.7%",v5:"640",d1:"-2.5%",d2:"+3.5%",d3:"+2.9%",d4:"+0.9pp",d5:"+3.6%",u1:false,u2:true,u3:true,u4:true,u5:true}
+  },
+  trend: {
+    labels: ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+    all:  [850,780,920,870,1010,950,880,1100,970,1050,1200,1120],
+    2022: [280,260,300,290,330,310,290,370,320,350,400,370],
+    2023: [285,265,310,295,340,320,295,375,325,355,405,375],
+    2024: [285,255,310,285,340,320,295,355,325,345,395,375]
+  },
+  dtype: {
+    labels: ["Individual","Corporate","Foundation","Government"],
+    all:  [5800,3200,1800,900],
+    2022: [1900,1050,590,300],
+    2023: [1950,1075,605,310],
+    2024: [1950,1075,605,290],
+    colors: [PURPLE, TEAL, AMBER, CORAL]
+  },
+  camp: {
+    labels: ["Youth Ed.","Community\nHealth","Refugee\nSupport","Women\nEmpow.","Digital\nInclusion","Annual\nGiving","Emergency\nRelief","Environ.\nCare"],
+    all:  [2102,2072,1680,1586,1521,1200,980,560],
+    2022: [680,700,540,510,490,380,300,170],
+    2023: [710,680,570,530,510,410,330,190],
+    2024: [712,692,570,546,521,410,350,200]
+  },
+  chan: {
+    labels: ["Online","Recurring","Direct Mail","Corporate","Event","Telephone","Social"],
+    all:  [3200,2800,1800,1500,1100,780,521],
+    2022: [1050,900,590,490,360,250,170],
+    2023: [1075,950,605,505,370,265,175],
+    2024: [1075,950,605,505,370,265,176],
+    colors: [PURPLE,TEAL,AMBER,CORAL,BLUE,PINK,GRAY]
+  },
+  ret: {
+    labels: ["2022","2023","2024"],
+    new:      [220,180,160],
+    retained: [160,250,285]
+  },
+  yoy: {
+    labels: ["Youth Ed.","Community Health","Refugee Support","Women Empow.","Digital Incl.","Annual Giving","Emergency Relief","Environ. Care"],
+    y2022: [680,700,540,510,490,380,300,170],
+    y2023: [710,680,570,530,510,410,330,190],
+    y2024: [712,692,570,546,521,410,350,200]
+  }
+};
+
+let charts = {};
+
+function updateKPIs(yr) {
+  const k = DATA.kpis[yr];
+  ["1","2","3","4","5"].forEach(i => {
+    document.getElementById("kv"+i).textContent = k["v"+i];
+    const el = document.getElementById("kd"+i);
+    const up = k["u"+i];
+    el.innerHTML = (up === true ? '<span class="arrow-up"></span> ' : up === false ? '<span class="arrow-down"></span> ' : '') + k["d"+i] + (up !== null ? " vs prior year" : "");
+    el.className = "kpi-delta " + (up === true ? "up" : up === false ? "down" : "neutral");
+  });
+  document.getElementById("trendBadge").textContent = yr === "all" ? "All Years" : yr;
+}
+
+function buildCharts(yr) {
+  const key = yr;
+
+  if(charts.trend) charts.trend.destroy();
+  charts.trend = new Chart(document.getElementById("c_trend"), {
+    type: "line",
+    data: { labels: DATA.trend.labels, datasets: [{
+      data: DATA.trend[key],
+      borderColor: TEAL, backgroundColor: "rgba(29,158,117,0.08)",
+      fill: true, tension: 0.4, pointRadius: 4, pointBackgroundColor: TEAL,
+      borderWidth: 2.5
+    }]},
+    options: { responsive:true, maintainAspectRatio:false,
+      plugins:{ legend:{display:false} },
+      scales:{ y:{ ticks:{ callback: v => "$"+v+"k", font:{size:11} }, grid:{color:"rgba(0,0,0,0.04)"} },
+               x:{ ticks:{ font:{size:11} }, grid:{display:false} } } }
+  });
+
+  if(charts.type) charts.type.destroy();
+  const typeData = DATA.dtype[key];
+  const typeTotal = typeData.reduce((a,b)=>a+b,0);
+  const legEl = document.getElementById("leg_type");
+  legEl.innerHTML = DATA.dtype.labels.map((l,i) =>
+    `<div class="legend-item"><div class="legend-dot" style="background:${DATA.dtype.colors[i]}"></div>${l} ${Math.round(typeData[i]/typeTotal*100)}%</div>`
+  ).join('');
+  charts.type = new Chart(document.getElementById("c_type"), {
+    type: "doughnut",
+    data: { labels: DATA.dtype.labels, datasets: [{ data: typeData, backgroundColor: DATA.dtype.colors, borderWidth: 2, borderColor: "#fff" }]},
+    options: { responsive:true, maintainAspectRatio:false, plugins:{ legend:{display:false},
+      tooltip:{ callbacks:{ label: ctx => " $"+ctx.parsed.toLocaleString()+"k" } } },
+      cutout: "62%" }
+  });
+
+  if(charts.camp) charts.camp.destroy();
+  charts.camp = new Chart(document.getElementById("c_camp"), {
+    type: "bar",
+    data: { labels: DATA.camp.labels, datasets: [{ data: DATA.camp[key], backgroundColor: PURPLE, borderRadius: 4, barPercentage: 0.7 }]},
+    options: { responsive:true, maintainAspectRatio:false,
+      plugins:{ legend:{display:false} },
+      scales:{ y:{ ticks:{ callback: v => "$"+v+"k", font:{size:10} }, grid:{color:"rgba(0,0,0,0.04)"} },
+               x:{ ticks:{ font:{size:10} }, grid:{display:false} } } }
+  });
+
+  if(charts.chan) charts.chan.destroy();
+  charts.chan = new Chart(document.getElementById("c_chan"), {
+    type: "bar",
+    data: { labels: DATA.chan.labels, datasets: [{ data: DATA.chan[key], backgroundColor: DATA.chan.colors, borderRadius: 4, barPercentage: 0.7 }]},
+    options: { responsive:true, maintainAspectRatio:false,
+      plugins:{ legend:{display:false} },
+      scales:{ y:{ ticks:{ callback: v => "$"+v+"k", font:{size:10} }, grid:{color:"rgba(0,0,0,0.04)"} },
+               x:{ ticks:{ font:{size:10} }, grid:{display:false} } } }
+  });
+
+  if(charts.ret) charts.ret.destroy();
+  charts.ret = new Chart(document.getElementById("c_ret"), {
+    type: "bar",
+    data: { labels: DATA.ret.labels, datasets: [
+      { label: "New Donors", data: DATA.ret.new, backgroundColor: TEAL, borderRadius: 4, barPercentage: 0.7 },
+      { label: "Retained", data: DATA.ret.retained, backgroundColor: PURPLE, borderRadius: 4, barPercentage: 0.7 }
+    ]},
+    options: { responsive:true, maintainAspectRatio:false,
+      plugins:{ legend:{ labels:{ font:{size:11}, boxWidth:10 } } },
+      scales:{ y:{ ticks:{ font:{size:10} }, grid:{color:"rgba(0,0,0,0.04)"} },
+               x:{ ticks:{ font:{size:10} }, grid:{display:false} } } }
+  });
+
+  if(charts.yoy) charts.yoy.destroy();
+  charts.yoy = new Chart(document.getElementById("c_yoy"), {
+    type: "bar",
+    data: { labels: DATA.yoy.labels, datasets: [
+      { label:"2022", data: DATA.yoy.y2022, backgroundColor: PURPLE, borderRadius:3, barPercentage:0.75 },
+      { label:"2023", data: DATA.yoy.y2023, backgroundColor: TEAL,   borderRadius:3, barPercentage:0.75 },
+      { label:"2024", data: DATA.yoy.y2024, backgroundColor: AMBER,  borderRadius:3, barPercentage:0.75 }
+    ]},
+    options: { responsive:true, maintainAspectRatio:false,
+      plugins:{ legend:{display:false} },
+      scales:{ y:{ ticks:{ callback: v => "$"+v+"k", font:{size:11} }, grid:{color:"rgba(0,0,0,0.04)"} },
+               x:{ ticks:{ font:{size:11} }, grid:{display:false} } } }
+  });
+}
+
+function updateAll() {
+  const yr = document.getElementById("yearFilter").value;
+  updateKPIs(yr);
+  buildCharts(yr);
+}
+
+updateAll();
+</script>
+</body>
+</html>
