@@ -1,0 +1,2001 @@
+donation_id,donor_id,donation_date,amount,campaign,channel,is_recurring,status,fiscal_year,quarter,month,year
+DON00001,D0362,2024-09-07,117.49,Emergency Relief,Recurring,1,Completed,FY2024,Q3,September,2024
+DON00002,D0307,2023-08-03,95.87,Community Health,Corporate,0,Completed,FY2023,Q3,August,2023
+DON00003,D0116,2024-10-15,184.67,Women Empowerment,Event,0,Completed,FY2024,Q4,October,2024
+DON00004,D0213,2024-01-30,55232.58,Women Empowerment,Telephone,0,Completed,FY2023,Q1,January,2024
+DON00005,D0470,2024-05-05,109.65,Annual Giving,Online,0,Completed,FY2023,Q2,May,2024
+DON00006,D0198,2023-11-23,951.94,Community Health,Event,0,Completed,FY2023,Q4,November,2023
+DON00007,D0431,2024-09-27,492.17,Women Empowerment,Online,0,Completed,FY2024,Q3,September,2024
+DON00008,D0276,2022-04-10,25.24,Emergency Relief,Social Media,0,Completed,FY2021,Q2,April,2022
+DON00009,D0131,2024-11-01,82.72,Youth Education,Online,0,Completed,FY2024,Q4,November,2024
+DON00010,D0113,2024-04-22,531.86,Annual Giving,Online,0,Completed,FY2023,Q2,April,2024
+DON00011,D0460,2024-05-31,152.14,Digital Inclusion,Online,1,Completed,FY2023,Q2,May,2024
+DON00012,D0177,2024-12-14,583.61,Youth Education,Online,0,Completed,FY2024,Q4,December,2024
+DON00013,D0403,2023-05-14,41580.38,Refugee Support,Event,1,Completed,FY2022,Q2,May,2023
+DON00014,D0431,2024-02-16,53.07,Annual Giving,Online,0,Completed,FY2023,Q1,February,2024
+DON00015,D0060,2024-06-07,27.03,Emergency Relief,Event,0,Completed,FY2023,Q2,June,2024
+DON00016,D0381,2024-08-31,57.9,Annual Giving,Online,0,Pending,FY2024,Q3,August,2024
+DON00017,D0071,2023-10-07,173.96,Annual Giving,Online,0,Completed,FY2023,Q4,October,2023
+DON00018,D0201,2023-09-05,5504.51,Refugee Support,Telephone,0,Completed,FY2023,Q3,September,2023
+DON00019,D0102,2022-10-14,267.7,Women Empowerment,Direct Mail,0,Completed,FY2022,Q4,October,2022
+DON00020,D0067,2024-06-14,50.02,Women Empowerment,Online,0,Completed,FY2023,Q2,June,2024
+DON00021,D0320,2023-07-14,296.89,Women Empowerment,Online,0,Completed,FY2023,Q3,July,2023
+DON00022,D0464,2024-02-18,94.23,Refugee Support,Direct Mail,0,Completed,FY2023,Q1,February,2024
+DON00023,D0498,2024-02-18,108.52,Emergency Relief,Online,0,Completed,FY2023,Q1,February,2024
+DON00024,D0045,2023-09-24,231.67,Emergency Relief,Online,0,Completed,FY2023,Q3,September,2023
+DON00025,D0379,2024-11-15,426.5,Youth Education,Direct Mail,0,Completed,FY2024,Q4,November,2024
+DON00026,D0113,2022-01-26,204.34,Women Empowerment,Telephone,0,Completed,FY2021,Q1,January,2022
+DON00027,D0039,2022-12-14,54.5,Community Health,Corporate,0,Completed,FY2022,Q4,December,2022
+DON00028,D0140,2022-12-09,9204.53,Environmental Care,Online,0,Completed,FY2022,Q4,December,2022
+DON00029,D0192,2023-05-21,556.53,Women Empowerment,Online,0,Completed,FY2022,Q2,May,2023
+DON00030,D0195,2022-01-14,8782.19,Emergency Relief,Online,1,Completed,FY2021,Q1,January,2022
+DON00031,D0090,2024-05-31,56081.53,Women Empowerment,Direct Mail,1,Completed,FY2023,Q2,May,2024
+DON00032,D0090,2022-12-30,4600.87,Community Health,Event,1,Pending,FY2022,Q4,December,2022
+DON00033,D0095,2023-05-12,164.09,Environmental Care,Social Media,0,Completed,FY2022,Q2,May,2023
+DON00034,D0326,2023-01-04,94600.62,Community Health,Corporate,0,Completed,FY2022,Q1,January,2023
+DON00035,D0480,2023-08-20,588.59,Community Health,Direct Mail,1,Completed,FY2023,Q3,August,2023
+DON00036,D0408,2023-05-11,267.3,Youth Education,Corporate,0,Completed,FY2022,Q2,May,2023
+DON00037,D0102,2024-09-08,278.91,Emergency Relief,Direct Mail,0,Completed,FY2024,Q3,September,2024
+DON00038,D0337,2022-06-24,254.36,Women Empowerment,Recurring,1,Completed,FY2021,Q2,June,2022
+DON00039,D0481,2022-04-01,106.3,Women Empowerment,Online,0,Completed,FY2021,Q2,April,2022
+DON00040,D0094,2024-05-31,296.68,Women Empowerment,Social Media,0,Completed,FY2023,Q2,May,2024
+DON00041,D0027,2024-03-12,100.43,Community Health,Direct Mail,0,Completed,FY2023,Q1,March,2024
+DON00042,D0117,2023-08-29,860.3,Annual Giving,Event,0,Pending,FY2023,Q3,August,2023
+DON00043,D0209,2023-12-04,566.26,Youth Education,Direct Mail,0,Completed,FY2023,Q4,December,2023
+DON00044,D0125,2024-07-15,4696.6,Emergency Relief,Direct Mail,0,Completed,FY2024,Q3,July,2024
+DON00045,D0210,2022-12-03,40.45,Women Empowerment,Corporate,1,Completed,FY2022,Q4,December,2022
+DON00046,D0088,2024-05-23,869.78,Youth Education,Direct Mail,1,Completed,FY2023,Q2,May,2024
+DON00047,D0071,2024-06-04,262.98,Youth Education,Corporate,0,Completed,FY2023,Q2,June,2024
+DON00048,D0495,2023-03-16,97.98,Refugee Support,Direct Mail,0,Completed,FY2022,Q1,March,2023
+DON00049,D0094,2023-02-08,51.55,Youth Education,Direct Mail,0,Completed,FY2022,Q1,February,2023
+DON00050,D0012,2024-03-14,505.54,Women Empowerment,Corporate,0,Completed,FY2023,Q1,March,2024
+DON00051,D0068,2022-06-23,523.47,Digital Inclusion,Telephone,0,Completed,FY2021,Q2,June,2022
+DON00052,D0099,2022-10-17,92.22,Youth Education,Direct Mail,0,Completed,FY2022,Q4,October,2022
+DON00053,D0162,2022-12-21,77.24,Refugee Support,Online,0,Completed,FY2022,Q4,December,2022
+DON00054,D0174,2024-01-06,65.61,Environmental Care,Corporate,1,Completed,FY2023,Q1,January,2024
+DON00055,D0113,2024-10-04,112.61,Environmental Care,Direct Mail,0,Completed,FY2024,Q4,October,2024
+DON00056,D0156,2023-03-28,86690.14,Annual Giving,Recurring,1,Completed,FY2022,Q1,March,2023
+DON00057,D0364,2024-07-25,2224.84,Digital Inclusion,Online,0,Completed,FY2024,Q3,July,2024
+DON00058,D0234,2023-07-03,509.95,Emergency Relief,Corporate,0,Completed,FY2023,Q3,July,2023
+DON00059,D0071,2024-06-22,203.36,Annual Giving,Recurring,1,Completed,FY2023,Q2,June,2024
+DON00060,D0462,2022-03-08,210.24,Community Health,Online,0,Completed,FY2021,Q1,March,2022
+DON00061,D0451,2023-05-01,48.78,Emergency Relief,Recurring,1,Completed,FY2022,Q2,May,2023
+DON00062,D0302,2022-10-13,228.88,Refugee Support,Online,0,Completed,FY2022,Q4,October,2022
+DON00063,D0320,2022-12-11,25.7,Digital Inclusion,Corporate,0,Completed,FY2022,Q4,December,2022
+DON00064,D0222,2024-04-22,2572.74,Emergency Relief,Online,1,Failed,FY2023,Q2,April,2024
+DON00065,D0120,2023-10-22,81.04,Youth Education,Online,1,Completed,FY2023,Q4,October,2023
+DON00066,D0151,2024-02-08,248.95,Digital Inclusion,Corporate,0,Completed,FY2023,Q1,February,2024
+DON00067,D0228,2024-01-26,48.06,Digital Inclusion,Recurring,1,Completed,FY2023,Q1,January,2024
+DON00068,D0471,2022-07-10,465.46,Annual Giving,Telephone,0,Completed,FY2022,Q3,July,2022
+DON00069,D0400,2024-05-29,57002.12,Refugee Support,Online,1,Completed,FY2023,Q2,May,2024
+DON00070,D0030,2022-09-25,11313.37,Women Empowerment,Event,0,Completed,FY2022,Q3,September,2022
+DON00071,D0099,2024-07-30,231.53,Annual Giving,Online,0,Pending,FY2024,Q3,July,2024
+DON00072,D0162,2024-05-26,73.24,Annual Giving,Social Media,0,Completed,FY2023,Q2,May,2024
+DON00073,D0429,2023-07-16,86.46,Digital Inclusion,Online,0,Completed,FY2023,Q3,July,2023
+DON00074,D0003,2023-09-18,47.44,Youth Education,Online,0,Completed,FY2023,Q3,September,2023
+DON00075,D0184,2024-09-03,106219.41,Emergency Relief,Online,0,Completed,FY2024,Q3,September,2024
+DON00076,D0389,2023-12-05,1071.99,Annual Giving,Online,1,Failed,FY2023,Q4,December,2023
+DON00077,D0176,2024-02-24,269.4,Environmental Care,Online,0,Completed,FY2023,Q1,February,2024
+DON00078,D0229,2022-09-30,462.67,Digital Inclusion,Online,0,Completed,FY2022,Q3,September,2022
+DON00079,D0082,2022-12-03,50.61,Annual Giving,Corporate,0,Completed,FY2022,Q4,December,2022
+DON00080,D0331,2022-06-27,87.6,Environmental Care,Telephone,1,Completed,FY2021,Q2,June,2022
+DON00081,D0245,2024-05-29,10358.3,Refugee Support,Direct Mail,0,Completed,FY2023,Q2,May,2024
+DON00082,D0096,2023-08-07,158.68,Community Health,Corporate,0,Completed,FY2023,Q3,August,2023
+DON00083,D0035,2023-08-29,132.33,Community Health,Recurring,1,Completed,FY2023,Q3,August,2023
+DON00084,D0045,2022-05-26,99.8,Emergency Relief,Online,0,Failed,FY2021,Q2,May,2022
+DON00085,D0035,2024-05-11,234.71,Youth Education,Direct Mail,0,Completed,FY2023,Q2,May,2024
+DON00086,D0290,2022-05-19,59089.06,Emergency Relief,Online,0,Completed,FY2021,Q2,May,2022
+DON00087,D0195,2024-10-23,589.74,Refugee Support,Event,0,Completed,FY2024,Q4,October,2024
+DON00088,D0406,2023-09-27,208.24,Youth Education,Online,0,Pending,FY2023,Q3,September,2023
+DON00089,D0131,2022-05-16,76.09,Refugee Support,Corporate,0,Completed,FY2021,Q2,May,2022
+DON00090,D0049,2022-08-26,82.32,Emergency Relief,Telephone,0,Completed,FY2022,Q3,August,2022
+DON00091,D0135,2022-10-09,159.96,Youth Education,Online,0,Completed,FY2022,Q4,October,2022
+DON00092,D0472,2022-09-17,201.84,Digital Inclusion,Online,0,Completed,FY2022,Q3,September,2022
+DON00093,D0454,2024-05-29,55.43,Annual Giving,Direct Mail,0,Completed,FY2023,Q2,May,2024
+DON00094,D0068,2022-12-08,49.92,Women Empowerment,Online,0,Completed,FY2022,Q4,December,2022
+DON00095,D0052,2024-11-08,57.89,Emergency Relief,Online,0,Completed,FY2024,Q4,November,2024
+DON00096,D0147,2022-11-04,448.91,Environmental Care,Direct Mail,0,Pending,FY2022,Q4,November,2022
+DON00097,D0243,2023-05-24,25.53,Refugee Support,Online,0,Completed,FY2022,Q2,May,2023
+DON00098,D0001,2022-04-18,169.56,Women Empowerment,Online,0,Completed,FY2021,Q2,April,2022
+DON00099,D0254,2023-08-02,29.54,Emergency Relief,Telephone,0,Completed,FY2023,Q3,August,2023
+DON00100,D0064,2023-08-21,51.06,Annual Giving,Direct Mail,0,Completed,FY2023,Q3,August,2023
+DON00101,D0308,2023-02-05,98.56,Environmental Care,Social Media,0,Completed,FY2022,Q1,February,2023
+DON00102,D0350,2023-12-11,86.02,Refugee Support,Online,0,Completed,FY2023,Q4,December,2023
+DON00103,D0388,2024-02-10,1180.4,Annual Giving,Recurring,1,Completed,FY2023,Q1,February,2024
+DON00104,D0022,2022-05-03,126.24,Community Health,Direct Mail,1,Completed,FY2021,Q2,May,2022
+DON00105,D0355,2024-11-30,8372.11,Community Health,Telephone,0,Completed,FY2024,Q4,November,2024
+DON00106,D0228,2024-11-01,594.91,Emergency Relief,Corporate,0,Completed,FY2024,Q4,November,2024
+DON00107,D0375,2022-09-25,51.84,Annual Giving,Direct Mail,0,Completed,FY2022,Q3,September,2022
+DON00108,D0358,2023-10-31,234.08,Refugee Support,Recurring,1,Completed,FY2023,Q4,October,2023
+DON00109,D0457,2022-08-12,134.02,Community Health,Online,0,Completed,FY2022,Q3,August,2022
+DON00110,D0217,2023-03-02,462.81,Emergency Relief,Event,0,Completed,FY2022,Q1,March,2023
+DON00111,D0388,2022-03-24,836.17,Digital Inclusion,Recurring,1,Completed,FY2021,Q1,March,2022
+DON00112,D0369,2024-03-22,171.87,Community Health,Social Media,0,Completed,FY2023,Q1,March,2024
+DON00113,D0487,2024-04-08,2820.09,Youth Education,Online,1,Completed,FY2023,Q2,April,2024
+DON00114,D0084,2022-10-14,899.94,Environmental Care,Online,0,Completed,FY2022,Q4,October,2022
+DON00115,D0044,2022-06-22,852.29,Refugee Support,Direct Mail,0,Completed,FY2021,Q2,June,2022
+DON00116,D0447,2024-06-27,40.44,Emergency Relief,Online,1,Completed,FY2023,Q2,June,2024
+DON00117,D0158,2024-06-06,169.8,Environmental Care,Online,1,Completed,FY2023,Q2,June,2024
+DON00118,D0333,2023-03-16,23.83,Refugee Support,Online,1,Completed,FY2022,Q1,March,2023
+DON00119,D0225,2023-05-19,576.68,Annual Giving,Corporate,0,Completed,FY2022,Q2,May,2023
+DON00120,D0102,2022-10-09,991.61,Emergency Relief,Online,0,Completed,FY2022,Q4,October,2022
+DON00121,D0293,2024-01-06,899.66,Annual Giving,Social Media,0,Completed,FY2023,Q1,January,2024
+DON00122,D0094,2023-01-04,233.01,Women Empowerment,Direct Mail,0,Completed,FY2022,Q1,January,2023
+DON00123,D0416,2024-08-24,579.15,Digital Inclusion,Online,0,Completed,FY2024,Q3,August,2024
+DON00124,D0346,2023-05-09,118.96,Emergency Relief,Online,0,Completed,FY2022,Q2,May,2023
+DON00125,D0295,2024-03-06,27.64,Community Health,Corporate,0,Completed,FY2023,Q1,March,2024
+DON00126,D0226,2024-01-05,65.28,Women Empowerment,Recurring,1,Completed,FY2023,Q1,January,2024
+DON00127,D0463,2022-10-19,1081.38,Women Empowerment,Social Media,0,Completed,FY2022,Q4,October,2022
+DON00128,D0277,2022-07-04,508.42,Youth Education,Event,0,Completed,FY2022,Q3,July,2022
+DON00129,D0249,2023-02-17,10105.79,Annual Giving,Direct Mail,1,Completed,FY2022,Q1,February,2023
+DON00130,D0158,2022-10-30,87.56,Women Empowerment,Online,0,Completed,FY2022,Q4,October,2022
+DON00131,D0266,2024-02-05,56.93,Women Empowerment,Social Media,0,Completed,FY2023,Q1,February,2024
+DON00132,D0123,2022-11-19,46.73,Women Empowerment,Online,0,Completed,FY2022,Q4,November,2022
+DON00133,D0334,2024-01-01,529.84,Youth Education,Recurring,1,Completed,FY2023,Q1,January,2024
+DON00134,D0082,2022-01-04,71.35,Digital Inclusion,Online,1,Pending,FY2021,Q1,January,2022
+DON00135,D0031,2023-10-14,285.08,Annual Giving,Online,1,Pending,FY2023,Q4,October,2023
+DON00136,D0454,2022-10-16,105.59,Emergency Relief,Social Media,0,Completed,FY2022,Q4,October,2022
+DON00137,D0217,2022-07-01,238.59,Youth Education,Corporate,1,Completed,FY2022,Q3,July,2022
+DON00138,D0199,2022-05-19,195.73,Digital Inclusion,Online,0,Completed,FY2021,Q2,May,2022
+DON00139,D0058,2022-12-07,20.48,Environmental Care,Recurring,1,Completed,FY2022,Q4,December,2022
+DON00140,D0142,2022-07-27,576.35,Women Empowerment,Event,1,Completed,FY2022,Q3,July,2022
+DON00141,D0297,2022-03-10,21626.57,Emergency Relief,Recurring,1,Completed,FY2021,Q1,March,2022
+DON00142,D0206,2022-12-15,180.89,Emergency Relief,Online,1,Completed,FY2022,Q4,December,2022
+DON00143,D0308,2024-09-15,50.94,Emergency Relief,Direct Mail,0,Completed,FY2024,Q3,September,2024
+DON00144,D0339,2022-07-27,78.22,Refugee Support,Online,0,Failed,FY2022,Q3,July,2022
+DON00145,D0321,2023-09-02,269.72,Digital Inclusion,Recurring,1,Completed,FY2023,Q3,September,2023
+DON00146,D0008,2024-01-09,23.93,Environmental Care,Online,0,Completed,FY2023,Q1,January,2024
+DON00147,D0010,2022-02-22,26250.91,Environmental Care,Online,0,Completed,FY2021,Q1,February,2022
+DON00148,D0016,2024-03-25,49.47,Emergency Relief,Direct Mail,0,Completed,FY2023,Q1,March,2024
+DON00149,D0216,2024-02-21,125.47,Refugee Support,Online,0,Completed,FY2023,Q1,February,2024
+DON00150,D0013,2023-07-05,146.38,Digital Inclusion,Online,0,Completed,FY2023,Q3,July,2023
+DON00151,D0227,2024-04-27,41.71,Women Empowerment,Recurring,1,Failed,FY2023,Q2,April,2024
+DON00152,D0500,2024-05-07,25536.02,Refugee Support,Recurring,1,Pending,FY2023,Q2,May,2024
+DON00153,D0381,2022-06-11,514.54,Community Health,Event,0,Completed,FY2021,Q2,June,2022
+DON00154,D0281,2024-07-08,25.02,Youth Education,Online,0,Failed,FY2024,Q3,July,2024
+DON00155,D0127,2022-06-10,112.34,Youth Education,Online,1,Completed,FY2021,Q2,June,2022
+DON00156,D0337,2022-05-18,85.02,Digital Inclusion,Direct Mail,0,Completed,FY2021,Q2,May,2022
+DON00157,D0185,2022-01-26,930.45,Digital Inclusion,Event,0,Completed,FY2021,Q1,January,2022
+DON00158,D0041,2022-07-25,42250.38,Youth Education,Online,1,Completed,FY2022,Q3,July,2022
+DON00159,D0334,2023-06-25,55.71,Women Empowerment,Telephone,0,Completed,FY2022,Q2,June,2023
+DON00160,D0294,2024-04-02,407.49,Digital Inclusion,Direct Mail,0,Completed,FY2023,Q2,April,2024
+DON00161,D0054,2023-07-05,215.24,Annual Giving,Recurring,1,Completed,FY2023,Q3,July,2023
+DON00162,D0093,2024-10-03,935.15,Digital Inclusion,Direct Mail,1,Completed,FY2024,Q4,October,2024
+DON00163,D0020,2023-10-20,85.38,Environmental Care,Recurring,1,Completed,FY2023,Q4,October,2023
+DON00164,D0252,2023-03-09,260.5,Emergency Relief,Online,1,Completed,FY2022,Q1,March,2023
+DON00165,D0429,2024-11-21,551.9,Women Empowerment,Recurring,1,Completed,FY2024,Q4,November,2024
+DON00166,D0488,2024-12-09,46.22,Refugee Support,Online,1,Completed,FY2024,Q4,December,2024
+DON00167,D0354,2023-05-26,115.01,Community Health,Recurring,1,Completed,FY2022,Q2,May,2023
+DON00168,D0306,2024-08-08,29.18,Community Health,Online,0,Completed,FY2024,Q3,August,2024
+DON00169,D0186,2024-07-02,53.62,Community Health,Direct Mail,0,Completed,FY2024,Q3,July,2024
+DON00170,D0373,2022-07-05,46884.98,Digital Inclusion,Recurring,1,Completed,FY2022,Q3,July,2022
+DON00171,D0032,2023-04-07,204.97,Community Health,Telephone,0,Completed,FY2022,Q2,April,2023
+DON00172,D0165,2022-09-28,50265.62,Annual Giving,Event,0,Completed,FY2022,Q3,September,2022
+DON00173,D0070,2023-07-18,889.51,Digital Inclusion,Recurring,1,Completed,FY2023,Q3,July,2023
+DON00174,D0211,2024-08-13,285.16,Environmental Care,Online,0,Completed,FY2024,Q3,August,2024
+DON00175,D0104,2024-02-06,258.45,Annual Giving,Event,0,Completed,FY2023,Q1,February,2024
+DON00176,D0179,2023-11-20,137.91,Emergency Relief,Event,1,Completed,FY2023,Q4,November,2023
+DON00177,D0428,2024-11-25,135.67,Digital Inclusion,Online,0,Completed,FY2024,Q4,November,2024
+DON00178,D0427,2024-10-15,106421.21,Youth Education,Recurring,1,Failed,FY2024,Q4,October,2024
+DON00179,D0152,2022-03-14,58138.23,Refugee Support,Direct Mail,0,Failed,FY2021,Q1,March,2022
+DON00180,D0218,2024-09-01,23431.67,Community Health,Recurring,1,Completed,FY2024,Q3,September,2024
+DON00181,D0126,2023-01-06,50146.3,Youth Education,Recurring,1,Completed,FY2022,Q1,January,2023
+DON00182,D0246,2023-01-10,425.59,Digital Inclusion,Recurring,1,Pending,FY2022,Q1,January,2023
+DON00183,D0308,2023-09-21,212.35,Community Health,Direct Mail,0,Completed,FY2023,Q3,September,2023
+DON00184,D0057,2022-08-30,9042.24,Digital Inclusion,Event,0,Completed,FY2022,Q3,August,2022
+DON00185,D0102,2024-02-21,49.44,Community Health,Event,0,Completed,FY2023,Q1,February,2024
+DON00186,D0023,2024-07-26,64.12,Community Health,Direct Mail,0,Completed,FY2024,Q3,July,2024
+DON00187,D0438,2022-12-29,83.37,Environmental Care,Direct Mail,0,Completed,FY2022,Q4,December,2022
+DON00188,D0355,2022-11-21,45470.56,Youth Education,Corporate,0,Completed,FY2022,Q4,November,2022
+DON00189,D0229,2024-04-06,425.88,Refugee Support,Corporate,0,Completed,FY2023,Q2,April,2024
+DON00190,D0249,2022-01-29,8150.9,Community Health,Recurring,1,Completed,FY2021,Q1,January,2022
+DON00191,D0469,2023-05-25,8762.31,Annual Giving,Corporate,0,Completed,FY2022,Q2,May,2023
+DON00192,D0350,2023-09-19,127.74,Refugee Support,Event,0,Completed,FY2023,Q3,September,2023
+DON00193,D0301,2024-12-09,176.91,Environmental Care,Recurring,1,Completed,FY2024,Q4,December,2024
+DON00194,D0337,2023-01-21,70.28,Environmental Care,Direct Mail,0,Completed,FY2022,Q1,January,2023
+DON00195,D0071,2022-09-26,201.91,Community Health,Recurring,1,Completed,FY2022,Q3,September,2022
+DON00196,D0319,2022-03-18,10358.77,Youth Education,Online,0,Completed,FY2021,Q1,March,2022
+DON00197,D0322,2022-02-10,1049.25,Annual Giving,Recurring,1,Completed,FY2021,Q1,February,2022
+DON00198,D0239,2023-06-02,966.71,Refugee Support,Online,0,Completed,FY2022,Q2,June,2023
+DON00199,D0081,2022-07-26,26857.4,Annual Giving,Direct Mail,0,Completed,FY2022,Q3,July,2022
+DON00200,D0260,2022-08-30,72.56,Emergency Relief,Event,0,Completed,FY2022,Q3,August,2022
+DON00201,D0006,2024-12-07,439.73,Community Health,Recurring,1,Failed,FY2024,Q4,December,2024
+DON00202,D0251,2024-10-13,216.27,Digital Inclusion,Online,1,Completed,FY2024,Q4,October,2024
+DON00203,D0031,2022-07-02,466.12,Annual Giving,Online,1,Completed,FY2022,Q3,July,2022
+DON00204,D0019,2022-06-03,42982.89,Emergency Relief,Recurring,1,Completed,FY2021,Q2,June,2022
+DON00205,D0060,2023-08-30,58.1,Community Health,Event,0,Completed,FY2023,Q3,August,2023
+DON00206,D0241,2023-10-03,28741.4,Digital Inclusion,Direct Mail,0,Completed,FY2023,Q4,October,2023
+DON00207,D0483,2022-12-16,20.1,Youth Education,Recurring,1,Completed,FY2022,Q4,December,2022
+DON00208,D0435,2022-07-10,591.02,Digital Inclusion,Telephone,0,Completed,FY2022,Q3,July,2022
+DON00209,D0016,2024-02-29,48.02,Environmental Care,Online,0,Completed,FY2023,Q1,February,2024
+DON00210,D0487,2022-05-01,5297.69,Youth Education,Online,1,Completed,FY2021,Q2,May,2022
+DON00211,D0063,2024-06-16,48.32,Environmental Care,Recurring,1,Completed,FY2023,Q2,June,2024
+DON00212,D0272,2022-09-25,277.92,Annual Giving,Telephone,0,Completed,FY2022,Q3,September,2022
+DON00213,D0237,2023-10-06,244.07,Emergency Relief,Online,0,Completed,FY2023,Q4,October,2023
+DON00214,D0196,2023-11-24,1107.01,Community Health,Social Media,0,Completed,FY2023,Q4,November,2023
+DON00215,D0304,2024-02-28,48.66,Community Health,Event,0,Completed,FY2023,Q1,February,2024
+DON00216,D0467,2024-08-19,20.12,Youth Education,Event,1,Completed,FY2024,Q3,August,2024
+DON00217,D0497,2023-07-24,550.29,Women Empowerment,Online,0,Completed,FY2023,Q3,July,2023
+DON00218,D0357,2024-06-28,240.33,Community Health,Online,1,Completed,FY2023,Q2,June,2024
+DON00219,D0183,2022-02-06,489.41,Emergency Relief,Social Media,0,Completed,FY2021,Q1,February,2022
+DON00220,D0463,2023-02-28,1130.36,Digital Inclusion,Telephone,0,Completed,FY2022,Q1,February,2023
+DON00221,D0433,2024-07-19,189.07,Annual Giving,Recurring,1,Completed,FY2024,Q3,July,2024
+DON00222,D0363,2022-08-22,543.33,Women Empowerment,Recurring,1,Completed,FY2022,Q3,August,2022
+DON00223,D0151,2023-08-21,80.09,Women Empowerment,Recurring,1,Completed,FY2023,Q3,August,2023
+DON00224,D0244,2024-10-05,216.17,Annual Giving,Telephone,0,Completed,FY2024,Q4,October,2024
+DON00225,D0137,2024-03-15,210.7,Community Health,Online,0,Completed,FY2023,Q1,March,2024
+DON00226,D0274,2022-04-06,5433.58,Emergency Relief,Recurring,1,Pending,FY2021,Q2,April,2022
+DON00227,D0360,2024-10-29,55.44,Environmental Care,Event,0,Completed,FY2024,Q4,October,2024
+DON00228,D0151,2024-09-16,1094.49,Refugee Support,Recurring,1,Pending,FY2024,Q3,September,2024
+DON00229,D0128,2022-09-20,80.75,Youth Education,Recurring,1,Completed,FY2022,Q3,September,2022
+DON00230,D0003,2023-05-24,200.33,Refugee Support,Direct Mail,0,Pending,FY2022,Q2,May,2023
+DON00231,D0290,2024-11-15,9811.38,Youth Education,Online,0,Completed,FY2024,Q4,November,2024
+DON00232,D0107,2023-08-19,2711.87,Community Health,Online,0,Pending,FY2023,Q3,August,2023
+DON00233,D0082,2023-10-23,89.44,Youth Education,Event,0,Completed,FY2023,Q4,October,2023
+DON00234,D0211,2024-12-29,992.15,Refugee Support,Recurring,1,Completed,FY2024,Q4,December,2024
+DON00235,D0162,2022-10-25,280.83,Emergency Relief,Online,0,Completed,FY2022,Q4,October,2022
+DON00236,D0184,2023-05-29,55003.7,Youth Education,Social Media,0,Completed,FY2022,Q2,May,2023
+DON00237,D0211,2024-07-15,132.24,Annual Giving,Direct Mail,0,Completed,FY2024,Q3,July,2024
+DON00238,D0018,2024-03-07,25618.85,Community Health,Recurring,1,Completed,FY2023,Q1,March,2024
+DON00239,D0158,2024-03-04,161.58,Annual Giving,Telephone,0,Completed,FY2023,Q1,March,2024
+DON00240,D0435,2023-05-30,237.27,Annual Giving,Online,0,Completed,FY2022,Q2,May,2023
+DON00241,D0119,2023-02-07,566.0,Women Empowerment,Recurring,1,Completed,FY2022,Q1,February,2023
+DON00242,D0170,2022-06-02,4588.36,Youth Education,Social Media,0,Completed,FY2021,Q2,June,2022
+DON00243,D0076,2023-06-26,847.74,Annual Giving,Direct Mail,0,Completed,FY2022,Q2,June,2023
+DON00244,D0153,2022-11-14,120.34,Environmental Care,Recurring,1,Completed,FY2022,Q4,November,2022
+DON00245,D0463,2024-01-04,10387.52,Digital Inclusion,Event,0,Completed,FY2023,Q1,January,2024
+DON00246,D0162,2024-10-31,887.98,Youth Education,Event,0,Completed,FY2024,Q4,October,2024
+DON00247,D0222,2023-11-11,4183.89,Community Health,Telephone,0,Completed,FY2023,Q4,November,2023
+DON00248,D0106,2023-12-10,59932.62,Annual Giving,Online,0,Completed,FY2023,Q4,December,2023
+DON00249,D0123,2022-08-21,118.36,Women Empowerment,Direct Mail,0,Completed,FY2022,Q3,August,2022
+DON00250,D0100,2024-11-07,121.48,Women Empowerment,Event,0,Completed,FY2024,Q4,November,2024
+DON00251,D0371,2022-12-09,92.81,Emergency Relief,Social Media,1,Completed,FY2022,Q4,December,2022
+DON00252,D0003,2023-03-13,802.93,Emergency Relief,Online,1,Completed,FY2022,Q1,March,2023
+DON00253,D0089,2022-05-28,8822.32,Refugee Support,Corporate,0,Completed,FY2021,Q2,May,2022
+DON00254,D0147,2022-04-22,5433.74,Annual Giving,Online,0,Completed,FY2021,Q2,April,2022
+DON00255,D0385,2024-04-14,1029.98,Community Health,Telephone,0,Completed,FY2023,Q2,April,2024
+DON00256,D0177,2024-12-31,4632.81,Refugee Support,Recurring,1,Completed,FY2024,Q4,December,2024
+DON00257,D0073,2022-05-29,55.12,Annual Giving,Recurring,1,Completed,FY2021,Q2,May,2022
+DON00258,D0159,2023-07-31,842.45,Digital Inclusion,Corporate,0,Completed,FY2023,Q3,July,2023
+DON00259,D0368,2024-12-28,282.21,Annual Giving,Event,0,Completed,FY2024,Q4,December,2024
+DON00260,D0305,2024-02-04,917.99,Youth Education,Online,1,Completed,FY2023,Q1,February,2024
+DON00261,D0164,2024-03-18,856.55,Annual Giving,Online,0,Pending,FY2023,Q1,March,2024
+DON00262,D0347,2024-11-15,132.6,Women Empowerment,Online,0,Completed,FY2024,Q4,November,2024
+DON00263,D0124,2022-04-22,11338.99,Community Health,Online,1,Pending,FY2021,Q2,April,2022
+DON00264,D0200,2022-05-18,9845.06,Emergency Relief,Online,0,Completed,FY2021,Q2,May,2022
+DON00265,D0465,2023-04-26,590.31,Women Empowerment,Online,0,Completed,FY2022,Q2,April,2023
+DON00266,D0091,2023-09-19,927.11,Environmental Care,Direct Mail,0,Completed,FY2023,Q3,September,2023
+DON00267,D0281,2023-10-04,224.62,Refugee Support,Online,0,Completed,FY2023,Q4,October,2023
+DON00268,D0093,2023-11-11,45533.6,Women Empowerment,Online,1,Completed,FY2023,Q4,November,2023
+DON00269,D0303,2022-12-26,221.98,Environmental Care,Corporate,0,Completed,FY2022,Q4,December,2022
+DON00270,D0018,2023-02-07,2858.71,Youth Education,Telephone,0,Completed,FY2022,Q1,February,2023
+DON00271,D0130,2022-03-05,54.55,Annual Giving,Recurring,1,Completed,FY2021,Q1,March,2022
+DON00272,D0049,2023-06-18,276.92,Community Health,Telephone,0,Failed,FY2022,Q2,June,2023
+DON00273,D0126,2023-04-03,106156.33,Youth Education,Direct Mail,1,Completed,FY2022,Q2,April,2023
+DON00274,D0365,2024-10-25,2133.88,Emergency Relief,Direct Mail,0,Completed,FY2024,Q4,October,2024
+DON00275,D0035,2023-01-02,82.72,Youth Education,Direct Mail,0,Completed,FY2022,Q1,January,2023
+DON00276,D0325,2022-03-24,82.08,Environmental Care,Social Media,0,Completed,FY2021,Q1,March,2022
+DON00277,D0198,2023-02-28,452.87,Community Health,Online,0,Completed,FY2022,Q1,February,2023
+DON00278,D0416,2022-03-23,4939.35,Environmental Care,Telephone,1,Completed,FY2021,Q1,March,2022
+DON00279,D0325,2023-06-24,1053.43,Digital Inclusion,Recurring,1,Completed,FY2022,Q2,June,2023
+DON00280,D0167,2022-06-09,71.3,Refugee Support,Direct Mail,0,Completed,FY2021,Q2,June,2022
+DON00281,D0001,2023-12-08,100.65,Women Empowerment,Recurring,1,Completed,FY2023,Q4,December,2023
+DON00282,D0085,2022-10-12,577.43,Annual Giving,Event,0,Completed,FY2022,Q4,October,2022
+DON00283,D0239,2022-08-31,8846.07,Youth Education,Online,0,Completed,FY2022,Q3,August,2022
+DON00284,D0166,2024-09-08,217.62,Environmental Care,Recurring,1,Completed,FY2024,Q3,September,2024
+DON00285,D0242,2022-03-30,5294.52,Refugee Support,Online,0,Completed,FY2021,Q1,March,2022
+DON00286,D0401,2022-10-28,78.89,Annual Giving,Telephone,0,Completed,FY2022,Q4,October,2022
+DON00287,D0016,2022-02-08,75.5,Refugee Support,Corporate,1,Completed,FY2021,Q1,February,2022
+DON00288,D0363,2024-08-23,176.84,Community Health,Direct Mail,1,Completed,FY2024,Q3,August,2024
+DON00289,D0317,2024-11-12,260.08,Youth Education,Corporate,0,Completed,FY2024,Q4,November,2024
+DON00290,D0245,2024-02-29,58447.04,Emergency Relief,Online,0,Completed,FY2023,Q1,February,2024
+DON00291,D0154,2022-07-17,1143.84,Refugee Support,Recurring,1,Completed,FY2022,Q3,July,2022
+DON00292,D0156,2022-09-24,11511.01,Emergency Relief,Online,1,Completed,FY2022,Q3,September,2022
+DON00293,D0429,2024-01-29,28.97,Refugee Support,Event,1,Completed,FY2023,Q1,January,2024
+DON00294,D0482,2024-02-20,222.95,Environmental Care,Recurring,1,Completed,FY2023,Q1,February,2024
+DON00295,D0257,2023-04-22,48.51,Digital Inclusion,Event,1,Completed,FY2022,Q2,April,2023
+DON00296,D0311,2022-01-15,963.46,Community Health,Online,0,Completed,FY2021,Q1,January,2022
+DON00297,D0480,2023-10-09,23.75,Community Health,Recurring,1,Completed,FY2023,Q4,October,2023
+DON00298,D0049,2024-05-17,43.1,Digital Inclusion,Online,0,Completed,FY2023,Q2,May,2024
+DON00299,D0192,2024-09-15,275.5,Refugee Support,Corporate,0,Completed,FY2024,Q3,September,2024
+DON00300,D0193,2024-03-26,450.76,Digital Inclusion,Corporate,0,Completed,FY2023,Q1,March,2024
+DON00301,D0157,2022-11-28,54.96,Environmental Care,Recurring,1,Completed,FY2022,Q4,November,2022
+DON00302,D0197,2022-04-17,960.22,Women Empowerment,Recurring,1,Completed,FY2021,Q2,April,2022
+DON00303,D0103,2024-06-10,28.04,Youth Education,Event,0,Completed,FY2023,Q2,June,2024
+DON00304,D0115,2024-03-31,166.4,Annual Giving,Recurring,1,Completed,FY2023,Q1,March,2024
+DON00305,D0363,2022-12-25,914.59,Annual Giving,Social Media,0,Completed,FY2022,Q4,December,2022
+DON00306,D0464,2024-11-11,114.02,Digital Inclusion,Online,0,Completed,FY2024,Q4,November,2024
+DON00307,D0056,2022-01-01,80.22,Women Empowerment,Online,1,Completed,FY2021,Q1,January,2022
+DON00308,D0423,2024-04-10,166.78,Women Empowerment,Recurring,1,Completed,FY2023,Q2,April,2024
+DON00309,D0180,2023-08-06,806.15,Emergency Relief,Telephone,0,Completed,FY2023,Q3,August,2023
+DON00310,D0306,2023-02-03,187.8,Digital Inclusion,Online,0,Completed,FY2022,Q1,February,2023
+DON00311,D0312,2022-05-29,22.61,Refugee Support,Event,0,Completed,FY2021,Q2,May,2022
+DON00312,D0092,2023-05-28,560.59,Digital Inclusion,Telephone,0,Pending,FY2022,Q2,May,2023
+DON00313,D0372,2024-07-28,553.99,Women Empowerment,Social Media,0,Completed,FY2024,Q3,July,2024
+DON00314,D0268,2023-03-28,24.82,Digital Inclusion,Online,0,Completed,FY2022,Q1,March,2023
+DON00315,D0046,2022-01-20,192.99,Women Empowerment,Event,0,Completed,FY2021,Q1,January,2022
+DON00316,D0162,2023-01-01,125.58,Women Empowerment,Online,0,Completed,FY2022,Q1,January,2023
+DON00317,D0500,2023-02-13,43655.69,Community Health,Event,0,Completed,FY2022,Q1,February,2023
+DON00318,D0358,2023-12-31,132.41,Community Health,Recurring,1,Completed,FY2023,Q4,December,2023
+DON00319,D0078,2024-10-05,847.95,Emergency Relief,Recurring,1,Completed,FY2024,Q4,October,2024
+DON00320,D0298,2023-10-08,1183.2,Environmental Care,Direct Mail,0,Failed,FY2023,Q4,October,2023
+DON00321,D0277,2022-09-20,149.45,Digital Inclusion,Direct Mail,0,Completed,FY2022,Q3,September,2022
+DON00322,D0149,2024-03-17,587.93,Annual Giving,Event,1,Completed,FY2023,Q1,March,2024
+DON00323,D0181,2022-01-18,595.3,Environmental Care,Direct Mail,0,Completed,FY2021,Q1,January,2022
+DON00324,D0141,2023-06-16,8402.99,Women Empowerment,Corporate,0,Completed,FY2022,Q2,June,2023
+DON00325,D0434,2024-10-18,2471.35,Women Empowerment,Direct Mail,0,Completed,FY2024,Q4,October,2024
+DON00326,D0443,2023-01-04,9460.31,Refugee Support,Online,0,Failed,FY2022,Q1,January,2023
+DON00327,D0193,2024-06-04,112.57,Digital Inclusion,Recurring,1,Completed,FY2023,Q2,June,2024
+DON00328,D0321,2022-01-20,85.83,Youth Education,Event,0,Completed,FY2021,Q1,January,2022
+DON00329,D0443,2022-04-08,11141.33,Digital Inclusion,Online,0,Completed,FY2021,Q2,April,2022
+DON00330,D0024,2022-07-17,22.15,Digital Inclusion,Event,0,Completed,FY2022,Q3,July,2022
+DON00331,D0073,2024-04-23,188.82,Digital Inclusion,Direct Mail,0,Completed,FY2023,Q2,April,2024
+DON00332,D0274,2023-08-06,5153.71,Youth Education,Social Media,0,Completed,FY2023,Q3,August,2023
+DON00333,D0069,2024-02-20,55494.89,Environmental Care,Telephone,0,Completed,FY2023,Q1,February,2024
+DON00334,D0005,2024-04-08,86.05,Women Empowerment,Direct Mail,1,Completed,FY2023,Q2,April,2024
+DON00335,D0348,2023-08-20,70.31,Women Empowerment,Direct Mail,0,Completed,FY2023,Q3,August,2023
+DON00336,D0383,2024-01-14,227.12,Environmental Care,Recurring,1,Completed,FY2023,Q1,January,2024
+DON00337,D0244,2022-02-17,1186.21,Refugee Support,Online,0,Completed,FY2021,Q1,February,2022
+DON00338,D0320,2024-03-24,176.43,Emergency Relief,Online,0,Completed,FY2023,Q1,March,2024
+DON00339,D0276,2024-12-09,509.69,Annual Giving,Recurring,1,Completed,FY2024,Q4,December,2024
+DON00340,D0102,2024-03-09,42.08,Youth Education,Online,0,Completed,FY2023,Q1,March,2024
+DON00341,D0490,2022-12-16,146.59,Youth Education,Online,0,Completed,FY2022,Q4,December,2022
+DON00342,D0184,2023-07-12,57284.82,Environmental Care,Social Media,0,Completed,FY2023,Q3,July,2023
+DON00343,D0434,2024-06-09,25392.88,Environmental Care,Corporate,0,Completed,FY2023,Q2,June,2024
+DON00344,D0413,2022-07-03,174.54,Environmental Care,Event,0,Completed,FY2022,Q3,July,2022
+DON00345,D0092,2022-10-07,2155.72,Annual Giving,Online,0,Completed,FY2022,Q4,October,2022
+DON00346,D0075,2024-09-04,26.88,Environmental Care,Social Media,0,Completed,FY2024,Q3,September,2024
+DON00347,D0029,2023-01-22,155.82,Annual Giving,Event,0,Completed,FY2022,Q1,January,2023
+DON00348,D0130,2023-03-28,224.99,Refugee Support,Recurring,1,Completed,FY2022,Q1,March,2023
+DON00349,D0098,2024-12-25,5250.65,Digital Inclusion,Online,1,Completed,FY2024,Q4,December,2024
+DON00350,D0303,2024-07-21,43.65,Digital Inclusion,Online,0,Completed,FY2024,Q3,July,2024
+DON00351,D0362,2024-12-31,437.56,Annual Giving,Online,0,Failed,FY2024,Q4,December,2024
+DON00352,D0031,2023-04-22,136.15,Environmental Care,Recurring,1,Completed,FY2022,Q2,April,2023
+DON00353,D0095,2024-10-17,24.94,Women Empowerment,Direct Mail,1,Completed,FY2024,Q4,October,2024
+DON00354,D0099,2024-03-14,23.3,Youth Education,Online,0,Completed,FY2023,Q1,March,2024
+DON00355,D0310,2022-01-26,115.83,Digital Inclusion,Recurring,1,Completed,FY2021,Q1,January,2022
+DON00356,D0103,2022-03-10,95.39,Environmental Care,Online,0,Completed,FY2021,Q1,March,2022
+DON00357,D0389,2023-10-02,50.42,Community Health,Event,1,Completed,FY2023,Q4,October,2023
+DON00358,D0091,2023-09-04,20421.86,Emergency Relief,Online,0,Completed,FY2023,Q3,September,2023
+DON00359,D0216,2023-10-27,118.93,Community Health,Corporate,0,Completed,FY2023,Q4,October,2023
+DON00360,D0242,2022-03-28,958.32,Community Health,Online,0,Completed,FY2021,Q1,March,2022
+DON00361,D0330,2024-10-20,71.14,Emergency Relief,Online,0,Completed,FY2024,Q4,October,2024
+DON00362,D0450,2022-08-08,20600.52,Women Empowerment,Corporate,0,Completed,FY2022,Q3,August,2022
+DON00363,D0141,2024-06-17,11154.25,Women Empowerment,Recurring,1,Completed,FY2023,Q2,June,2024
+DON00364,D0491,2023-05-29,537.85,Women Empowerment,Recurring,1,Completed,FY2022,Q2,May,2023
+DON00365,D0312,2024-09-30,541.33,Digital Inclusion,Event,0,Completed,FY2024,Q3,September,2024
+DON00366,D0371,2022-11-25,185.89,Environmental Care,Online,0,Completed,FY2022,Q4,November,2022
+DON00367,D0496,2024-11-02,169.17,Women Empowerment,Event,0,Completed,FY2024,Q4,November,2024
+DON00368,D0107,2023-05-05,523.95,Women Empowerment,Recurring,1,Completed,FY2022,Q2,May,2023
+DON00369,D0299,2024-10-15,1063.32,Refugee Support,Online,0,Completed,FY2024,Q4,October,2024
+DON00370,D0207,2024-12-07,139.36,Women Empowerment,Online,0,Completed,FY2024,Q4,December,2024
+DON00371,D0335,2024-09-21,871.46,Annual Giving,Online,0,Completed,FY2024,Q3,September,2024
+DON00372,D0011,2023-03-29,53158.43,Digital Inclusion,Online,0,Completed,FY2022,Q1,March,2023
+DON00373,D0171,2022-05-05,5311.5,Emergency Relief,Event,0,Completed,FY2021,Q2,May,2022
+DON00374,D0220,2023-06-29,282.2,Annual Giving,Recurring,1,Completed,FY2022,Q2,June,2023
+DON00375,D0097,2024-11-29,56.69,Emergency Relief,Social Media,0,Completed,FY2024,Q4,November,2024
+DON00376,D0199,2023-05-25,954.13,Community Health,Event,0,Pending,FY2022,Q2,May,2023
+DON00377,D0403,2024-05-24,54922.17,Women Empowerment,Recurring,1,Completed,FY2023,Q2,May,2024
+DON00378,D0116,2022-11-20,83.77,Refugee Support,Event,0,Completed,FY2022,Q4,November,2022
+DON00379,D0349,2024-04-24,232.2,Women Empowerment,Recurring,1,Completed,FY2023,Q2,April,2024
+DON00380,D0407,2023-03-15,282.62,Women Empowerment,Corporate,0,Completed,FY2022,Q1,March,2023
+DON00381,D0315,2024-03-24,141.6,Environmental Care,Direct Mail,0,Completed,FY2023,Q1,March,2024
+DON00382,D0301,2023-09-11,155.75,Youth Education,Social Media,0,Failed,FY2023,Q3,September,2023
+DON00383,D0201,2023-07-20,5711.44,Annual Giving,Recurring,1,Completed,FY2023,Q3,July,2023
+DON00384,D0209,2024-07-31,10225.29,Youth Education,Online,0,Completed,FY2024,Q3,July,2024
+DON00385,D0432,2023-09-08,11558.5,Community Health,Online,0,Completed,FY2023,Q3,September,2023
+DON00386,D0477,2022-12-21,109.37,Women Empowerment,Recurring,1,Completed,FY2022,Q4,December,2022
+DON00387,D0231,2024-02-21,51.9,Digital Inclusion,Online,0,Completed,FY2023,Q1,February,2024
+DON00388,D0099,2022-09-04,187.83,Refugee Support,Direct Mail,1,Completed,FY2022,Q3,September,2022
+DON00389,D0049,2024-12-09,26.34,Refugee Support,Online,0,Completed,FY2024,Q4,December,2024
+DON00390,D0041,2024-03-15,4653.66,Community Health,Online,1,Completed,FY2023,Q1,March,2024
+DON00391,D0273,2024-03-18,10018.92,Community Health,Direct Mail,0,Completed,FY2023,Q1,March,2024
+DON00392,D0011,2023-06-22,51428.81,Annual Giving,Event,0,Completed,FY2022,Q2,June,2023
+DON00393,D0472,2024-09-26,82.86,Environmental Care,Corporate,0,Completed,FY2024,Q3,September,2024
+DON00394,D0457,2023-06-30,1046.4,Community Health,Online,0,Completed,FY2022,Q2,June,2023
+DON00395,D0203,2023-12-15,42.25,Refugee Support,Direct Mail,0,Completed,FY2023,Q4,December,2023
+DON00396,D0291,2024-06-24,27.7,Youth Education,Social Media,0,Completed,FY2023,Q2,June,2024
+DON00397,D0060,2022-06-25,87.99,Women Empowerment,Online,0,Completed,FY2021,Q2,June,2022
+DON00398,D0194,2022-08-16,86.06,Digital Inclusion,Online,0,Completed,FY2022,Q3,August,2022
+DON00399,D0341,2024-12-07,8836.04,Community Health,Online,0,Completed,FY2024,Q4,December,2024
+DON00400,D0033,2022-02-07,10919.69,Youth Education,Recurring,1,Completed,FY2021,Q1,February,2022
+DON00401,D0255,2023-07-10,902.18,Annual Giving,Online,0,Completed,FY2023,Q3,July,2023
+DON00402,D0489,2024-01-08,20.67,Digital Inclusion,Recurring,1,Completed,FY2023,Q1,January,2024
+DON00403,D0194,2024-02-19,22.92,Refugee Support,Online,0,Completed,FY2023,Q1,February,2024
+DON00404,D0084,2024-10-22,198.77,Emergency Relief,Online,1,Completed,FY2024,Q4,October,2024
+DON00405,D0044,2023-09-17,20214.88,Community Health,Telephone,0,Completed,FY2023,Q3,September,2023
+DON00406,D0452,2023-09-12,60.55,Women Empowerment,Direct Mail,0,Failed,FY2023,Q3,September,2023
+DON00407,D0367,2024-03-03,9103.51,Annual Giving,Corporate,1,Completed,FY2023,Q1,March,2024
+DON00408,D0472,2023-12-01,29.44,Digital Inclusion,Online,1,Completed,FY2023,Q4,December,2023
+DON00409,D0119,2022-11-09,54.6,Community Health,Direct Mail,0,Completed,FY2022,Q4,November,2022
+DON00410,D0213,2022-10-11,9796.68,Youth Education,Online,0,Completed,FY2022,Q4,October,2022
+DON00411,D0008,2024-12-08,114.5,Digital Inclusion,Recurring,1,Completed,FY2024,Q4,December,2024
+DON00412,D0049,2022-11-20,299.57,Youth Education,Recurring,1,Completed,FY2022,Q4,November,2022
+DON00413,D0440,2022-10-26,1013.18,Emergency Relief,Online,0,Completed,FY2022,Q4,October,2022
+DON00414,D0190,2023-07-15,59223.92,Digital Inclusion,Direct Mail,0,Completed,FY2023,Q3,July,2023
+DON00415,D0437,2023-04-18,65.54,Digital Inclusion,Corporate,0,Completed,FY2022,Q2,April,2023
+DON00416,D0331,2024-08-18,23.59,Environmental Care,Online,0,Completed,FY2024,Q3,August,2024
+DON00417,D0089,2023-04-09,99657.82,Youth Education,Online,0,Completed,FY2022,Q2,April,2023
+DON00418,D0375,2023-02-20,29.25,Refugee Support,Online,0,Completed,FY2022,Q1,February,2023
+DON00419,D0315,2024-07-26,573.43,Environmental Care,Recurring,1,Completed,FY2024,Q3,July,2024
+DON00420,D0497,2024-02-19,4809.73,Annual Giving,Corporate,0,Completed,FY2023,Q1,February,2024
+DON00421,D0289,2022-03-28,10082.6,Environmental Care,Event,1,Completed,FY2021,Q1,March,2022
+DON00422,D0456,2024-11-23,958.24,Annual Giving,Corporate,0,Pending,FY2024,Q4,November,2024
+DON00423,D0252,2023-08-09,91.65,Refugee Support,Telephone,0,Completed,FY2023,Q3,August,2023
+DON00424,D0017,2024-07-14,26.9,Youth Education,Event,0,Completed,FY2024,Q3,July,2024
+DON00425,D0354,2023-10-25,83.36,Youth Education,Direct Mail,0,Completed,FY2023,Q4,October,2023
+DON00426,D0457,2022-12-02,115.3,Emergency Relief,Online,0,Completed,FY2022,Q4,December,2022
+DON00427,D0366,2024-02-26,54.12,Women Empowerment,Online,0,Failed,FY2023,Q1,February,2024
+DON00428,D0222,2022-03-31,11799.02,Refugee Support,Corporate,0,Completed,FY2021,Q1,March,2022
+DON00429,D0329,2022-04-16,64.86,Youth Education,Online,0,Completed,FY2021,Q2,April,2022
+DON00430,D0493,2022-09-27,457.76,Youth Education,Online,1,Completed,FY2022,Q3,September,2022
+DON00431,D0155,2022-01-12,120.73,Environmental Care,Telephone,0,Completed,FY2021,Q1,January,2022
+DON00432,D0319,2024-06-23,25888.62,Environmental Care,Event,0,Completed,FY2023,Q2,June,2024
+DON00433,D0072,2023-03-02,115.29,Digital Inclusion,Corporate,0,Completed,FY2022,Q1,March,2023
+DON00434,D0139,2023-09-04,162.94,Annual Giving,Recurring,1,Completed,FY2023,Q3,September,2023
+DON00435,D0129,2022-11-27,40.98,Refugee Support,Social Media,0,Completed,FY2022,Q4,November,2022
+DON00436,D0343,2024-01-08,870.97,Environmental Care,Recurring,1,Pending,FY2023,Q1,January,2024
+DON00437,D0308,2024-02-16,55.37,Women Empowerment,Direct Mail,1,Completed,FY2023,Q1,February,2024
+DON00438,D0281,2023-07-17,825.97,Environmental Care,Online,0,Completed,FY2023,Q3,July,2023
+DON00439,D0101,2024-12-19,107.83,Annual Giving,Online,1,Completed,FY2024,Q4,December,2024
+DON00440,D0496,2023-12-26,145.62,Women Empowerment,Online,1,Completed,FY2023,Q4,December,2023
+DON00441,D0401,2023-01-04,503.94,Environmental Care,Event,1,Completed,FY2022,Q1,January,2023
+DON00442,D0021,2024-08-10,178.76,Annual Giving,Online,0,Completed,FY2024,Q3,August,2024
+DON00443,D0149,2023-11-15,111.98,Refugee Support,Direct Mail,0,Completed,FY2023,Q4,November,2023
+DON00444,D0249,2023-06-06,20112.97,Community Health,Recurring,1,Completed,FY2022,Q2,June,2023
+DON00445,D0293,2022-08-22,138.02,Women Empowerment,Recurring,1,Completed,FY2022,Q3,August,2022
+DON00446,D0055,2023-02-02,9584.2,Annual Giving,Recurring,1,Completed,FY2022,Q1,February,2023
+DON00447,D0421,2022-03-14,233.78,Environmental Care,Telephone,0,Completed,FY2021,Q1,March,2022
+DON00448,D0347,2024-04-27,578.41,Women Empowerment,Event,1,Completed,FY2023,Q2,April,2024
+DON00449,D0231,2022-02-08,919.74,Women Empowerment,Corporate,0,Completed,FY2021,Q1,February,2022
+DON00450,D0455,2022-03-05,165.3,Youth Education,Online,0,Completed,FY2021,Q1,March,2022
+DON00451,D0367,2022-08-28,11369.62,Refugee Support,Online,1,Completed,FY2022,Q3,August,2022
+DON00452,D0477,2024-10-14,216.79,Digital Inclusion,Direct Mail,1,Completed,FY2024,Q4,October,2024
+DON00453,D0430,2024-02-06,132.97,Digital Inclusion,Online,0,Completed,FY2023,Q1,February,2024
+DON00454,D0200,2024-10-21,488.75,Annual Giving,Recurring,1,Completed,FY2024,Q4,October,2024
+DON00455,D0056,2022-10-21,233.89,Digital Inclusion,Recurring,1,Completed,FY2022,Q4,October,2022
+DON00456,D0400,2022-03-16,11288.55,Youth Education,Online,0,Completed,FY2021,Q1,March,2022
+DON00457,D0066,2022-06-28,846.33,Digital Inclusion,Social Media,0,Completed,FY2021,Q2,June,2022
+DON00458,D0130,2023-10-02,50.41,Digital Inclusion,Online,0,Completed,FY2023,Q4,October,2023
+DON00459,D0436,2024-06-22,877.02,Digital Inclusion,Event,0,Completed,FY2023,Q2,June,2024
+DON00460,D0105,2024-11-18,68.21,Annual Giving,Social Media,0,Completed,FY2024,Q4,November,2024
+DON00461,D0044,2023-08-04,9273.94,Youth Education,Social Media,0,Completed,FY2023,Q3,August,2023
+DON00462,D0296,2022-04-14,156.8,Women Empowerment,Event,0,Completed,FY2021,Q2,April,2022
+DON00463,D0407,2024-03-13,21.06,Annual Giving,Online,0,Completed,FY2023,Q1,March,2024
+DON00464,D0385,2023-02-10,52326.31,Digital Inclusion,Direct Mail,0,Completed,FY2022,Q1,February,2023
+DON00465,D0284,2022-07-10,831.42,Environmental Care,Corporate,1,Completed,FY2022,Q3,July,2022
+DON00466,D0347,2024-08-11,419.45,Digital Inclusion,Recurring,1,Completed,FY2024,Q3,August,2024
+DON00467,D0023,2024-03-13,85.75,Digital Inclusion,Telephone,0,Completed,FY2023,Q1,March,2024
+DON00468,D0137,2022-03-03,223.1,Women Empowerment,Event,0,Completed,FY2021,Q1,March,2022
+DON00469,D0181,2023-12-15,492.25,Youth Education,Online,0,Completed,FY2023,Q4,December,2023
+DON00470,D0296,2022-05-26,48.11,Emergency Relief,Direct Mail,0,Completed,FY2021,Q2,May,2022
+DON00471,D0242,2022-11-22,51810.72,Community Health,Corporate,1,Completed,FY2022,Q4,November,2022
+DON00472,D0433,2024-06-10,176.66,Refugee Support,Recurring,1,Completed,FY2023,Q2,June,2024
+DON00473,D0443,2022-06-09,10178.11,Community Health,Online,0,Completed,FY2021,Q2,June,2022
+DON00474,D0100,2022-07-19,422.86,Environmental Care,Direct Mail,1,Completed,FY2022,Q3,July,2022
+DON00475,D0151,2024-02-16,206.96,Emergency Relief,Recurring,1,Completed,FY2023,Q1,February,2024
+DON00476,D0306,2022-01-01,20.91,Youth Education,Telephone,0,Completed,FY2021,Q1,January,2022
+DON00477,D0358,2024-07-04,506.25,Refugee Support,Corporate,0,Completed,FY2024,Q3,July,2024
+DON00478,D0001,2024-06-09,183.98,Digital Inclusion,Telephone,0,Completed,FY2023,Q2,June,2024
+DON00479,D0472,2023-08-26,51.65,Refugee Support,Recurring,1,Completed,FY2023,Q3,August,2023
+DON00480,D0288,2024-01-06,1187.16,Annual Giving,Recurring,1,Completed,FY2023,Q1,January,2024
+DON00481,D0435,2024-03-18,171.94,Community Health,Direct Mail,0,Completed,FY2023,Q1,March,2024
+DON00482,D0318,2024-08-30,238.16,Community Health,Recurring,1,Completed,FY2024,Q3,August,2024
+DON00483,D0176,2022-11-12,953.84,Women Empowerment,Recurring,1,Completed,FY2022,Q4,November,2022
+DON00484,D0126,2022-10-22,21342.77,Emergency Relief,Corporate,0,Completed,FY2022,Q4,October,2022
+DON00485,D0196,2024-05-01,297.5,Youth Education,Online,1,Completed,FY2023,Q2,May,2024
+DON00486,D0226,2024-07-10,262.32,Environmental Care,Event,0,Completed,FY2024,Q3,July,2024
+DON00487,D0083,2023-04-30,260.46,Environmental Care,Recurring,1,Completed,FY2022,Q2,April,2023
+DON00488,D0398,2022-03-19,144.65,Women Empowerment,Online,0,Completed,FY2021,Q1,March,2022
+DON00489,D0337,2024-12-14,51.61,Emergency Relief,Online,1,Failed,FY2024,Q4,December,2024
+DON00490,D0110,2022-07-01,9859.75,Emergency Relief,Event,0,Completed,FY2022,Q3,July,2022
+DON00491,D0096,2023-12-05,53.68,Digital Inclusion,Corporate,0,Completed,FY2023,Q4,December,2023
+DON00492,D0313,2023-11-10,502.53,Environmental Care,Corporate,0,Pending,FY2023,Q4,November,2023
+DON00493,D0054,2023-09-15,137.35,Annual Giving,Recurring,1,Completed,FY2023,Q3,September,2023
+DON00494,D0066,2022-04-16,123.69,Environmental Care,Corporate,0,Completed,FY2021,Q2,April,2022
+DON00495,D0141,2022-09-17,26243.17,Digital Inclusion,Event,0,Completed,FY2022,Q3,September,2022
+DON00496,D0144,2023-06-11,9008.2,Digital Inclusion,Online,0,Completed,FY2022,Q2,June,2023
+DON00497,D0276,2024-01-28,87.3,Youth Education,Recurring,1,Completed,FY2023,Q1,January,2024
+DON00498,D0448,2024-12-16,55650.55,Community Health,Event,1,Completed,FY2024,Q4,December,2024
+DON00499,D0154,2024-04-25,59.35,Youth Education,Recurring,1,Completed,FY2023,Q2,April,2024
+DON00500,D0014,2023-12-08,1064.27,Youth Education,Online,0,Completed,FY2023,Q4,December,2023
+DON00501,D0115,2023-09-10,41.05,Environmental Care,Direct Mail,0,Pending,FY2023,Q3,September,2023
+DON00502,D0322,2022-10-25,893.46,Refugee Support,Event,0,Completed,FY2022,Q4,October,2022
+DON00503,D0120,2023-10-09,175.63,Environmental Care,Direct Mail,1,Completed,FY2023,Q4,October,2023
+DON00504,D0378,2024-06-03,20.97,Women Empowerment,Social Media,0,Completed,FY2023,Q2,June,2024
+DON00505,D0372,2023-06-07,140.1,Digital Inclusion,Recurring,1,Completed,FY2022,Q2,June,2023
+DON00506,D0062,2023-02-04,246.11,Community Health,Recurring,1,Completed,FY2022,Q1,February,2023
+DON00507,D0118,2022-01-22,26902.78,Youth Education,Direct Mail,0,Completed,FY2021,Q1,January,2022
+DON00508,D0350,2023-12-21,24.11,Emergency Relief,Recurring,1,Completed,FY2023,Q4,December,2023
+DON00509,D0097,2022-07-08,135.11,Annual Giving,Online,0,Completed,FY2022,Q3,July,2022
+DON00510,D0219,2022-09-03,118.02,Emergency Relief,Recurring,1,Completed,FY2022,Q3,September,2022
+DON00511,D0083,2023-01-13,71.28,Youth Education,Telephone,0,Completed,FY2022,Q1,January,2023
+DON00512,D0269,2023-10-25,52.78,Digital Inclusion,Recurring,1,Completed,FY2023,Q4,October,2023
+DON00513,D0189,2023-11-13,45.55,Annual Giving,Direct Mail,1,Completed,FY2023,Q4,November,2023
+DON00514,D0280,2023-02-15,130.68,Emergency Relief,Event,0,Completed,FY2022,Q1,February,2023
+DON00515,D0215,2022-08-06,421.69,Refugee Support,Online,1,Completed,FY2022,Q3,August,2022
+DON00516,D0221,2023-05-29,40.7,Emergency Relief,Corporate,0,Completed,FY2022,Q2,May,2023
+DON00517,D0237,2024-03-10,429.77,Annual Giving,Social Media,0,Completed,FY2023,Q1,March,2024
+DON00518,D0458,2024-04-07,257.46,Environmental Care,Event,1,Completed,FY2023,Q2,April,2024
+DON00519,D0172,2024-09-14,50.8,Annual Giving,Direct Mail,0,Completed,FY2024,Q3,September,2024
+DON00520,D0299,2022-07-05,9333.76,Digital Inclusion,Direct Mail,0,Completed,FY2022,Q3,July,2022
+DON00521,D0442,2023-08-17,166.44,Environmental Care,Recurring,1,Completed,FY2023,Q3,August,2023
+DON00522,D0212,2023-09-05,76.63,Refugee Support,Recurring,1,Completed,FY2023,Q3,September,2023
+DON00523,D0456,2024-06-15,52.61,Women Empowerment,Event,0,Completed,FY2023,Q2,June,2024
+DON00524,D0116,2022-05-10,81.01,Community Health,Event,0,Completed,FY2021,Q2,May,2022
+DON00525,D0316,2022-02-03,50678.8,Environmental Care,Social Media,0,Completed,FY2021,Q1,February,2022
+DON00526,D0358,2024-12-07,24.06,Community Health,Recurring,1,Completed,FY2024,Q4,December,2024
+DON00527,D0437,2022-03-17,859.58,Community Health,Telephone,0,Completed,FY2021,Q1,March,2022
+DON00528,D0361,2022-09-25,988.49,Annual Giving,Online,0,Completed,FY2022,Q3,September,2022
+DON00529,D0293,2022-12-16,169.24,Emergency Relief,Event,1,Completed,FY2022,Q4,December,2022
+DON00530,D0324,2023-02-20,422.84,Community Health,Online,0,Completed,FY2022,Q1,February,2023
+DON00531,D0046,2023-03-13,232.42,Youth Education,Direct Mail,0,Completed,FY2022,Q1,March,2023
+DON00532,D0145,2024-04-30,8252.89,Digital Inclusion,Online,0,Completed,FY2023,Q2,April,2024
+DON00533,D0484,2024-02-10,73.16,Annual Giving,Online,0,Completed,FY2023,Q1,February,2024
+DON00534,D0456,2022-07-02,416.14,Annual Giving,Online,0,Completed,FY2022,Q3,July,2022
+DON00535,D0108,2023-02-27,48324.44,Environmental Care,Recurring,1,Completed,FY2022,Q1,February,2023
+DON00536,D0403,2022-12-24,10092.35,Refugee Support,Online,0,Completed,FY2022,Q4,December,2022
+DON00537,D0029,2023-09-09,81.52,Emergency Relief,Corporate,0,Completed,FY2023,Q3,September,2023
+DON00538,D0342,2024-11-05,87.68,Emergency Relief,Corporate,0,Completed,FY2024,Q4,November,2024
+DON00539,D0088,2022-11-02,91.06,Community Health,Online,0,Pending,FY2022,Q4,November,2022
+DON00540,D0055,2022-03-30,49950.3,Youth Education,Recurring,1,Completed,FY2021,Q1,March,2022
+DON00541,D0499,2024-07-17,182.81,Refugee Support,Online,0,Completed,FY2024,Q3,July,2024
+DON00542,D0237,2022-08-26,870.36,Annual Giving,Event,0,Completed,FY2022,Q3,August,2022
+DON00543,D0493,2023-10-30,518.54,Women Empowerment,Direct Mail,0,Completed,FY2023,Q4,October,2023
+DON00544,D0405,2024-02-09,83.92,Refugee Support,Telephone,1,Completed,FY2023,Q1,February,2024
+DON00545,D0140,2024-07-20,41086.79,Refugee Support,Online,0,Completed,FY2024,Q3,July,2024
+DON00546,D0268,2023-02-19,543.96,Women Empowerment,Social Media,0,Completed,FY2022,Q1,February,2023
+DON00547,D0064,2024-07-28,22.81,Emergency Relief,Telephone,0,Completed,FY2024,Q3,July,2024
+DON00548,D0102,2022-12-15,115.46,Youth Education,Recurring,1,Completed,FY2022,Q4,December,2022
+DON00549,D0389,2024-12-04,1142.0,Emergency Relief,Direct Mail,0,Failed,FY2024,Q4,December,2024
+DON00550,D0217,2024-05-26,567.4,Digital Inclusion,Online,0,Completed,FY2023,Q2,May,2024
+DON00551,D0026,2022-11-02,194.74,Community Health,Telephone,1,Completed,FY2022,Q4,November,2022
+DON00552,D0182,2024-10-29,298.02,Annual Giving,Social Media,0,Completed,FY2024,Q4,October,2024
+DON00553,D0298,2023-05-08,561.94,Emergency Relief,Event,0,Completed,FY2022,Q2,May,2023
+DON00554,D0029,2023-05-05,294.99,Youth Education,Direct Mail,0,Completed,FY2022,Q2,May,2023
+DON00555,D0176,2022-02-19,533.81,Youth Education,Recurring,1,Failed,FY2021,Q1,February,2022
+DON00556,D0351,2024-01-29,554.37,Refugee Support,Online,0,Completed,FY2023,Q1,January,2024
+DON00557,D0321,2023-11-13,28.6,Emergency Relief,Direct Mail,0,Completed,FY2023,Q4,November,2023
+DON00558,D0078,2022-06-15,10792.22,Community Health,Recurring,1,Completed,FY2021,Q2,June,2022
+DON00559,D0349,2024-01-16,218.86,Annual Giving,Event,1,Completed,FY2023,Q1,January,2024
+DON00560,D0406,2022-12-25,197.23,Annual Giving,Direct Mail,0,Completed,FY2022,Q4,December,2022
+DON00561,D0315,2023-11-17,1083.73,Community Health,Online,0,Completed,FY2023,Q4,November,2023
+DON00562,D0087,2023-04-07,109495.2,Community Health,Recurring,1,Completed,FY2022,Q2,April,2023
+DON00563,D0478,2022-05-10,50071.32,Refugee Support,Online,0,Completed,FY2021,Q2,May,2022
+DON00564,D0427,2024-01-24,9880.66,Digital Inclusion,Event,0,Pending,FY2023,Q1,January,2024
+DON00565,D0229,2024-03-11,437.67,Environmental Care,Online,1,Completed,FY2023,Q1,March,2024
+DON00566,D0196,2022-10-31,42.19,Digital Inclusion,Online,0,Completed,FY2022,Q4,October,2022
+DON00567,D0221,2022-09-28,1180.84,Annual Giving,Online,0,Completed,FY2022,Q3,September,2022
+DON00568,D0334,2023-04-21,22.92,Emergency Relief,Online,1,Completed,FY2022,Q2,April,2023
+DON00569,D0400,2023-10-31,48233.83,Women Empowerment,Recurring,1,Completed,FY2023,Q4,October,2023
+DON00570,D0056,2022-09-28,1136.76,Environmental Care,Event,1,Completed,FY2022,Q3,September,2022
+DON00571,D0268,2022-04-07,133.61,Women Empowerment,Social Media,0,Completed,FY2021,Q2,April,2022
+DON00572,D0367,2023-08-08,1047.45,Youth Education,Recurring,1,Completed,FY2023,Q3,August,2023
+DON00573,D0299,2022-08-28,5678.66,Youth Education,Online,0,Completed,FY2022,Q3,August,2022
+DON00574,D0117,2022-03-13,73.23,Women Empowerment,Online,0,Failed,FY2021,Q1,March,2022
+DON00575,D0374,2022-09-06,949.17,Youth Education,Event,1,Completed,FY2022,Q3,September,2022
+DON00576,D0483,2022-11-16,553.7,Environmental Care,Telephone,0,Completed,FY2022,Q4,November,2022
+DON00577,D0362,2023-08-17,932.51,Digital Inclusion,Event,1,Completed,FY2023,Q3,August,2023
+DON00578,D0340,2022-08-19,83.99,Environmental Care,Direct Mail,0,Completed,FY2022,Q3,August,2022
+DON00579,D0448,2024-04-02,26780.08,Emergency Relief,Direct Mail,0,Completed,FY2023,Q2,April,2024
+DON00580,D0464,2023-02-04,167.4,Annual Giving,Corporate,0,Completed,FY2022,Q1,February,2023
+DON00581,D0058,2024-07-01,131.74,Emergency Relief,Event,0,Pending,FY2024,Q3,July,2024
+DON00582,D0066,2024-11-13,957.77,Environmental Care,Direct Mail,1,Completed,FY2024,Q4,November,2024
+DON00583,D0277,2024-02-03,191.8,Refugee Support,Direct Mail,0,Completed,FY2023,Q1,February,2024
+DON00584,D0255,2024-06-28,11910.09,Emergency Relief,Online,0,Completed,FY2023,Q2,June,2024
+DON00585,D0441,2024-04-28,45772.68,Refugee Support,Recurring,1,Completed,FY2023,Q2,April,2024
+DON00586,D0425,2024-12-11,42.87,Digital Inclusion,Event,1,Completed,FY2024,Q4,December,2024
+DON00587,D0347,2023-07-14,208.84,Refugee Support,Corporate,0,Completed,FY2023,Q3,July,2023
+DON00588,D0346,2024-10-01,65.98,Refugee Support,Online,0,Completed,FY2024,Q4,October,2024
+DON00589,D0339,2022-01-06,149.65,Environmental Care,Online,0,Completed,FY2021,Q1,January,2022
+DON00590,D0471,2024-10-04,424.84,Digital Inclusion,Direct Mail,1,Completed,FY2024,Q4,October,2024
+DON00591,D0260,2022-05-17,21.19,Digital Inclusion,Event,0,Completed,FY2021,Q2,May,2022
+DON00592,D0043,2024-09-01,513.11,Digital Inclusion,Corporate,1,Completed,FY2024,Q3,September,2024
+DON00593,D0032,2022-11-30,201.0,Annual Giving,Recurring,1,Completed,FY2022,Q4,November,2022
+DON00594,D0475,2022-04-19,4639.36,Youth Education,Direct Mail,0,Completed,FY2021,Q2,April,2022
+DON00595,D0259,2022-06-07,163.9,Digital Inclusion,Event,0,Completed,FY2021,Q2,June,2022
+DON00596,D0410,2023-10-10,82.94,Youth Education,Event,1,Completed,FY2023,Q4,October,2023
+DON00597,D0108,2023-12-22,45429.18,Women Empowerment,Online,1,Completed,FY2023,Q4,December,2023
+DON00598,D0374,2022-11-30,9125.67,Environmental Care,Direct Mail,0,Completed,FY2022,Q4,November,2022
+DON00599,D0154,2022-06-06,113.26,Emergency Relief,Direct Mail,0,Completed,FY2021,Q2,June,2022
+DON00600,D0323,2022-10-12,24.8,Digital Inclusion,Recurring,1,Completed,FY2022,Q4,October,2022
+DON00601,D0316,2022-08-31,8688.83,Digital Inclusion,Online,0,Completed,FY2022,Q3,August,2022
+DON00602,D0414,2022-09-24,80.64,Digital Inclusion,Online,1,Completed,FY2022,Q3,September,2022
+DON00603,D0062,2022-03-29,41.55,Environmental Care,Recurring,1,Completed,FY2021,Q1,March,2022
+DON00604,D0157,2023-06-03,27.93,Annual Giving,Event,0,Completed,FY2022,Q2,June,2023
+DON00605,D0358,2023-02-25,27.55,Emergency Relief,Telephone,0,Completed,FY2022,Q1,February,2023
+DON00606,D0214,2023-07-23,162.34,Youth Education,Recurring,1,Pending,FY2023,Q3,July,2023
+DON00607,D0099,2022-05-20,188.18,Community Health,Event,0,Completed,FY2021,Q2,May,2022
+DON00608,D0180,2022-12-18,25.29,Community Health,Social Media,1,Completed,FY2022,Q4,December,2022
+DON00609,D0019,2023-01-15,1169.69,Environmental Care,Direct Mail,0,Pending,FY2022,Q1,January,2023
+DON00610,D0235,2024-11-19,85.04,Refugee Support,Direct Mail,0,Completed,FY2024,Q4,November,2024
+DON00611,D0238,2024-10-12,169.89,Emergency Relief,Event,0,Completed,FY2024,Q4,October,2024
+DON00612,D0221,2022-08-25,1088.85,Emergency Relief,Direct Mail,0,Completed,FY2022,Q3,August,2022
+DON00613,D0321,2024-04-14,161.22,Environmental Care,Online,0,Completed,FY2023,Q2,April,2024
+DON00614,D0463,2024-01-23,5713.55,Environmental Care,Social Media,0,Failed,FY2023,Q1,January,2024
+DON00615,D0205,2022-06-24,534.42,Refugee Support,Direct Mail,0,Completed,FY2021,Q2,June,2022
+DON00616,D0263,2023-02-12,54.83,Youth Education,Online,0,Completed,FY2022,Q1,February,2023
+DON00617,D0053,2023-07-25,212.28,Refugee Support,Recurring,1,Completed,FY2023,Q3,July,2023
+DON00618,D0275,2024-04-08,165.38,Refugee Support,Direct Mail,1,Completed,FY2023,Q2,April,2024
+DON00619,D0101,2024-09-29,83.04,Emergency Relief,Online,0,Completed,FY2024,Q3,September,2024
+DON00620,D0174,2024-10-17,60.89,Annual Giving,Recurring,1,Completed,FY2024,Q4,October,2024
+DON00621,D0359,2022-07-17,71.48,Women Empowerment,Online,0,Completed,FY2022,Q3,July,2022
+DON00622,D0062,2024-10-16,1107.03,Environmental Care,Online,0,Completed,FY2024,Q4,October,2024
+DON00623,D0432,2022-03-06,11237.93,Annual Giving,Social Media,1,Completed,FY2021,Q1,March,2022
+DON00624,D0298,2024-06-25,47.67,Women Empowerment,Telephone,0,Completed,FY2023,Q2,June,2024
+DON00625,D0116,2022-12-03,1063.76,Digital Inclusion,Telephone,0,Completed,FY2022,Q4,December,2022
+DON00626,D0453,2024-10-01,248.75,Emergency Relief,Corporate,0,Completed,FY2024,Q4,October,2024
+DON00627,D0371,2024-03-12,495.18,Youth Education,Event,0,Completed,FY2023,Q1,March,2024
+DON00628,D0003,2023-08-06,261.69,Women Empowerment,Recurring,1,Completed,FY2023,Q3,August,2023
+DON00629,D0069,2023-12-16,1036.19,Youth Education,Recurring,1,Completed,FY2023,Q4,December,2023
+DON00630,D0165,2024-05-26,1106.08,Women Empowerment,Direct Mail,0,Completed,FY2023,Q2,May,2024
+DON00631,D0424,2023-10-02,164.52,Community Health,Online,0,Completed,FY2023,Q4,October,2023
+DON00632,D0114,2022-02-10,57.38,Emergency Relief,Direct Mail,0,Completed,FY2021,Q1,February,2022
+DON00633,D0359,2024-08-19,256.8,Refugee Support,Online,0,Failed,FY2024,Q3,August,2024
+DON00634,D0418,2024-09-27,102814.14,Women Empowerment,Corporate,0,Completed,FY2024,Q3,September,2024
+DON00635,D0135,2023-09-06,199.74,Women Empowerment,Online,0,Completed,FY2023,Q3,September,2023
+DON00636,D0307,2023-03-15,527.09,Emergency Relief,Recurring,1,Completed,FY2022,Q1,March,2023
+DON00637,D0369,2022-07-08,22.97,Refugee Support,Recurring,1,Completed,FY2022,Q3,July,2022
+DON00638,D0269,2024-12-23,51.84,Digital Inclusion,Online,0,Completed,FY2024,Q4,December,2024
+DON00639,D0475,2023-09-07,1060.61,Digital Inclusion,Event,0,Completed,FY2023,Q3,September,2023
+DON00640,D0046,2024-07-17,96.57,Digital Inclusion,Corporate,0,Completed,FY2024,Q3,July,2024
+DON00641,D0459,2023-03-13,1051.14,Youth Education,Corporate,0,Completed,FY2022,Q1,March,2023
+DON00642,D0037,2022-05-03,453.59,Refugee Support,Social Media,0,Completed,FY2021,Q2,May,2022
+DON00643,D0284,2024-04-20,67.21,Digital Inclusion,Recurring,1,Completed,FY2023,Q2,April,2024
+DON00644,D0019,2023-08-11,1053.57,Refugee Support,Online,0,Completed,FY2023,Q3,August,2023
+DON00645,D0329,2022-02-26,96.23,Emergency Relief,Online,0,Completed,FY2021,Q1,February,2022
+DON00646,D0200,2022-03-17,4970.76,Refugee Support,Direct Mail,0,Completed,FY2021,Q1,March,2022
+DON00647,D0076,2022-12-27,22.58,Digital Inclusion,Recurring,1,Completed,FY2022,Q4,December,2022
+DON00648,D0455,2022-04-24,29.64,Environmental Care,Recurring,1,Completed,FY2021,Q2,April,2022
+DON00649,D0141,2024-04-13,462.78,Digital Inclusion,Telephone,1,Completed,FY2023,Q2,April,2024
+DON00650,D0122,2024-10-21,47.94,Youth Education,Online,1,Completed,FY2024,Q4,October,2024
+DON00651,D0164,2022-09-08,900.72,Emergency Relief,Online,0,Completed,FY2022,Q3,September,2022
+DON00652,D0420,2023-03-23,112233.66,Community Health,Social Media,0,Completed,FY2022,Q1,March,2023
+DON00653,D0203,2022-04-25,146.37,Digital Inclusion,Telephone,0,Completed,FY2021,Q2,April,2022
+DON00654,D0343,2023-05-20,46.33,Refugee Support,Event,1,Completed,FY2022,Q2,May,2023
+DON00655,D0377,2022-02-13,70.89,Women Empowerment,Recurring,1,Completed,FY2021,Q1,February,2022
+DON00656,D0152,2023-05-06,11365.89,Annual Giving,Recurring,1,Completed,FY2022,Q2,May,2023
+DON00657,D0063,2022-09-07,230.93,Women Empowerment,Telephone,0,Completed,FY2022,Q3,September,2022
+DON00658,D0410,2023-06-08,477.69,Refugee Support,Telephone,0,Pending,FY2022,Q2,June,2023
+DON00659,D0241,2023-10-12,22974.23,Youth Education,Telephone,1,Completed,FY2023,Q4,October,2023
+DON00660,D0188,2024-10-03,278.93,Digital Inclusion,Telephone,0,Completed,FY2024,Q4,October,2024
+DON00661,D0304,2023-06-19,217.39,Emergency Relief,Recurring,1,Completed,FY2022,Q2,June,2023
+DON00662,D0063,2022-02-26,193.67,Women Empowerment,Event,0,Completed,FY2021,Q1,February,2022
+DON00663,D0429,2023-02-14,78.9,Youth Education,Online,0,Completed,FY2022,Q1,February,2023
+DON00664,D0055,2022-09-24,844.33,Community Health,Event,1,Completed,FY2022,Q3,September,2022
+DON00665,D0307,2023-11-02,196.12,Youth Education,Online,0,Completed,FY2023,Q4,November,2023
+DON00666,D0414,2023-04-05,236.76,Refugee Support,Telephone,0,Completed,FY2022,Q2,April,2023
+DON00667,D0119,2024-08-05,1058.84,Community Health,Telephone,0,Completed,FY2024,Q3,August,2024
+DON00668,D0156,2022-11-02,20497.83,Refugee Support,Corporate,0,Completed,FY2022,Q4,November,2022
+DON00669,D0484,2024-07-18,40.28,Refugee Support,Recurring,1,Completed,FY2024,Q3,July,2024
+DON00670,D0388,2023-06-30,42370.25,Community Health,Online,0,Completed,FY2022,Q2,June,2023
+DON00671,D0272,2023-08-03,72.94,Community Health,Corporate,0,Completed,FY2023,Q3,August,2023
+DON00672,D0434,2023-06-21,963.41,Youth Education,Online,0,Completed,FY2022,Q2,June,2023
+DON00673,D0195,2024-08-18,947.86,Environmental Care,Online,0,Completed,FY2024,Q3,August,2024
+DON00674,D0343,2023-06-09,268.69,Refugee Support,Recurring,1,Completed,FY2022,Q2,June,2023
+DON00675,D0208,2024-08-22,823.5,Women Empowerment,Social Media,1,Failed,FY2024,Q3,August,2024
+DON00676,D0493,2024-03-19,20.05,Refugee Support,Direct Mail,0,Completed,FY2023,Q1,March,2024
+DON00677,D0351,2024-10-28,816.45,Youth Education,Online,0,Completed,FY2024,Q4,October,2024
+DON00678,D0229,2024-06-05,4263.84,Women Empowerment,Recurring,1,Completed,FY2023,Q2,June,2024
+DON00679,D0397,2023-07-30,46.27,Youth Education,Event,0,Pending,FY2023,Q3,July,2023
+DON00680,D0131,2023-06-25,174.17,Digital Inclusion,Corporate,0,Completed,FY2022,Q2,June,2023
+DON00681,D0347,2022-11-06,69.47,Environmental Care,Recurring,1,Completed,FY2022,Q4,November,2022
+DON00682,D0119,2023-01-11,410.64,Youth Education,Online,0,Completed,FY2022,Q1,January,2023
+DON00683,D0410,2024-01-01,487.29,Environmental Care,Online,1,Completed,FY2023,Q1,January,2024
+DON00684,D0086,2022-07-11,99719.54,Youth Education,Online,0,Completed,FY2022,Q3,July,2022
+DON00685,D0393,2023-03-11,82.5,Digital Inclusion,Corporate,0,Failed,FY2022,Q1,March,2023
+DON00686,D0121,2022-06-07,1106.74,Youth Education,Direct Mail,0,Completed,FY2021,Q2,June,2022
+DON00687,D0011,2022-09-07,1154.95,Annual Giving,Online,0,Completed,FY2022,Q3,September,2022
+DON00688,D0191,2024-07-31,567.4,Youth Education,Online,1,Completed,FY2024,Q3,July,2024
+DON00689,D0185,2022-01-12,525.67,Digital Inclusion,Corporate,0,Completed,FY2021,Q1,January,2022
+DON00690,D0488,2022-04-10,464.98,Youth Education,Online,1,Completed,FY2021,Q2,April,2022
+DON00691,D0038,2023-06-07,27.44,Refugee Support,Online,0,Pending,FY2022,Q2,June,2023
+DON00692,D0049,2024-04-04,208.92,Community Health,Online,0,Completed,FY2023,Q2,April,2024
+DON00693,D0455,2023-09-28,63.62,Environmental Care,Recurring,1,Completed,FY2023,Q3,September,2023
+DON00694,D0376,2024-11-15,70.77,Emergency Relief,Recurring,1,Completed,FY2024,Q4,November,2024
+DON00695,D0492,2024-05-16,577.08,Environmental Care,Online,0,Completed,FY2023,Q2,May,2024
+DON00696,D0177,2022-07-10,2613.87,Refugee Support,Corporate,0,Completed,FY2022,Q3,July,2022
+DON00697,D0296,2024-12-15,535.29,Youth Education,Social Media,0,Completed,FY2024,Q4,December,2024
+DON00698,D0446,2024-09-05,9872.88,Emergency Relief,Telephone,0,Failed,FY2024,Q3,September,2024
+DON00699,D0392,2022-04-08,170.49,Refugee Support,Online,0,Completed,FY2021,Q2,April,2022
+DON00700,D0120,2024-08-09,843.05,Refugee Support,Direct Mail,0,Completed,FY2024,Q3,August,2024
+DON00701,D0322,2022-02-03,141.33,Emergency Relief,Recurring,1,Completed,FY2021,Q1,February,2022
+DON00702,D0393,2022-04-03,435.91,Youth Education,Recurring,1,Completed,FY2021,Q2,April,2022
+DON00703,D0061,2024-07-10,138.84,Environmental Care,Recurring,1,Completed,FY2024,Q3,July,2024
+DON00704,D0018,2022-06-10,2341.33,Youth Education,Online,0,Completed,FY2021,Q2,June,2022
+DON00705,D0117,2022-08-27,48.68,Annual Giving,Online,0,Completed,FY2022,Q3,August,2022
+DON00706,D0490,2024-01-09,538.36,Environmental Care,Direct Mail,0,Pending,FY2023,Q1,January,2024
+DON00707,D0214,2022-01-29,280.46,Emergency Relief,Online,0,Completed,FY2021,Q1,January,2022
+DON00708,D0015,2022-10-25,28590.12,Community Health,Event,0,Completed,FY2022,Q4,October,2022
+DON00709,D0363,2022-10-31,876.37,Digital Inclusion,Recurring,1,Completed,FY2022,Q4,October,2022
+DON00710,D0436,2024-06-30,423.29,Youth Education,Recurring,1,Pending,FY2023,Q2,June,2024
+DON00711,D0158,2023-02-17,403.93,Environmental Care,Corporate,0,Completed,FY2022,Q1,February,2023
+DON00712,D0315,2024-06-03,205.09,Annual Giving,Online,1,Completed,FY2023,Q2,June,2024
+DON00713,D0118,2024-03-29,25786.61,Digital Inclusion,Online,0,Completed,FY2023,Q1,March,2024
+DON00714,D0483,2024-05-14,446.38,Annual Giving,Event,0,Completed,FY2023,Q2,May,2024
+DON00715,D0458,2022-08-28,173.57,Refugee Support,Telephone,0,Pending,FY2022,Q3,August,2022
+DON00716,D0157,2023-08-13,195.87,Refugee Support,Online,0,Completed,FY2023,Q3,August,2023
+DON00717,D0368,2023-11-26,446.42,Community Health,Corporate,1,Completed,FY2023,Q4,November,2023
+DON00718,D0121,2024-03-10,426.23,Digital Inclusion,Recurring,1,Pending,FY2023,Q1,March,2024
+DON00719,D0073,2023-08-02,223.68,Youth Education,Corporate,0,Completed,FY2023,Q3,August,2023
+DON00720,D0374,2024-10-04,4258.19,Community Health,Online,0,Completed,FY2024,Q4,October,2024
+DON00721,D0283,2022-02-07,460.73,Community Health,Corporate,0,Completed,FY2021,Q1,February,2022
+DON00722,D0365,2023-11-23,21586.05,Annual Giving,Recurring,1,Completed,FY2023,Q4,November,2023
+DON00723,D0126,2023-11-28,21206.88,Community Health,Event,0,Completed,FY2023,Q4,November,2023
+DON00724,D0239,2024-06-15,11585.27,Emergency Relief,Recurring,1,Completed,FY2023,Q2,June,2024
+DON00725,D0314,2022-03-27,59.49,Emergency Relief,Recurring,1,Completed,FY2021,Q1,March,2022
+DON00726,D0459,2022-11-18,5259.85,Community Health,Telephone,0,Completed,FY2022,Q4,November,2022
+DON00727,D0430,2024-01-15,999.36,Emergency Relief,Online,0,Completed,FY2023,Q1,January,2024
+DON00728,D0086,2022-01-14,24391.08,Refugee Support,Recurring,1,Completed,FY2021,Q1,January,2022
+DON00729,D0373,2024-02-02,93652.8,Youth Education,Online,0,Completed,FY2023,Q1,February,2024
+DON00730,D0146,2022-10-10,86.06,Refugee Support,Recurring,1,Completed,FY2022,Q4,October,2022
+DON00731,D0360,2024-11-23,291.8,Environmental Care,Social Media,0,Completed,FY2024,Q4,November,2024
+DON00732,D0007,2024-11-25,24.43,Annual Giving,Recurring,1,Pending,FY2024,Q4,November,2024
+DON00733,D0291,2022-12-03,46.77,Refugee Support,Social Media,0,Completed,FY2022,Q4,December,2022
+DON00734,D0127,2022-04-29,26.6,Youth Education,Telephone,1,Failed,FY2021,Q2,April,2022
+DON00735,D0411,2023-09-16,1189.06,Refugee Support,Direct Mail,0,Completed,FY2023,Q3,September,2023
+DON00736,D0490,2022-10-28,160.63,Digital Inclusion,Telephone,0,Completed,FY2022,Q4,October,2022
+DON00737,D0077,2024-04-08,5775.16,Environmental Care,Recurring,1,Completed,FY2023,Q2,April,2024
+DON00738,D0032,2022-09-16,125.06,Women Empowerment,Direct Mail,0,Completed,FY2022,Q3,September,2022
+DON00739,D0309,2022-11-24,83.71,Digital Inclusion,Event,0,Completed,FY2022,Q4,November,2022
+DON00740,D0083,2023-09-15,1037.0,Community Health,Recurring,1,Completed,FY2023,Q3,September,2023
+DON00741,D0232,2023-06-16,844.18,Annual Giving,Recurring,1,Completed,FY2022,Q2,June,2023
+DON00742,D0402,2022-01-11,42476.26,Emergency Relief,Direct Mail,0,Failed,FY2021,Q1,January,2022
+DON00743,D0040,2023-08-06,1137.8,Community Health,Direct Mail,0,Completed,FY2023,Q3,August,2023
+DON00744,D0188,2024-11-23,81.43,Community Health,Online,0,Completed,FY2024,Q4,November,2024
+DON00745,D0417,2024-04-23,196.34,Youth Education,Recurring,1,Completed,FY2023,Q2,April,2024
+DON00746,D0374,2024-07-02,484.98,Youth Education,Event,0,Completed,FY2024,Q3,July,2024
+DON00747,D0195,2024-10-18,5176.48,Refugee Support,Telephone,0,Failed,FY2024,Q4,October,2024
+DON00748,D0030,2022-10-23,54634.34,Refugee Support,Recurring,1,Completed,FY2022,Q4,October,2022
+DON00749,D0108,2024-11-17,108446.02,Youth Education,Social Media,1,Completed,FY2024,Q4,November,2024
+DON00750,D0334,2024-01-27,98.22,Annual Giving,Recurring,1,Pending,FY2023,Q1,January,2024
+DON00751,D0441,2024-01-27,1040.64,Refugee Support,Online,0,Completed,FY2023,Q1,January,2024
+DON00752,D0334,2023-09-14,63.53,Digital Inclusion,Social Media,0,Completed,FY2023,Q3,September,2023
+DON00753,D0470,2023-09-17,64.26,Refugee Support,Online,1,Completed,FY2023,Q3,September,2023
+DON00754,D0322,2022-04-02,400.42,Women Empowerment,Online,0,Completed,FY2021,Q2,April,2022
+DON00755,D0031,2022-09-29,580.06,Refugee Support,Event,0,Completed,FY2022,Q3,September,2022
+DON00756,D0464,2023-10-29,552.34,Environmental Care,Online,0,Completed,FY2023,Q4,October,2023
+DON00757,D0405,2022-04-04,238.72,Refugee Support,Direct Mail,1,Completed,FY2021,Q2,April,2022
+DON00758,D0098,2022-02-20,22773.75,Emergency Relief,Telephone,0,Completed,FY2021,Q1,February,2022
+DON00759,D0120,2022-06-24,153.66,Emergency Relief,Corporate,0,Completed,FY2021,Q2,June,2022
+DON00760,D0030,2024-10-26,1182.92,Community Health,Recurring,1,Completed,FY2024,Q4,October,2024
+DON00761,D0361,2023-07-18,1063.3,Youth Education,Social Media,0,Completed,FY2023,Q3,July,2023
+DON00762,D0124,2024-12-28,28389.17,Environmental Care,Online,0,Completed,FY2024,Q4,December,2024
+DON00763,D0178,2023-01-05,24.91,Annual Giving,Direct Mail,0,Completed,FY2022,Q1,January,2023
+DON00764,D0477,2022-07-23,190.56,Emergency Relief,Online,0,Completed,FY2022,Q3,July,2022
+DON00765,D0488,2024-04-14,67.67,Emergency Relief,Online,0,Completed,FY2023,Q2,April,2024
+DON00766,D0024,2022-07-22,174.52,Annual Giving,Online,0,Completed,FY2022,Q3,July,2022
+DON00767,D0104,2023-05-06,180.63,Emergency Relief,Online,0,Completed,FY2022,Q2,May,2023
+DON00768,D0372,2023-07-06,501.72,Refugee Support,Social Media,0,Completed,FY2023,Q3,July,2023
+DON00769,D0015,2023-04-24,82618.33,Annual Giving,Direct Mail,1,Completed,FY2022,Q2,April,2023
+DON00770,D0201,2024-04-13,898.53,Youth Education,Direct Mail,0,Completed,FY2023,Q2,April,2024
+DON00771,D0211,2022-12-11,881.38,Youth Education,Direct Mail,0,Completed,FY2022,Q4,December,2022
+DON00772,D0062,2024-08-09,296.14,Environmental Care,Online,1,Completed,FY2024,Q3,August,2024
+DON00773,D0298,2023-05-29,60.02,Environmental Care,Online,1,Completed,FY2022,Q2,May,2023
+DON00774,D0289,2024-11-11,56848.77,Community Health,Corporate,0,Completed,FY2024,Q4,November,2024
+DON00775,D0441,2022-10-14,920.26,Refugee Support,Recurring,1,Completed,FY2022,Q4,October,2022
+DON00776,D0005,2023-10-14,172.7,Community Health,Corporate,1,Pending,FY2023,Q4,October,2023
+DON00777,D0418,2023-10-21,59592.81,Environmental Care,Online,0,Completed,FY2023,Q4,October,2023
+DON00778,D0053,2022-01-05,161.27,Youth Education,Corporate,0,Completed,FY2021,Q1,January,2022
+DON00779,D0071,2024-09-28,26.73,Refugee Support,Corporate,0,Completed,FY2024,Q3,September,2024
+DON00780,D0151,2023-12-24,50.77,Environmental Care,Recurring,1,Failed,FY2023,Q4,December,2023
+DON00781,D0248,2022-01-18,56549.34,Women Empowerment,Direct Mail,0,Completed,FY2021,Q1,January,2022
+DON00782,D0466,2023-07-30,977.83,Community Health,Recurring,1,Completed,FY2023,Q3,July,2023
+DON00783,D0337,2023-03-29,175.32,Digital Inclusion,Recurring,1,Completed,FY2022,Q1,March,2023
+DON00784,D0032,2023-03-05,593.46,Annual Giving,Online,0,Failed,FY2022,Q1,March,2023
+DON00785,D0461,2024-10-08,84437.86,Digital Inclusion,Corporate,0,Completed,FY2024,Q4,October,2024
+DON00786,D0086,2022-09-18,20653.61,Youth Education,Recurring,1,Completed,FY2022,Q3,September,2022
+DON00787,D0237,2022-02-17,115.24,Digital Inclusion,Online,1,Completed,FY2021,Q1,February,2022
+DON00788,D0055,2024-05-24,10722.72,Environmental Care,Online,0,Pending,FY2023,Q2,May,2024
+DON00789,D0470,2024-04-13,28.54,Women Empowerment,Direct Mail,0,Completed,FY2023,Q2,April,2024
+DON00790,D0223,2023-04-05,499.11,Annual Giving,Telephone,0,Completed,FY2022,Q2,April,2023
+DON00791,D0291,2023-11-17,979.54,Annual Giving,Direct Mail,0,Completed,FY2023,Q4,November,2023
+DON00792,D0091,2024-05-17,598.05,Community Health,Social Media,1,Completed,FY2023,Q2,May,2024
+DON00793,D0056,2022-07-18,86.58,Digital Inclusion,Online,0,Completed,FY2022,Q3,July,2022
+DON00794,D0370,2023-05-22,518.51,Women Empowerment,Recurring,1,Completed,FY2022,Q2,May,2023
+DON00795,D0033,2024-11-30,1183.52,Annual Giving,Recurring,1,Completed,FY2024,Q4,November,2024
+DON00796,D0408,2024-07-03,55.51,Environmental Care,Recurring,1,Completed,FY2024,Q3,July,2024
+DON00797,D0013,2022-05-14,59.49,Annual Giving,Direct Mail,0,Completed,FY2021,Q2,May,2022
+DON00798,D0206,2022-04-25,410.96,Refugee Support,Online,0,Completed,FY2021,Q2,April,2022
+DON00799,D0003,2022-01-22,240.17,Refugee Support,Online,0,Completed,FY2021,Q1,January,2022
+DON00800,D0477,2022-02-23,287.99,Emergency Relief,Direct Mail,0,Completed,FY2021,Q1,February,2022
+DON00801,D0243,2022-05-19,84.32,Annual Giving,Corporate,0,Completed,FY2021,Q2,May,2022
+DON00802,D0438,2024-09-12,79.12,Digital Inclusion,Direct Mail,0,Completed,FY2024,Q3,September,2024
+DON00803,D0207,2023-10-01,85.51,Annual Giving,Online,0,Completed,FY2023,Q4,October,2023
+DON00804,D0420,2023-09-25,46223.76,Youth Education,Online,0,Completed,FY2023,Q3,September,2023
+DON00805,D0121,2024-11-04,25.18,Youth Education,Online,1,Completed,FY2024,Q4,November,2024
+DON00806,D0410,2023-02-17,24.22,Community Health,Social Media,0,Completed,FY2022,Q1,February,2023
+DON00807,D0019,2023-11-10,53895.63,Environmental Care,Corporate,1,Completed,FY2023,Q4,November,2023
+DON00808,D0410,2022-08-03,209.29,Refugee Support,Direct Mail,0,Completed,FY2022,Q3,August,2022
+DON00809,D0037,2023-04-17,24.96,Annual Giving,Corporate,0,Completed,FY2022,Q2,April,2023
+DON00810,D0359,2024-02-09,546.92,Women Empowerment,Recurring,1,Completed,FY2023,Q1,February,2024
+DON00811,D0354,2022-06-01,84.78,Annual Giving,Direct Mail,0,Completed,FY2021,Q2,June,2022
+DON00812,D0024,2024-01-08,68.72,Community Health,Corporate,0,Completed,FY2023,Q1,January,2024
+DON00813,D0036,2022-12-23,91.36,Community Health,Telephone,0,Completed,FY2022,Q4,December,2022
+DON00814,D0232,2022-07-27,65.88,Youth Education,Recurring,1,Completed,FY2022,Q3,July,2022
+DON00815,D0030,2023-03-07,4757.85,Emergency Relief,Direct Mail,0,Completed,FY2022,Q1,March,2023
+DON00816,D0009,2022-05-14,2660.91,Refugee Support,Telephone,0,Completed,FY2021,Q2,May,2022
+DON00817,D0006,2024-02-06,83.85,Community Health,Event,0,Completed,FY2023,Q1,February,2024
+DON00818,D0439,2023-08-26,116.84,Community Health,Telephone,0,Completed,FY2023,Q3,August,2023
+DON00819,D0500,2024-11-06,10517.84,Digital Inclusion,Telephone,1,Completed,FY2024,Q4,November,2024
+DON00820,D0150,2022-05-13,109.09,Environmental Care,Recurring,1,Completed,FY2021,Q2,May,2022
+DON00821,D0422,2024-08-08,275.13,Women Empowerment,Event,0,Completed,FY2024,Q3,August,2024
+DON00822,D0314,2024-04-01,1077.8,Environmental Care,Event,0,Completed,FY2023,Q2,April,2024
+DON00823,D0417,2023-04-26,22.07,Community Health,Event,0,Completed,FY2022,Q2,April,2023
+DON00824,D0033,2022-06-23,5142.74,Women Empowerment,Online,0,Completed,FY2021,Q2,June,2022
+DON00825,D0470,2024-08-10,503.76,Community Health,Corporate,0,Completed,FY2024,Q3,August,2024
+DON00826,D0392,2024-10-15,493.51,Refugee Support,Direct Mail,0,Completed,FY2024,Q4,October,2024
+DON00827,D0268,2024-01-06,73.25,Digital Inclusion,Corporate,1,Completed,FY2023,Q1,January,2024
+DON00828,D0134,2023-04-12,1005.12,Emergency Relief,Recurring,1,Completed,FY2022,Q2,April,2023
+DON00829,D0341,2023-11-06,944.09,Community Health,Direct Mail,0,Completed,FY2023,Q4,November,2023
+DON00830,D0154,2023-06-19,131.44,Youth Education,Social Media,0,Completed,FY2022,Q2,June,2023
+DON00831,D0364,2022-01-25,2783.13,Refugee Support,Social Media,0,Completed,FY2021,Q1,January,2022
+DON00832,D0036,2023-03-06,85.96,Community Health,Online,0,Completed,FY2022,Q1,March,2023
+DON00833,D0241,2022-06-25,108900.41,Environmental Care,Direct Mail,0,Completed,FY2021,Q2,June,2022
+DON00834,D0474,2022-03-03,220.96,Environmental Care,Telephone,0,Completed,FY2021,Q1,March,2022
+DON00835,D0201,2023-12-28,4611.14,Annual Giving,Event,0,Completed,FY2023,Q4,December,2023
+DON00836,D0068,2022-02-17,276.28,Digital Inclusion,Direct Mail,0,Completed,FY2021,Q1,February,2022
+DON00837,D0025,2024-03-11,4307.38,Women Empowerment,Corporate,1,Completed,FY2023,Q1,March,2024
+DON00838,D0313,2022-08-11,206.37,Refugee Support,Online,0,Pending,FY2022,Q3,August,2022
+DON00839,D0045,2022-12-30,125.59,Emergency Relief,Recurring,1,Completed,FY2022,Q4,December,2022
+DON00840,D0419,2022-05-23,26033.64,Annual Giving,Online,1,Completed,FY2021,Q2,May,2022
+DON00841,D0196,2024-01-25,89.32,Emergency Relief,Event,0,Completed,FY2023,Q1,January,2024
+DON00842,D0316,2024-05-06,47822.11,Emergency Relief,Online,0,Completed,FY2023,Q2,May,2024
+DON00843,D0206,2024-08-30,85.2,Community Health,Direct Mail,0,Completed,FY2024,Q3,August,2024
+DON00844,D0302,2022-01-16,155.25,Environmental Care,Online,1,Completed,FY2021,Q1,January,2022
+DON00845,D0002,2024-10-02,260.48,Community Health,Event,0,Completed,FY2024,Q4,October,2024
+DON00846,D0266,2023-09-02,45.76,Environmental Care,Direct Mail,0,Completed,FY2023,Q3,September,2023
+DON00847,D0356,2024-06-03,72.45,Youth Education,Telephone,0,Completed,FY2023,Q2,June,2024
+DON00848,D0132,2022-03-31,26985.22,Emergency Relief,Direct Mail,0,Completed,FY2021,Q1,March,2022
+DON00849,D0068,2022-05-17,172.95,Digital Inclusion,Recurring,1,Completed,FY2021,Q2,May,2022
+DON00850,D0358,2022-09-06,116.35,Refugee Support,Social Media,1,Completed,FY2022,Q3,September,2022
+DON00851,D0254,2022-12-04,50.09,Women Empowerment,Direct Mail,0,Completed,FY2022,Q4,December,2022
+DON00852,D0376,2024-03-28,405.34,Environmental Care,Direct Mail,1,Completed,FY2023,Q1,March,2024
+DON00853,D0451,2024-08-08,22.51,Youth Education,Direct Mail,0,Completed,FY2024,Q3,August,2024
+DON00854,D0283,2023-07-26,1062.81,Environmental Care,Online,1,Completed,FY2023,Q3,July,2023
+DON00855,D0392,2024-12-30,26.07,Youth Education,Online,0,Completed,FY2024,Q4,December,2024
+DON00856,D0213,2022-12-31,1070.95,Youth Education,Direct Mail,0,Completed,FY2022,Q4,December,2022
+DON00857,D0198,2024-12-06,25322.99,Environmental Care,Recurring,1,Completed,FY2024,Q4,December,2024
+DON00858,D0107,2023-09-24,26600.4,Emergency Relief,Direct Mail,0,Completed,FY2023,Q3,September,2023
+DON00859,D0426,2024-02-07,27.72,Community Health,Telephone,1,Completed,FY2023,Q1,February,2024
+DON00860,D0011,2023-01-29,968.67,Annual Giving,Direct Mail,0,Completed,FY2022,Q1,January,2023
+DON00861,D0125,2022-04-01,559.38,Youth Education,Recurring,1,Completed,FY2021,Q2,April,2022
+DON00862,D0437,2023-01-24,56.31,Women Empowerment,Corporate,0,Pending,FY2022,Q1,January,2023
+DON00863,D0023,2022-08-05,293.89,Emergency Relief,Online,0,Completed,FY2022,Q3,August,2022
+DON00864,D0246,2024-07-28,265.4,Annual Giving,Direct Mail,0,Completed,FY2024,Q3,July,2024
+DON00865,D0369,2023-03-24,159.0,Women Empowerment,Online,0,Completed,FY2022,Q1,March,2023
+DON00866,D0405,2022-12-18,596.62,Emergency Relief,Recurring,1,Completed,FY2022,Q4,December,2022
+DON00867,D0153,2022-09-30,52.0,Refugee Support,Recurring,1,Completed,FY2022,Q3,September,2022
+DON00868,D0235,2022-02-06,238.24,Environmental Care,Online,0,Completed,FY2021,Q1,February,2022
+DON00869,D0048,2022-01-28,50220.52,Community Health,Event,0,Completed,FY2021,Q1,January,2022
+DON00870,D0022,2022-06-12,46.18,Refugee Support,Recurring,1,Completed,FY2021,Q2,June,2022
+DON00871,D0228,2023-02-23,199.9,Community Health,Online,0,Completed,FY2022,Q1,February,2023
+DON00872,D0098,2023-11-05,25980.75,Environmental Care,Recurring,1,Completed,FY2023,Q4,November,2023
+DON00873,D0431,2024-04-29,211.49,Annual Giving,Event,0,Completed,FY2023,Q2,April,2024
+DON00874,D0254,2023-02-26,22.29,Women Empowerment,Direct Mail,0,Completed,FY2022,Q1,February,2023
+DON00875,D0269,2024-02-21,112.06,Community Health,Corporate,0,Completed,FY2023,Q1,February,2024
+DON00876,D0081,2023-01-30,20060.43,Environmental Care,Online,0,Failed,FY2022,Q1,January,2023
+DON00877,D0059,2023-02-23,85.02,Youth Education,Corporate,0,Completed,FY2022,Q1,February,2023
+DON00878,D0025,2022-12-28,46229.26,Community Health,Online,0,Completed,FY2022,Q4,December,2022
+DON00879,D0437,2024-09-12,593.55,Community Health,Online,0,Failed,FY2024,Q3,September,2024
+DON00880,D0421,2024-10-31,237.77,Environmental Care,Direct Mail,0,Completed,FY2024,Q4,October,2024
+DON00881,D0097,2024-02-21,84.59,Environmental Care,Online,0,Completed,FY2023,Q1,February,2024
+DON00882,D0027,2022-12-26,155.71,Youth Education,Corporate,0,Completed,FY2022,Q4,December,2022
+DON00883,D0442,2022-10-07,456.65,Environmental Care,Online,0,Completed,FY2022,Q4,October,2022
+DON00884,D0231,2024-05-01,80.17,Women Empowerment,Event,1,Failed,FY2023,Q2,May,2024
+DON00885,D0149,2022-05-26,190.72,Digital Inclusion,Corporate,0,Completed,FY2021,Q2,May,2022
+DON00886,D0225,2024-06-12,47.7,Youth Education,Online,1,Completed,FY2023,Q2,June,2024
+DON00887,D0145,2024-01-25,10038.43,Environmental Care,Corporate,0,Completed,FY2023,Q1,January,2024
+DON00888,D0053,2024-01-11,273.57,Community Health,Event,0,Completed,FY2023,Q1,January,2024
+DON00889,D0337,2022-10-29,67.84,Environmental Care,Social Media,0,Completed,FY2022,Q4,October,2022
+DON00890,D0205,2024-02-27,60.37,Emergency Relief,Corporate,0,Completed,FY2023,Q1,February,2024
+DON00891,D0102,2022-12-06,50.37,Community Health,Telephone,1,Completed,FY2022,Q4,December,2022
+DON00892,D0445,2024-04-22,10002.59,Refugee Support,Corporate,0,Pending,FY2023,Q2,April,2024
+DON00893,D0104,2023-07-05,42.19,Women Empowerment,Recurring,1,Completed,FY2023,Q3,July,2023
+DON00894,D0339,2024-10-04,269.9,Annual Giving,Social Media,0,Completed,FY2024,Q4,October,2024
+DON00895,D0361,2022-12-16,50499.24,Digital Inclusion,Recurring,1,Completed,FY2022,Q4,December,2022
+DON00896,D0338,2024-10-26,81.12,Community Health,Event,1,Completed,FY2024,Q4,October,2024
+DON00897,D0121,2023-01-28,87.43,Annual Giving,Recurring,1,Completed,FY2022,Q1,January,2023
+DON00898,D0184,2022-12-07,97629.22,Emergency Relief,Telephone,0,Completed,FY2022,Q4,December,2022
+DON00899,D0451,2023-04-26,45.54,Women Empowerment,Online,0,Completed,FY2022,Q2,April,2023
+DON00900,D0286,2022-01-15,40.19,Digital Inclusion,Recurring,1,Completed,FY2021,Q1,January,2022
+DON00901,D0402,2024-12-01,8387.37,Annual Giving,Direct Mail,1,Completed,FY2024,Q4,December,2024
+DON00902,D0282,2023-11-21,494.65,Women Empowerment,Corporate,0,Completed,FY2023,Q4,November,2023
+DON00903,D0005,2024-02-15,225.35,Women Empowerment,Recurring,1,Completed,FY2023,Q1,February,2024
+DON00904,D0122,2024-04-02,229.85,Emergency Relief,Online,0,Completed,FY2023,Q2,April,2024
+DON00905,D0206,2023-07-27,60.77,Emergency Relief,Telephone,1,Completed,FY2023,Q3,July,2023
+DON00906,D0171,2023-01-20,4736.86,Environmental Care,Event,0,Completed,FY2022,Q1,January,2023
+DON00907,D0294,2023-10-29,161.33,Women Empowerment,Telephone,0,Completed,FY2023,Q4,October,2023
+DON00908,D0041,2024-09-02,48003.3,Emergency Relief,Direct Mail,1,Completed,FY2024,Q3,September,2024
+DON00909,D0403,2022-10-21,1093.71,Digital Inclusion,Corporate,1,Completed,FY2022,Q4,October,2022
+DON00910,D0265,2023-09-10,812.7,Environmental Care,Recurring,1,Completed,FY2023,Q3,September,2023
+DON00911,D0426,2024-07-02,1194.89,Environmental Care,Online,1,Completed,FY2024,Q3,July,2024
+DON00912,D0164,2022-07-03,896.36,Community Health,Online,0,Failed,FY2022,Q3,July,2022
+DON00913,D0190,2023-07-29,864.09,Women Empowerment,Telephone,0,Completed,FY2023,Q3,July,2023
+DON00914,D0061,2024-12-30,590.3,Emergency Relief,Recurring,1,Completed,FY2024,Q4,December,2024
+DON00915,D0262,2022-05-13,418.09,Women Empowerment,Telephone,0,Completed,FY2021,Q2,May,2022
+DON00916,D0152,2023-04-03,106156.79,Refugee Support,Recurring,1,Completed,FY2022,Q2,April,2023
+DON00917,D0384,2023-01-21,8350.72,Emergency Relief,Direct Mail,0,Completed,FY2022,Q1,January,2023
+DON00918,D0103,2022-01-04,170.19,Women Empowerment,Social Media,0,Completed,FY2021,Q1,January,2022
+DON00919,D0032,2024-01-18,113.88,Refugee Support,Direct Mail,0,Pending,FY2023,Q1,January,2024
+DON00920,D0456,2022-01-19,75.59,Community Health,Online,0,Completed,FY2021,Q1,January,2022
+DON00921,D0323,2024-10-20,84.48,Digital Inclusion,Recurring,1,Completed,FY2024,Q4,October,2024
+DON00922,D0191,2022-03-12,1040.59,Youth Education,Recurring,1,Completed,FY2021,Q1,March,2022
+DON00923,D0167,2024-09-06,150.14,Emergency Relief,Online,0,Completed,FY2024,Q3,September,2024
+DON00924,D0117,2023-11-14,162.25,Refugee Support,Online,0,Completed,FY2023,Q4,November,2023
+DON00925,D0210,2023-01-02,108.02,Annual Giving,Telephone,1,Completed,FY2022,Q1,January,2023
+DON00926,D0121,2024-03-14,179.06,Youth Education,Social Media,0,Completed,FY2023,Q1,March,2024
+DON00927,D0485,2023-08-03,220.62,Refugee Support,Online,0,Pending,FY2023,Q3,August,2023
+DON00928,D0286,2022-04-21,957.51,Youth Education,Direct Mail,1,Completed,FY2021,Q2,April,2022
+DON00929,D0186,2024-09-15,530.93,Youth Education,Direct Mail,0,Completed,FY2024,Q3,September,2024
+DON00930,D0144,2022-01-19,5608.72,Community Health,Recurring,1,Completed,FY2021,Q1,January,2022
+DON00931,D0384,2024-05-24,1071.33,Youth Education,Direct Mail,0,Completed,FY2023,Q2,May,2024
+DON00932,D0187,2022-04-18,20.96,Environmental Care,Online,0,Completed,FY2021,Q2,April,2022
+DON00933,D0385,2024-04-07,10373.57,Youth Education,Corporate,0,Completed,FY2023,Q2,April,2024
+DON00934,D0121,2024-02-08,248.86,Youth Education,Recurring,1,Completed,FY2023,Q1,February,2024
+DON00935,D0040,2024-06-30,55.55,Refugee Support,Online,0,Completed,FY2023,Q2,June,2024
+DON00936,D0206,2024-09-09,42.44,Community Health,Online,0,Completed,FY2024,Q3,September,2024
+DON00937,D0188,2022-09-14,71.52,Refugee Support,Online,0,Completed,FY2022,Q3,September,2022
+DON00938,D0251,2024-12-21,873.96,Annual Giving,Direct Mail,0,Completed,FY2024,Q4,December,2024
+DON00939,D0118,2023-03-01,10155.93,Emergency Relief,Recurring,1,Pending,FY2022,Q1,March,2023
+DON00940,D0362,2024-07-04,43.61,Youth Education,Online,1,Completed,FY2024,Q3,July,2024
+DON00941,D0303,2023-06-10,77.25,Youth Education,Online,1,Completed,FY2022,Q2,June,2023
+DON00942,D0247,2022-12-18,1002.46,Women Empowerment,Social Media,0,Pending,FY2022,Q4,December,2022
+DON00943,D0385,2024-11-29,899.33,Annual Giving,Social Media,1,Completed,FY2024,Q4,November,2024
+DON00944,D0171,2024-12-06,42797.1,Environmental Care,Recurring,1,Completed,FY2024,Q4,December,2024
+DON00945,D0347,2022-04-02,208.49,Community Health,Recurring,1,Completed,FY2021,Q2,April,2022
+DON00946,D0397,2023-03-19,85.67,Community Health,Social Media,0,Completed,FY2022,Q1,March,2023
+DON00947,D0262,2022-12-01,207.44,Digital Inclusion,Online,0,Completed,FY2022,Q4,December,2022
+DON00948,D0038,2022-05-25,160.59,Youth Education,Event,0,Completed,FY2021,Q2,May,2022
+DON00949,D0356,2022-11-11,108.58,Youth Education,Direct Mail,0,Completed,FY2022,Q4,November,2022
+DON00950,D0319,2022-09-13,81036.39,Community Health,Online,0,Completed,FY2022,Q3,September,2022
+DON00951,D0046,2023-11-15,206.6,Emergency Relief,Direct Mail,0,Completed,FY2023,Q4,November,2023
+DON00952,D0169,2023-04-01,909.46,Emergency Relief,Direct Mail,0,Completed,FY2022,Q2,April,2023
+DON00953,D0340,2024-09-29,43.51,Digital Inclusion,Corporate,0,Completed,FY2024,Q3,September,2024
+DON00954,D0380,2022-12-16,153.09,Emergency Relief,Telephone,0,Completed,FY2022,Q4,December,2022
+DON00955,D0397,2022-09-19,70.36,Refugee Support,Event,0,Completed,FY2022,Q3,September,2022
+DON00956,D0475,2023-07-02,5315.13,Youth Education,Direct Mail,0,Completed,FY2023,Q3,July,2023
+DON00957,D0283,2024-05-06,216.6,Community Health,Recurring,1,Completed,FY2023,Q2,May,2024
+DON00958,D0249,2024-10-25,24389.6,Women Empowerment,Recurring,1,Completed,FY2024,Q4,October,2024
+DON00959,D0421,2022-06-28,252.06,Community Health,Direct Mail,1,Completed,FY2021,Q2,June,2022
+DON00960,D0339,2023-05-07,227.62,Emergency Relief,Online,1,Completed,FY2022,Q2,May,2023
+DON00961,D0087,2024-10-06,8338.34,Digital Inclusion,Corporate,1,Completed,FY2024,Q4,October,2024
+DON00962,D0247,2024-11-20,53540.66,Youth Education,Event,0,Completed,FY2024,Q4,November,2024
+DON00963,D0142,2023-01-25,1079.15,Refugee Support,Online,1,Completed,FY2022,Q1,January,2023
+DON00964,D0153,2024-12-17,270.26,Women Empowerment,Online,0,Completed,FY2024,Q4,December,2024
+DON00965,D0357,2024-01-22,592.93,Community Health,Online,1,Completed,FY2023,Q1,January,2024
+DON00966,D0152,2022-08-20,9690.89,Refugee Support,Online,0,Completed,FY2022,Q3,August,2022
+DON00967,D0247,2023-03-13,916.03,Environmental Care,Online,0,Completed,FY2022,Q1,March,2023
+DON00968,D0352,2024-11-21,221.75,Digital Inclusion,Telephone,1,Completed,FY2024,Q4,November,2024
+DON00969,D0312,2022-01-13,578.5,Environmental Care,Online,0,Completed,FY2021,Q1,January,2022
+DON00970,D0467,2023-01-17,168.57,Women Empowerment,Telephone,0,Completed,FY2022,Q1,January,2023
+DON00971,D0363,2022-11-11,249.2,Emergency Relief,Event,0,Completed,FY2022,Q4,November,2022
+DON00972,D0264,2024-03-20,21.56,Digital Inclusion,Online,0,Completed,FY2023,Q1,March,2024
+DON00973,D0183,2024-06-17,76.09,Digital Inclusion,Online,0,Completed,FY2023,Q2,June,2024
+DON00974,D0209,2023-02-11,941.5,Refugee Support,Online,0,Completed,FY2022,Q1,February,2023
+DON00975,D0160,2022-11-25,71.84,Women Empowerment,Telephone,0,Pending,FY2022,Q4,November,2022
+DON00976,D0299,2022-09-18,8475.17,Environmental Care,Corporate,0,Completed,FY2022,Q3,September,2022
+DON00977,D0212,2022-08-09,250.19,Refugee Support,Online,0,Completed,FY2022,Q3,August,2022
+DON00978,D0137,2023-12-02,200.0,Community Health,Online,0,Completed,FY2023,Q4,December,2023
+DON00979,D0131,2022-06-19,24.34,Digital Inclusion,Online,0,Completed,FY2021,Q2,June,2022
+DON00980,D0486,2022-08-24,1091.7,Youth Education,Online,1,Failed,FY2022,Q3,August,2022
+DON00981,D0398,2022-07-31,106.65,Refugee Support,Online,0,Completed,FY2022,Q3,July,2022
+DON00982,D0241,2022-09-28,21886.69,Youth Education,Online,0,Completed,FY2022,Q3,September,2022
+DON00983,D0156,2023-02-13,29290.98,Refugee Support,Online,0,Completed,FY2022,Q1,February,2023
+DON00984,D0482,2024-05-22,252.5,Community Health,Online,0,Completed,FY2023,Q2,May,2024
+DON00985,D0287,2023-12-20,921.72,Digital Inclusion,Direct Mail,0,Completed,FY2023,Q4,December,2023
+DON00986,D0355,2023-10-21,872.7,Annual Giving,Online,0,Completed,FY2023,Q4,October,2023
+DON00987,D0338,2024-01-15,48.62,Digital Inclusion,Social Media,0,Completed,FY2023,Q1,January,2024
+DON00988,D0391,2024-01-11,20136.62,Youth Education,Direct Mail,0,Completed,FY2023,Q1,January,2024
+DON00989,D0216,2024-02-26,179.06,Digital Inclusion,Online,0,Completed,FY2023,Q1,February,2024
+DON00990,D0072,2024-07-01,40.82,Community Health,Online,1,Completed,FY2024,Q3,July,2024
+DON00991,D0300,2023-02-18,46029.53,Environmental Care,Social Media,0,Completed,FY2022,Q1,February,2023
+DON00992,D0213,2023-12-13,4383.41,Digital Inclusion,Telephone,1,Completed,FY2023,Q4,December,2023
+DON00993,D0252,2024-12-08,58.22,Emergency Relief,Event,1,Completed,FY2024,Q4,December,2024
+DON00994,D0013,2022-09-22,21.67,Digital Inclusion,Recurring,1,Completed,FY2022,Q3,September,2022
+DON00995,D0059,2024-03-25,27.94,Community Health,Recurring,1,Completed,FY2023,Q1,March,2024
+DON00996,D0300,2024-03-10,8662.07,Refugee Support,Corporate,0,Completed,FY2023,Q1,March,2024
+DON00997,D0136,2022-01-19,60.11,Community Health,Corporate,1,Completed,FY2021,Q1,January,2022
+DON00998,D0285,2023-03-28,500.76,Digital Inclusion,Direct Mail,0,Completed,FY2022,Q1,March,2023
+DON00999,D0161,2023-08-21,43.42,Annual Giving,Event,0,Completed,FY2023,Q3,August,2023
+DON01000,D0029,2022-04-16,175.63,Digital Inclusion,Telephone,0,Completed,FY2021,Q2,April,2022
+DON01001,D0017,2024-01-26,101.38,Annual Giving,Corporate,0,Pending,FY2023,Q1,January,2024
+DON01002,D0083,2023-08-27,905.62,Youth Education,Direct Mail,0,Completed,FY2023,Q3,August,2023
+DON01003,D0042,2023-07-27,28.24,Community Health,Recurring,1,Completed,FY2023,Q3,July,2023
+DON01004,D0370,2024-02-22,507.48,Emergency Relief,Recurring,1,Pending,FY2023,Q1,February,2024
+DON01005,D0154,2023-03-28,172.2,Community Health,Recurring,1,Completed,FY2022,Q1,March,2023
+DON01006,D0428,2023-04-20,103.27,Refugee Support,Online,0,Completed,FY2022,Q2,April,2023
+DON01007,D0054,2024-07-29,87.07,Emergency Relief,Event,0,Completed,FY2024,Q3,July,2024
+DON01008,D0356,2022-02-13,102.79,Youth Education,Corporate,0,Completed,FY2021,Q1,February,2022
+DON01009,D0263,2022-05-28,268.74,Community Health,Online,0,Completed,FY2021,Q2,May,2022
+DON01010,D0374,2022-10-09,29703.85,Emergency Relief,Recurring,1,Completed,FY2022,Q4,October,2022
+DON01011,D0049,2022-08-14,26.03,Refugee Support,Direct Mail,1,Completed,FY2022,Q3,August,2022
+DON01012,D0384,2022-01-28,852.87,Emergency Relief,Online,0,Completed,FY2021,Q1,January,2022
+DON01013,D0259,2022-06-24,50.85,Women Empowerment,Telephone,0,Completed,FY2021,Q2,June,2022
+DON01014,D0097,2022-11-13,563.09,Digital Inclusion,Direct Mail,0,Completed,FY2022,Q4,November,2022
+DON01015,D0213,2022-04-02,10509.94,Emergency Relief,Online,0,Completed,FY2021,Q2,April,2022
+DON01016,D0027,2023-04-05,1154.58,Refugee Support,Online,0,Completed,FY2022,Q2,April,2023
+DON01017,D0008,2024-02-27,70.6,Digital Inclusion,Online,0,Completed,FY2023,Q1,February,2024
+DON01018,D0417,2023-08-01,49.84,Emergency Relief,Online,0,Completed,FY2023,Q3,August,2023
+DON01019,D0369,2022-11-06,47.21,Emergency Relief,Telephone,0,Completed,FY2022,Q4,November,2022
+DON01020,D0233,2023-09-10,5358.87,Youth Education,Telephone,0,Completed,FY2023,Q3,September,2023
+DON01021,D0028,2023-06-28,908.44,Environmental Care,Recurring,1,Completed,FY2022,Q2,June,2023
+DON01022,D0257,2022-10-28,55.78,Youth Education,Recurring,1,Completed,FY2022,Q4,October,2022
+DON01023,D0311,2022-08-20,244.67,Environmental Care,Recurring,1,Completed,FY2022,Q3,August,2022
+DON01024,D0494,2023-01-08,42893.36,Women Empowerment,Social Media,0,Completed,FY2022,Q1,January,2023
+DON01025,D0170,2023-11-14,48476.64,Refugee Support,Corporate,0,Pending,FY2023,Q4,November,2023
+DON01026,D0116,2024-10-05,95.33,Environmental Care,Event,0,Completed,FY2024,Q4,October,2024
+DON01027,D0199,2023-03-26,208.36,Refugee Support,Event,0,Completed,FY2022,Q1,March,2023
+DON01028,D0306,2024-08-28,22.03,Annual Giving,Direct Mail,1,Pending,FY2024,Q3,August,2024
+DON01029,D0251,2022-10-13,29.11,Women Empowerment,Recurring,1,Completed,FY2022,Q4,October,2022
+DON01030,D0329,2023-04-05,85.06,Refugee Support,Online,0,Completed,FY2022,Q2,April,2023
+DON01031,D0005,2024-05-19,71.32,Annual Giving,Recurring,1,Completed,FY2023,Q2,May,2024
+DON01032,D0321,2022-11-20,53.25,Emergency Relief,Event,0,Completed,FY2022,Q4,November,2022
+DON01033,D0252,2024-05-02,44.9,Annual Giving,Corporate,0,Completed,FY2023,Q2,May,2024
+DON01034,D0436,2023-11-22,21401.12,Digital Inclusion,Event,0,Completed,FY2023,Q4,November,2023
+DON01035,D0084,2022-03-07,22.87,Youth Education,Online,0,Completed,FY2021,Q1,March,2022
+DON01036,D0482,2024-07-19,60.33,Refugee Support,Recurring,1,Completed,FY2024,Q3,July,2024
+DON01037,D0156,2024-05-17,58383.0,Digital Inclusion,Recurring,1,Pending,FY2023,Q2,May,2024
+DON01038,D0210,2022-09-14,178.39,Refugee Support,Social Media,0,Completed,FY2022,Q3,September,2022
+DON01039,D0062,2022-06-08,22.19,Youth Education,Recurring,1,Completed,FY2021,Q2,June,2022
+DON01040,D0388,2022-12-04,49548.33,Refugee Support,Recurring,1,Completed,FY2022,Q4,December,2022
+DON01041,D0007,2022-08-02,211.73,Community Health,Online,0,Completed,FY2022,Q3,August,2022
+DON01042,D0433,2022-08-07,162.24,Digital Inclusion,Online,0,Completed,FY2022,Q3,August,2022
+DON01043,D0078,2022-03-08,8750.98,Community Health,Corporate,0,Completed,FY2021,Q1,March,2022
+DON01044,D0410,2023-10-07,25.64,Environmental Care,Online,0,Completed,FY2023,Q4,October,2023
+DON01045,D0111,2023-10-07,2751.68,Refugee Support,Event,0,Completed,FY2023,Q4,October,2023
+DON01046,D0326,2024-10-28,27026.57,Emergency Relief,Direct Mail,0,Completed,FY2024,Q4,October,2024
+DON01047,D0331,2022-03-18,60.71,Refugee Support,Event,0,Completed,FY2021,Q1,March,2022
+DON01048,D0094,2023-04-20,415.75,Emergency Relief,Social Media,1,Completed,FY2022,Q2,April,2023
+DON01049,D0355,2024-10-24,5537.65,Youth Education,Social Media,0,Completed,FY2024,Q4,October,2024
+DON01050,D0106,2024-01-08,9789.92,Youth Education,Direct Mail,0,Pending,FY2023,Q1,January,2024
+DON01051,D0411,2022-06-03,28.91,Refugee Support,Online,1,Completed,FY2021,Q2,June,2022
+DON01052,D0176,2023-09-26,419.48,Annual Giving,Online,0,Pending,FY2023,Q3,September,2023
+DON01053,D0133,2023-08-29,49.98,Environmental Care,Direct Mail,0,Completed,FY2023,Q3,August,2023
+DON01054,D0457,2024-08-01,188.27,Emergency Relief,Online,0,Completed,FY2024,Q3,August,2024
+DON01055,D0017,2022-10-15,165.79,Environmental Care,Recurring,1,Pending,FY2022,Q4,October,2022
+DON01056,D0172,2022-09-22,407.92,Digital Inclusion,Direct Mail,0,Completed,FY2022,Q3,September,2022
+DON01057,D0167,2023-06-23,189.89,Refugee Support,Event,1,Failed,FY2022,Q2,June,2023
+DON01058,D0193,2023-05-17,26.21,Annual Giving,Recurring,1,Completed,FY2022,Q2,May,2023
+DON01059,D0399,2022-11-21,803.18,Emergency Relief,Online,0,Completed,FY2022,Q4,November,2022
+DON01060,D0197,2023-12-16,95.53,Environmental Care,Recurring,1,Completed,FY2023,Q4,December,2023
+DON01061,D0338,2023-01-05,1160.05,Environmental Care,Online,0,Completed,FY2022,Q1,January,2023
+DON01062,D0273,2022-05-13,5536.43,Community Health,Direct Mail,0,Failed,FY2021,Q2,May,2022
+DON01063,D0158,2024-07-19,442.53,Environmental Care,Online,0,Completed,FY2024,Q3,July,2024
+DON01064,D0144,2022-03-06,42910.28,Community Health,Direct Mail,1,Completed,FY2021,Q1,March,2022
+DON01065,D0471,2024-08-27,29.36,Women Empowerment,Recurring,1,Completed,FY2024,Q3,August,2024
+DON01066,D0199,2022-12-27,114.72,Refugee Support,Online,0,Completed,FY2022,Q4,December,2022
+DON01067,D0282,2024-12-10,208.17,Environmental Care,Telephone,0,Completed,FY2024,Q4,December,2024
+DON01068,D0022,2024-05-27,84.92,Emergency Relief,Telephone,0,Completed,FY2023,Q2,May,2024
+DON01069,D0144,2022-11-26,4397.21,Refugee Support,Event,1,Completed,FY2022,Q4,November,2022
+DON01070,D0493,2022-10-24,282.3,Community Health,Online,0,Failed,FY2022,Q4,October,2022
+DON01071,D0356,2024-10-19,161.13,Environmental Care,Social Media,1,Completed,FY2024,Q4,October,2024
+DON01072,D0058,2022-09-15,226.28,Annual Giving,Social Media,0,Completed,FY2022,Q3,September,2022
+DON01073,D0500,2022-12-07,8145.94,Community Health,Direct Mail,0,Completed,FY2022,Q4,December,2022
+DON01074,D0277,2024-01-16,118.1,Annual Giving,Direct Mail,0,Completed,FY2023,Q1,January,2024
+DON01075,D0122,2024-07-22,1127.62,Emergency Relief,Recurring,1,Completed,FY2024,Q3,July,2024
+DON01076,D0387,2023-11-19,188.18,Refugee Support,Event,0,Completed,FY2023,Q4,November,2023
+DON01077,D0397,2024-02-21,237.31,Youth Education,Event,0,Completed,FY2023,Q1,February,2024
+DON01078,D0106,2022-08-01,52682.14,Emergency Relief,Social Media,0,Completed,FY2022,Q3,August,2022
+DON01079,D0272,2024-10-27,210.37,Emergency Relief,Corporate,0,Completed,FY2024,Q4,October,2024
+DON01080,D0196,2024-07-20,171.1,Community Health,Online,0,Completed,FY2024,Q3,July,2024
+DON01081,D0487,2024-08-08,5901.1,Women Empowerment,Social Media,0,Completed,FY2024,Q3,August,2024
+DON01082,D0361,2024-11-05,40152.1,Women Empowerment,Recurring,1,Completed,FY2024,Q4,November,2024
+DON01083,D0139,2022-01-09,138.44,Refugee Support,Recurring,1,Completed,FY2021,Q1,January,2022
+DON01084,D0042,2024-02-06,203.27,Annual Giving,Online,1,Completed,FY2023,Q1,February,2024
+DON01085,D0453,2024-03-12,186.81,Refugee Support,Online,0,Completed,FY2023,Q1,March,2024
+DON01086,D0412,2024-03-10,28.01,Refugee Support,Online,1,Completed,FY2023,Q1,March,2024
+DON01087,D0410,2022-09-16,201.38,Refugee Support,Online,0,Completed,FY2022,Q3,September,2022
+DON01088,D0475,2022-11-22,56860.61,Digital Inclusion,Recurring,1,Pending,FY2022,Q4,November,2022
+DON01089,D0101,2022-11-10,83.73,Annual Giving,Direct Mail,0,Completed,FY2022,Q4,November,2022
+DON01090,D0487,2022-09-25,514.36,Annual Giving,Recurring,1,Failed,FY2022,Q3,September,2022
+DON01091,D0213,2023-05-18,8746.22,Community Health,Online,0,Completed,FY2022,Q2,May,2023
+DON01092,D0056,2022-10-22,277.04,Annual Giving,Online,0,Completed,FY2022,Q4,October,2022
+DON01093,D0149,2023-08-02,42.22,Emergency Relief,Online,0,Completed,FY2023,Q3,August,2023
+DON01094,D0472,2023-03-02,49.88,Women Empowerment,Telephone,0,Completed,FY2022,Q1,March,2023
+DON01095,D0099,2022-06-06,24.14,Environmental Care,Social Media,0,Completed,FY2021,Q2,June,2022
+DON01096,D0228,2023-01-04,210.68,Environmental Care,Recurring,1,Completed,FY2022,Q1,January,2023
+DON01097,D0332,2023-12-04,79.79,Annual Giving,Online,1,Completed,FY2023,Q4,December,2023
+DON01098,D0232,2023-01-30,802.01,Digital Inclusion,Telephone,0,Completed,FY2022,Q1,January,2023
+DON01099,D0388,2023-03-21,4432.61,Women Empowerment,Online,0,Completed,FY2022,Q1,March,2023
+DON01100,D0459,2024-09-13,1091.1,Youth Education,Online,0,Completed,FY2024,Q3,September,2024
+DON01101,D0130,2024-10-12,1060.77,Environmental Care,Recurring,1,Completed,FY2024,Q4,October,2024
+DON01102,D0452,2023-07-30,292.23,Digital Inclusion,Online,1,Completed,FY2023,Q3,July,2023
+DON01103,D0419,2024-09-26,9246.34,Community Health,Social Media,0,Completed,FY2024,Q3,September,2024
+DON01104,D0325,2024-05-29,168.95,Emergency Relief,Corporate,0,Completed,FY2023,Q2,May,2024
+DON01105,D0330,2023-06-03,48.99,Annual Giving,Social Media,0,Completed,FY2022,Q2,June,2023
+DON01106,D0380,2023-10-23,940.9,Annual Giving,Online,0,Completed,FY2023,Q4,October,2023
+DON01107,D0087,2023-10-06,20726.4,Women Empowerment,Direct Mail,0,Completed,FY2023,Q4,October,2023
+DON01108,D0092,2023-10-21,543.36,Community Health,Event,1,Completed,FY2023,Q4,October,2023
+DON01109,D0020,2022-07-30,228.36,Community Health,Event,0,Completed,FY2022,Q3,July,2022
+DON01110,D0244,2024-06-10,51.48,Refugee Support,Recurring,1,Completed,FY2023,Q2,June,2024
+DON01111,D0125,2024-10-18,2198.15,Annual Giving,Recurring,1,Completed,FY2024,Q4,October,2024
+DON01112,D0409,2023-11-01,145.27,Emergency Relief,Event,0,Completed,FY2023,Q4,November,2023
+DON01113,D0131,2023-08-06,22.85,Annual Giving,Telephone,0,Pending,FY2023,Q3,August,2023
+DON01114,D0180,2022-02-03,28.96,Annual Giving,Direct Mail,0,Completed,FY2021,Q1,February,2022
+DON01115,D0421,2023-12-10,272.33,Digital Inclusion,Direct Mail,0,Completed,FY2023,Q4,December,2023
+DON01116,D0057,2024-07-19,9975.27,Annual Giving,Direct Mail,0,Completed,FY2024,Q3,July,2024
+DON01117,D0411,2022-04-08,56.86,Emergency Relief,Online,1,Completed,FY2021,Q2,April,2022
+DON01118,D0350,2022-06-30,228.91,Refugee Support,Online,0,Completed,FY2021,Q2,June,2022
+DON01119,D0080,2022-04-18,2816.15,Annual Giving,Social Media,0,Completed,FY2021,Q2,April,2022
+DON01120,D0020,2023-11-06,40.96,Digital Inclusion,Online,0,Completed,FY2023,Q4,November,2023
+DON01121,D0159,2024-08-01,226.99,Youth Education,Telephone,0,Completed,FY2024,Q3,August,2024
+DON01122,D0024,2022-09-08,82.59,Refugee Support,Corporate,0,Completed,FY2022,Q3,September,2022
+DON01123,D0465,2024-09-15,532.25,Digital Inclusion,Direct Mail,0,Completed,FY2024,Q3,September,2024
+DON01124,D0034,2023-05-12,162.68,Women Empowerment,Corporate,0,Completed,FY2022,Q2,May,2023
+DON01125,D0051,2022-05-04,107.8,Emergency Relief,Social Media,0,Completed,FY2021,Q2,May,2022
+DON01126,D0173,2023-11-29,563.7,Community Health,Event,0,Completed,FY2023,Q4,November,2023
+DON01127,D0277,2023-10-01,1005.57,Women Empowerment,Recurring,1,Completed,FY2023,Q4,October,2023
+DON01128,D0339,2023-03-25,85.43,Emergency Relief,Telephone,1,Completed,FY2022,Q1,March,2023
+DON01129,D0284,2023-01-20,573.57,Community Health,Recurring,1,Completed,FY2022,Q1,January,2023
+DON01130,D0007,2022-07-29,216.42,Digital Inclusion,Social Media,0,Completed,FY2022,Q3,July,2022
+DON01131,D0069,2022-02-28,896.22,Environmental Care,Online,0,Completed,FY2021,Q1,February,2022
+DON01132,D0466,2023-03-11,2265.58,Emergency Relief,Direct Mail,0,Completed,FY2022,Q1,March,2023
+DON01133,D0445,2022-04-11,8212.63,Digital Inclusion,Direct Mail,0,Completed,FY2021,Q2,April,2022
+DON01134,D0017,2023-07-20,219.39,Community Health,Direct Mail,0,Completed,FY2023,Q3,July,2023
+DON01135,D0329,2022-08-16,210.92,Annual Giving,Corporate,0,Completed,FY2022,Q3,August,2022
+DON01136,D0219,2022-07-26,25.75,Community Health,Online,0,Completed,FY2022,Q3,July,2022
+DON01137,D0466,2023-03-27,27158.23,Refugee Support,Direct Mail,0,Completed,FY2022,Q1,March,2023
+DON01138,D0047,2023-12-13,9980.69,Youth Education,Recurring,1,Completed,FY2023,Q4,December,2023
+DON01139,D0492,2024-09-03,164.03,Emergency Relief,Online,0,Completed,FY2024,Q3,September,2024
+DON01140,D0195,2022-12-08,22386.19,Women Empowerment,Recurring,1,Completed,FY2022,Q4,December,2022
+DON01141,D0453,2024-05-26,428.37,Annual Giving,Recurring,1,Completed,FY2023,Q2,May,2024
+DON01142,D0194,2022-01-20,89.23,Emergency Relief,Online,0,Pending,FY2021,Q1,January,2022
+DON01143,D0161,2022-04-03,24.88,Community Health,Event,1,Completed,FY2021,Q2,April,2022
+DON01144,D0433,2022-07-12,170.12,Youth Education,Recurring,1,Completed,FY2022,Q3,July,2022
+DON01145,D0159,2023-06-12,196.21,Women Empowerment,Social Media,0,Completed,FY2022,Q2,June,2023
+DON01146,D0309,2023-11-15,402.71,Women Empowerment,Direct Mail,1,Completed,FY2023,Q4,November,2023
+DON01147,D0174,2024-04-20,422.55,Annual Giving,Online,1,Completed,FY2023,Q2,April,2024
+DON01148,D0277,2024-06-01,70.72,Annual Giving,Online,0,Completed,FY2023,Q2,June,2024
+DON01149,D0048,2023-07-15,5841.29,Refugee Support,Corporate,1,Completed,FY2023,Q3,July,2023
+DON01150,D0190,2023-12-16,59746.63,Youth Education,Online,1,Completed,FY2023,Q4,December,2023
+DON01151,D0181,2022-03-26,294.53,Digital Inclusion,Direct Mail,0,Completed,FY2021,Q1,March,2022
+DON01152,D0210,2023-12-12,48.67,Environmental Care,Corporate,0,Pending,FY2023,Q4,December,2023
+DON01153,D0077,2022-11-04,58544.66,Youth Education,Event,0,Completed,FY2022,Q4,November,2022
+DON01154,D0320,2022-05-13,1065.73,Digital Inclusion,Event,0,Completed,FY2021,Q2,May,2022
+DON01155,D0365,2023-09-19,443.47,Emergency Relief,Online,0,Completed,FY2023,Q3,September,2023
+DON01156,D0078,2023-08-04,819.96,Youth Education,Direct Mail,0,Completed,FY2023,Q3,August,2023
+DON01157,D0308,2022-10-20,862.01,Emergency Relief,Recurring,1,Failed,FY2022,Q4,October,2022
+DON01158,D0342,2022-03-07,97.28,Emergency Relief,Online,0,Completed,FY2021,Q1,March,2022
+DON01159,D0464,2023-09-11,242.26,Emergency Relief,Telephone,0,Completed,FY2023,Q3,September,2023
+DON01160,D0390,2022-10-13,53578.46,Women Empowerment,Recurring,1,Completed,FY2022,Q4,October,2022
+DON01161,D0329,2023-09-09,90.0,Refugee Support,Corporate,0,Completed,FY2023,Q3,September,2023
+DON01162,D0069,2024-06-13,50916.61,Refugee Support,Recurring,1,Completed,FY2023,Q2,June,2024
+DON01163,D0283,2024-01-03,976.76,Women Empowerment,Event,0,Completed,FY2023,Q1,January,2024
+DON01164,D0399,2022-02-24,296.14,Environmental Care,Online,1,Completed,FY2021,Q1,February,2022
+DON01165,D0360,2024-11-14,78.46,Digital Inclusion,Recurring,1,Completed,FY2024,Q4,November,2024
+DON01166,D0453,2024-03-15,1159.96,Digital Inclusion,Online,0,Completed,FY2023,Q1,March,2024
+DON01167,D0218,2022-06-23,112299.24,Environmental Care,Recurring,1,Completed,FY2021,Q2,June,2022
+DON01168,D0298,2024-09-13,46.67,Emergency Relief,Recurring,1,Completed,FY2024,Q3,September,2024
+DON01169,D0160,2024-11-23,21.21,Annual Giving,Recurring,1,Completed,FY2024,Q4,November,2024
+DON01170,D0030,2023-09-29,42728.06,Youth Education,Direct Mail,0,Pending,FY2023,Q3,September,2023
+DON01171,D0312,2022-01-01,524.73,Community Health,Online,0,Completed,FY2021,Q1,January,2022
+DON01172,D0214,2022-02-20,838.75,Community Health,Online,1,Completed,FY2021,Q1,February,2022
+DON01173,D0167,2023-01-12,29.26,Digital Inclusion,Direct Mail,1,Completed,FY2022,Q1,January,2023
+DON01174,D0391,2022-09-10,9041.09,Environmental Care,Telephone,0,Completed,FY2022,Q3,September,2022
+DON01175,D0271,2023-02-15,64.25,Community Health,Online,0,Completed,FY2022,Q1,February,2023
+DON01176,D0203,2023-07-18,59.18,Environmental Care,Direct Mail,0,Completed,FY2023,Q3,July,2023
+DON01177,D0423,2023-08-04,49.28,Refugee Support,Online,0,Completed,FY2023,Q3,August,2023
+DON01178,D0089,2024-06-29,10322.15,Annual Giving,Corporate,0,Completed,FY2023,Q2,June,2024
+DON01179,D0412,2022-11-21,74.04,Environmental Care,Online,0,Completed,FY2022,Q4,November,2022
+DON01180,D0418,2022-12-24,23488.34,Refugee Support,Event,0,Completed,FY2022,Q4,December,2022
+DON01181,D0337,2023-09-13,196.76,Youth Education,Online,1,Completed,FY2023,Q3,September,2023
+DON01182,D0204,2023-01-05,475.3,Environmental Care,Corporate,0,Pending,FY2022,Q1,January,2023
+DON01183,D0290,2023-12-14,8517.69,Women Empowerment,Corporate,0,Completed,FY2023,Q4,December,2023
+DON01184,D0018,2022-08-06,408.99,Youth Education,Online,0,Completed,FY2022,Q3,August,2022
+DON01185,D0218,2022-12-23,55198.19,Community Health,Online,0,Completed,FY2022,Q4,December,2022
+DON01186,D0328,2022-08-23,5844.75,Annual Giving,Corporate,0,Completed,FY2022,Q3,August,2022
+DON01187,D0145,2023-10-20,55267.04,Annual Giving,Telephone,0,Completed,FY2023,Q4,October,2023
+DON01188,D0055,2024-10-02,5977.74,Community Health,Online,0,Completed,FY2024,Q4,October,2024
+DON01189,D0351,2023-01-29,109.69,Refugee Support,Recurring,1,Completed,FY2022,Q1,January,2023
+DON01190,D0192,2022-10-15,26.29,Emergency Relief,Online,1,Completed,FY2022,Q4,October,2022
+DON01191,D0382,2024-12-17,256.83,Emergency Relief,Direct Mail,0,Completed,FY2024,Q4,December,2024
+DON01192,D0036,2022-10-10,500.17,Women Empowerment,Corporate,1,Completed,FY2022,Q4,October,2022
+DON01193,D0306,2024-11-25,287.4,Emergency Relief,Online,0,Completed,FY2024,Q4,November,2024
+DON01194,D0172,2023-08-17,82.06,Women Empowerment,Online,1,Completed,FY2023,Q3,August,2023
+DON01195,D0094,2022-06-03,165.44,Youth Education,Social Media,0,Completed,FY2021,Q2,June,2022
+DON01196,D0342,2022-04-27,1172.72,Digital Inclusion,Direct Mail,0,Completed,FY2021,Q2,April,2022
+DON01197,D0458,2022-03-08,587.39,Digital Inclusion,Recurring,1,Completed,FY2021,Q1,March,2022
+DON01198,D0129,2023-11-07,132.03,Annual Giving,Online,1,Completed,FY2023,Q4,November,2023
+DON01199,D0402,2022-03-14,8942.47,Emergency Relief,Recurring,1,Completed,FY2021,Q1,March,2022
+DON01200,D0027,2024-09-07,59.0,Emergency Relief,Telephone,1,Completed,FY2024,Q3,September,2024
+DON01201,D0036,2023-12-19,21.04,Environmental Care,Event,0,Completed,FY2023,Q4,December,2023
+DON01202,D0362,2023-02-06,80.86,Annual Giving,Online,0,Completed,FY2022,Q1,February,2023
+DON01203,D0286,2024-02-12,25.52,Annual Giving,Direct Mail,0,Completed,FY2023,Q1,February,2024
+DON01204,D0212,2024-01-24,254.95,Emergency Relief,Direct Mail,0,Completed,FY2023,Q1,January,2024
+DON01205,D0330,2023-04-11,22.38,Emergency Relief,Corporate,0,Completed,FY2022,Q2,April,2023
+DON01206,D0042,2023-05-27,1027.22,Annual Giving,Telephone,1,Completed,FY2022,Q2,May,2023
+DON01207,D0265,2023-12-18,73.16,Digital Inclusion,Online,0,Completed,FY2023,Q4,December,2023
+DON01208,D0067,2022-09-08,127.78,Refugee Support,Event,0,Completed,FY2022,Q3,September,2022
+DON01209,D0003,2023-03-28,882.34,Women Empowerment,Telephone,0,Completed,FY2022,Q1,March,2023
+DON01210,D0295,2023-05-16,222.42,Digital Inclusion,Telephone,0,Completed,FY2022,Q2,May,2023
+DON01211,D0398,2024-04-21,1001.38,Annual Giving,Direct Mail,0,Completed,FY2023,Q2,April,2024
+DON01212,D0178,2024-12-02,124.71,Youth Education,Recurring,1,Completed,FY2024,Q4,December,2024
+DON01213,D0203,2022-10-18,884.31,Women Empowerment,Recurring,1,Completed,FY2022,Q4,October,2022
+DON01214,D0411,2022-02-13,107.93,Environmental Care,Social Media,0,Completed,FY2021,Q1,February,2022
+DON01215,D0474,2022-06-23,155.29,Digital Inclusion,Recurring,1,Completed,FY2021,Q2,June,2022
+DON01216,D0285,2022-04-01,249.54,Refugee Support,Direct Mail,0,Completed,FY2021,Q2,April,2022
+DON01217,D0242,2023-12-14,50649.84,Digital Inclusion,Online,1,Completed,FY2023,Q4,December,2023
+DON01218,D0009,2023-03-20,2922.7,Digital Inclusion,Recurring,1,Completed,FY2022,Q1,March,2023
+DON01219,D0236,2022-04-27,218.06,Refugee Support,Telephone,1,Completed,FY2021,Q2,April,2022
+DON01220,D0211,2024-11-28,171.51,Environmental Care,Direct Mail,0,Pending,FY2024,Q4,November,2024
+DON01221,D0372,2022-02-01,549.13,Community Health,Online,0,Completed,FY2021,Q1,February,2022
+DON01222,D0421,2023-08-29,125.13,Community Health,Recurring,1,Completed,FY2023,Q3,August,2023
+DON01223,D0198,2023-05-29,4077.21,Digital Inclusion,Direct Mail,0,Completed,FY2022,Q2,May,2023
+DON01224,D0071,2023-01-02,21.24,Women Empowerment,Recurring,1,Completed,FY2022,Q1,January,2023
+DON01225,D0310,2024-01-05,24.4,Environmental Care,Online,0,Completed,FY2023,Q1,January,2024
+DON01226,D0106,2023-10-06,4817.22,Emergency Relief,Online,1,Completed,FY2023,Q4,October,2023
+DON01227,D0159,2024-10-10,165.96,Digital Inclusion,Online,0,Completed,FY2024,Q4,October,2024
+DON01228,D0161,2022-03-20,86.14,Annual Giving,Online,0,Completed,FY2021,Q1,March,2022
+DON01229,D0113,2023-04-12,515.98,Annual Giving,Corporate,0,Completed,FY2022,Q2,April,2023
+DON01230,D0151,2023-12-25,178.52,Annual Giving,Recurring,1,Completed,FY2023,Q4,December,2023
+DON01231,D0159,2024-11-04,26.01,Women Empowerment,Online,0,Completed,FY2024,Q4,November,2024
+DON01232,D0362,2024-05-01,88.16,Women Empowerment,Recurring,1,Completed,FY2023,Q2,May,2024
+DON01233,D0109,2024-01-08,5751.71,Youth Education,Online,0,Completed,FY2023,Q1,January,2024
+DON01234,D0491,2022-11-25,23747.16,Digital Inclusion,Corporate,0,Completed,FY2022,Q4,November,2022
+DON01235,D0064,2023-03-10,87.36,Annual Giving,Online,1,Completed,FY2022,Q1,March,2023
+DON01236,D0164,2024-02-15,1113.39,Women Empowerment,Social Media,1,Completed,FY2023,Q1,February,2024
+DON01237,D0306,2023-04-05,71.43,Emergency Relief,Social Media,0,Failed,FY2022,Q2,April,2023
+DON01238,D0085,2024-12-16,1093.58,Emergency Relief,Recurring,1,Completed,FY2024,Q4,December,2024
+DON01239,D0426,2023-02-04,531.84,Environmental Care,Direct Mail,1,Completed,FY2022,Q1,February,2023
+DON01240,D0443,2023-10-07,4657.37,Women Empowerment,Online,0,Completed,FY2023,Q4,October,2023
+DON01241,D0385,2023-12-22,4890.01,Refugee Support,Direct Mail,0,Completed,FY2023,Q4,December,2023
+DON01242,D0477,2024-05-07,212.27,Community Health,Direct Mail,0,Completed,FY2023,Q2,May,2024
+DON01243,D0125,2024-04-14,1170.29,Community Health,Recurring,1,Completed,FY2023,Q2,April,2024
+DON01244,D0272,2022-08-30,78.17,Digital Inclusion,Direct Mail,0,Completed,FY2022,Q3,August,2022
+DON01245,D0365,2024-07-18,1030.4,Community Health,Telephone,0,Completed,FY2024,Q3,July,2024
+DON01246,D0198,2022-09-16,2765.51,Environmental Care,Recurring,1,Completed,FY2022,Q3,September,2022
+DON01247,D0294,2022-09-29,202.39,Youth Education,Social Media,0,Completed,FY2022,Q3,September,2022
+DON01248,D0476,2023-05-10,290.43,Women Empowerment,Online,0,Completed,FY2022,Q2,May,2023
+DON01249,D0050,2022-04-03,207.32,Emergency Relief,Social Media,0,Pending,FY2021,Q2,April,2022
+DON01250,D0115,2024-06-11,582.13,Environmental Care,Recurring,1,Completed,FY2023,Q2,June,2024
+DON01251,D0422,2024-11-09,540.02,Youth Education,Recurring,1,Completed,FY2024,Q4,November,2024
+DON01252,D0346,2024-07-17,25.94,Women Empowerment,Recurring,1,Completed,FY2024,Q3,July,2024
+DON01253,D0152,2022-07-18,87068.89,Digital Inclusion,Social Media,0,Completed,FY2022,Q3,July,2022
+DON01254,D0305,2024-02-26,25.64,Refugee Support,Online,0,Completed,FY2023,Q1,February,2024
+DON01255,D0315,2023-07-24,61.26,Community Health,Direct Mail,0,Completed,FY2023,Q3,July,2023
+DON01256,D0244,2023-07-15,46.95,Youth Education,Online,0,Completed,FY2023,Q3,July,2023
+DON01257,D0490,2022-08-06,68.65,Digital Inclusion,Social Media,1,Completed,FY2022,Q3,August,2022
+DON01258,D0290,2022-03-23,4191.95,Youth Education,Online,1,Completed,FY2021,Q1,March,2022
+DON01259,D0463,2023-08-01,4013.33,Annual Giving,Direct Mail,1,Completed,FY2023,Q3,August,2023
+DON01260,D0209,2023-08-28,24448.25,Youth Education,Recurring,1,Completed,FY2023,Q3,August,2023
+DON01261,D0077,2022-06-27,977.76,Refugee Support,Event,1,Failed,FY2021,Q2,June,2022
+DON01262,D0229,2023-04-01,26687.16,Women Empowerment,Recurring,1,Completed,FY2022,Q2,April,2023
+DON01263,D0312,2024-11-16,172.54,Women Empowerment,Online,0,Completed,FY2024,Q4,November,2024
+DON01264,D0215,2024-12-03,231.38,Annual Giving,Direct Mail,0,Completed,FY2024,Q4,December,2024
+DON01265,D0200,2022-01-17,28376.35,Annual Giving,Social Media,0,Completed,FY2021,Q1,January,2022
+DON01266,D0455,2024-09-19,106.93,Digital Inclusion,Event,1,Completed,FY2024,Q3,September,2024
+DON01267,D0364,2023-03-15,2131.79,Emergency Relief,Social Media,0,Completed,FY2022,Q1,March,2023
+DON01268,D0037,2023-06-23,1044.49,Youth Education,Online,0,Completed,FY2022,Q2,June,2023
+DON01269,D0120,2023-01-04,105.51,Environmental Care,Event,1,Completed,FY2022,Q1,January,2023
+DON01270,D0149,2024-03-14,160.08,Environmental Care,Recurring,1,Completed,FY2023,Q1,March,2024
+DON01271,D0300,2023-08-12,91816.69,Community Health,Online,0,Completed,FY2023,Q3,August,2023
+DON01272,D0313,2023-10-16,106.5,Emergency Relief,Online,0,Completed,FY2023,Q4,October,2023
+DON01273,D0097,2024-09-28,270.48,Environmental Care,Recurring,1,Completed,FY2024,Q3,September,2024
+DON01274,D0108,2024-04-17,20289.63,Digital Inclusion,Event,0,Completed,FY2023,Q2,April,2024
+DON01275,D0395,2024-06-24,160.5,Refugee Support,Direct Mail,0,Completed,FY2023,Q2,June,2024
+DON01276,D0296,2022-04-04,22.68,Community Health,Direct Mail,0,Completed,FY2021,Q2,April,2022
+DON01277,D0433,2023-11-07,76.08,Emergency Relief,Social Media,0,Completed,FY2023,Q4,November,2023
+DON01278,D0009,2023-11-14,20211.18,Refugee Support,Online,1,Completed,FY2023,Q4,November,2023
+DON01279,D0425,2024-01-12,825.39,Annual Giving,Event,0,Failed,FY2023,Q1,January,2024
+DON01280,D0409,2022-11-27,958.21,Community Health,Online,1,Completed,FY2022,Q4,November,2022
+DON01281,D0008,2022-03-15,102.12,Community Health,Social Media,1,Completed,FY2021,Q1,March,2022
+DON01282,D0006,2022-03-28,841.01,Refugee Support,Recurring,1,Completed,FY2021,Q1,March,2022
+DON01283,D0298,2022-09-11,121.45,Community Health,Online,1,Completed,FY2022,Q3,September,2022
+DON01284,D0194,2022-06-06,213.12,Digital Inclusion,Telephone,0,Completed,FY2021,Q2,June,2022
+DON01285,D0430,2024-03-12,202.02,Youth Education,Online,0,Completed,FY2023,Q1,March,2024
+DON01286,D0408,2022-02-17,167.09,Refugee Support,Event,0,Completed,FY2021,Q1,February,2022
+DON01287,D0121,2024-05-29,45.29,Environmental Care,Direct Mail,0,Pending,FY2023,Q2,May,2024
+DON01288,D0155,2024-12-28,911.42,Digital Inclusion,Telephone,0,Completed,FY2024,Q4,December,2024
+DON01289,D0404,2022-08-10,54551.15,Women Empowerment,Recurring,1,Completed,FY2022,Q3,August,2022
+DON01290,D0399,2024-09-03,23.97,Community Health,Direct Mail,0,Completed,FY2024,Q3,September,2024
+DON01291,D0321,2022-12-13,171.5,Emergency Relief,Online,0,Pending,FY2022,Q4,December,2022
+DON01292,D0390,2024-08-27,4167.78,Refugee Support,Corporate,0,Completed,FY2024,Q3,August,2024
+DON01293,D0388,2023-09-30,4117.87,Environmental Care,Online,0,Completed,FY2023,Q3,September,2023
+DON01294,D0076,2023-07-04,23.21,Refugee Support,Telephone,0,Completed,FY2023,Q3,July,2023
+DON01295,D0128,2023-04-28,509.12,Women Empowerment,Social Media,0,Completed,FY2022,Q2,April,2023
+DON01296,D0320,2024-05-21,1021.92,Emergency Relief,Telephone,0,Completed,FY2023,Q2,May,2024
+DON01297,D0004,2024-06-15,21.62,Emergency Relief,Online,1,Completed,FY2023,Q2,June,2024
+DON01298,D0354,2024-05-06,249.52,Environmental Care,Online,0,Completed,FY2023,Q2,May,2024
+DON01299,D0053,2024-02-01,299.57,Digital Inclusion,Event,0,Completed,FY2023,Q1,February,2024
+DON01300,D0432,2024-01-31,10093.0,Community Health,Recurring,1,Completed,FY2023,Q1,January,2024
+DON01301,D0486,2022-10-05,2472.11,Community Health,Social Media,0,Completed,FY2022,Q4,October,2022
+DON01302,D0494,2024-08-21,80392.85,Refugee Support,Online,0,Failed,FY2024,Q3,August,2024
+DON01303,D0436,2024-07-28,2701.46,Community Health,Recurring,1,Completed,FY2024,Q3,July,2024
+DON01304,D0143,2023-04-08,26.25,Youth Education,Online,0,Completed,FY2022,Q2,April,2023
+DON01305,D0390,2023-09-19,4549.16,Refugee Support,Corporate,0,Completed,FY2023,Q3,September,2023
+DON01306,D0399,2022-11-09,153.67,Community Health,Online,0,Completed,FY2022,Q4,November,2022
+DON01307,D0490,2024-12-05,67.89,Emergency Relief,Online,0,Completed,FY2024,Q4,December,2024
+DON01308,D0133,2024-08-27,206.05,Digital Inclusion,Social Media,0,Completed,FY2024,Q3,August,2024
+DON01309,D0251,2022-10-28,119.56,Emergency Relief,Telephone,0,Completed,FY2022,Q4,October,2022
+DON01310,D0379,2024-06-19,464.67,Annual Giving,Online,0,Completed,FY2023,Q2,June,2024
+DON01311,D0244,2024-03-16,150.02,Emergency Relief,Online,0,Completed,FY2023,Q1,March,2024
+DON01312,D0481,2023-03-15,471.0,Women Empowerment,Event,1,Pending,FY2022,Q1,March,2023
+DON01313,D0394,2024-09-30,162.68,Refugee Support,Corporate,0,Completed,FY2024,Q3,September,2024
+DON01314,D0024,2022-12-31,51.16,Refugee Support,Recurring,1,Completed,FY2022,Q4,December,2022
+DON01315,D0356,2023-03-14,228.43,Women Empowerment,Recurring,1,Completed,FY2022,Q1,March,2023
+DON01316,D0204,2022-01-22,95.3,Youth Education,Social Media,0,Completed,FY2021,Q1,January,2022
+DON01317,D0129,2024-01-26,80.22,Digital Inclusion,Direct Mail,1,Completed,FY2023,Q1,January,2024
+DON01318,D0295,2024-09-07,26.07,Annual Giving,Corporate,0,Failed,FY2024,Q3,September,2024
+DON01319,D0359,2022-03-04,136.45,Annual Giving,Social Media,1,Pending,FY2021,Q1,March,2022
+DON01320,D0397,2022-08-01,498.06,Environmental Care,Recurring,1,Completed,FY2022,Q3,August,2022
+DON01321,D0273,2022-12-29,522.58,Youth Education,Recurring,1,Completed,FY2022,Q4,December,2022
+DON01322,D0499,2022-05-08,62.48,Emergency Relief,Online,0,Completed,FY2021,Q2,May,2022
+DON01323,D0028,2022-02-04,11933.61,Community Health,Recurring,1,Completed,FY2021,Q1,February,2022
+DON01324,D0381,2024-01-21,231.82,Youth Education,Telephone,0,Pending,FY2023,Q1,January,2024
+DON01325,D0281,2024-10-24,241.64,Annual Giving,Online,0,Completed,FY2024,Q4,October,2024
+DON01326,D0394,2024-11-01,73.3,Digital Inclusion,Corporate,0,Completed,FY2024,Q4,November,2024
+DON01327,D0320,2024-08-12,23.11,Women Empowerment,Online,0,Completed,FY2024,Q3,August,2024
+DON01328,D0054,2022-06-26,417.63,Emergency Relief,Online,0,Completed,FY2021,Q2,June,2022
+DON01329,D0129,2024-02-07,27.67,Annual Giving,Online,0,Completed,FY2023,Q1,February,2024
+DON01330,D0359,2022-09-29,92.31,Community Health,Recurring,1,Completed,FY2022,Q3,September,2022
+DON01331,D0374,2023-10-09,5411.83,Youth Education,Online,0,Completed,FY2023,Q4,October,2023
+DON01332,D0458,2023-06-16,173.01,Youth Education,Social Media,0,Completed,FY2022,Q2,June,2023
+DON01333,D0027,2024-12-07,471.03,Women Empowerment,Direct Mail,0,Completed,FY2024,Q4,December,2024
+DON01334,D0463,2023-03-08,4073.46,Refugee Support,Online,1,Completed,FY2022,Q1,March,2023
+DON01335,D0026,2023-03-08,132.45,Digital Inclusion,Online,0,Completed,FY2022,Q1,March,2023
+DON01336,D0403,2024-08-14,1168.77,Youth Education,Event,0,Completed,FY2024,Q3,August,2024
+DON01337,D0173,2022-08-03,265.83,Annual Giving,Direct Mail,0,Completed,FY2022,Q3,August,2022
+DON01338,D0252,2022-07-25,21.59,Environmental Care,Direct Mail,0,Completed,FY2022,Q3,July,2022
+DON01339,D0455,2024-06-18,74.01,Youth Education,Recurring,1,Completed,FY2023,Q2,June,2024
+DON01340,D0432,2024-08-27,51871.5,Refugee Support,Recurring,1,Completed,FY2024,Q3,August,2024
+DON01341,D0448,2024-04-01,54467.45,Women Empowerment,Event,0,Failed,FY2023,Q2,April,2024
+DON01342,D0281,2023-07-06,110.53,Emergency Relief,Direct Mail,1,Completed,FY2023,Q3,July,2023
+DON01343,D0156,2024-12-09,8656.1,Youth Education,Telephone,0,Failed,FY2024,Q4,December,2024
+DON01344,D0121,2022-04-21,63.9,Women Empowerment,Recurring,1,Failed,FY2021,Q2,April,2022
+DON01345,D0017,2024-07-28,167.57,Youth Education,Recurring,1,Completed,FY2024,Q3,July,2024
+DON01346,D0461,2022-12-19,80033.73,Youth Education,Online,0,Completed,FY2022,Q4,December,2022
+DON01347,D0166,2023-05-17,114.31,Refugee Support,Online,0,Completed,FY2022,Q2,May,2023
+DON01348,D0241,2024-08-22,40098.9,Youth Education,Direct Mail,0,Completed,FY2024,Q3,August,2024
+DON01349,D0021,2023-05-13,116.51,Refugee Support,Recurring,1,Completed,FY2022,Q2,May,2023
+DON01350,D0250,2022-10-01,47.75,Women Empowerment,Recurring,1,Completed,FY2022,Q4,October,2022
+DON01351,D0385,2024-12-29,11592.09,Refugee Support,Corporate,0,Completed,FY2024,Q4,December,2024
+DON01352,D0194,2024-01-26,22.22,Youth Education,Recurring,1,Completed,FY2023,Q1,January,2024
+DON01353,D0247,2023-04-17,1044.23,Refugee Support,Telephone,0,Completed,FY2022,Q2,April,2023
+DON01354,D0337,2023-01-04,92.08,Emergency Relief,Direct Mail,0,Completed,FY2022,Q1,January,2023
+DON01355,D0415,2024-05-13,267.53,Environmental Care,Online,0,Completed,FY2023,Q2,May,2024
+DON01356,D0324,2023-12-11,11336.93,Environmental Care,Recurring,1,Completed,FY2023,Q4,December,2023
+DON01357,D0441,2022-01-26,1062.35,Refugee Support,Recurring,1,Completed,FY2021,Q1,January,2022
+DON01358,D0395,2022-01-24,77.24,Refugee Support,Recurring,1,Completed,FY2021,Q1,January,2022
+DON01359,D0023,2023-06-14,242.25,Annual Giving,Direct Mail,0,Completed,FY2022,Q2,June,2023
+DON01360,D0382,2024-12-31,500.41,Environmental Care,Recurring,1,Failed,FY2024,Q4,December,2024
+DON01361,D0251,2024-02-25,55.71,Refugee Support,Event,1,Completed,FY2023,Q1,February,2024
+DON01362,D0251,2024-07-20,23.37,Digital Inclusion,Online,0,Completed,FY2024,Q3,July,2024
+DON01363,D0189,2022-04-13,21.22,Environmental Care,Event,1,Completed,FY2021,Q2,April,2022
+DON01364,D0200,2022-02-18,2425.7,Digital Inclusion,Recurring,1,Completed,FY2021,Q1,February,2022
+DON01365,D0286,2023-10-27,68.8,Refugee Support,Online,0,Completed,FY2023,Q4,October,2023
+DON01366,D0358,2024-03-22,47.14,Annual Giving,Event,0,Completed,FY2023,Q1,March,2024
+DON01367,D0442,2024-06-01,42.52,Youth Education,Corporate,1,Completed,FY2023,Q2,June,2024
+DON01368,D0245,2024-12-08,107559.68,Community Health,Telephone,0,Completed,FY2024,Q4,December,2024
+DON01369,D0124,2022-07-27,2372.8,Youth Education,Corporate,0,Failed,FY2022,Q3,July,2022
+DON01370,D0326,2022-02-15,9351.09,Digital Inclusion,Direct Mail,0,Completed,FY2021,Q1,February,2022
+DON01371,D0182,2023-01-28,56.74,Refugee Support,Social Media,0,Failed,FY2022,Q1,January,2023
+DON01372,D0345,2022-04-11,1015.66,Community Health,Recurring,1,Completed,FY2021,Q2,April,2022
+DON01373,D0343,2023-01-16,443.04,Refugee Support,Online,0,Completed,FY2022,Q1,January,2023
+DON01374,D0453,2024-04-13,290.97,Digital Inclusion,Online,0,Completed,FY2023,Q2,April,2024
+DON01375,D0039,2023-10-14,68.24,Environmental Care,Corporate,0,Completed,FY2023,Q4,October,2023
+DON01376,D0280,2024-08-01,177.68,Digital Inclusion,Recurring,1,Completed,FY2024,Q3,August,2024
+DON01377,D0268,2022-01-26,203.32,Environmental Care,Telephone,0,Completed,FY2021,Q1,January,2022
+DON01378,D0372,2022-12-15,430.36,Environmental Care,Online,0,Completed,FY2022,Q4,December,2022
+DON01379,D0289,2023-12-09,10642.79,Emergency Relief,Corporate,0,Completed,FY2023,Q4,December,2023
+DON01380,D0145,2024-08-15,9216.13,Women Empowerment,Event,0,Completed,FY2024,Q3,August,2024
+DON01381,D0041,2022-02-17,5248.53,Refugee Support,Direct Mail,0,Completed,FY2021,Q1,February,2022
+DON01382,D0173,2022-09-27,597.94,Refugee Support,Telephone,0,Pending,FY2022,Q3,September,2022
+DON01383,D0167,2022-08-15,41.94,Community Health,Online,0,Completed,FY2022,Q3,August,2022
+DON01384,D0247,2023-12-22,5533.75,Refugee Support,Corporate,0,Completed,FY2023,Q4,December,2023
+DON01385,D0450,2023-10-13,9115.52,Women Empowerment,Corporate,0,Completed,FY2023,Q4,October,2023
+DON01386,D0367,2023-08-10,1143.62,Environmental Care,Recurring,1,Completed,FY2023,Q3,August,2023
+DON01387,D0012,2022-01-07,431.39,Youth Education,Direct Mail,0,Completed,FY2021,Q1,January,2022
+DON01388,D0204,2024-05-06,531.24,Emergency Relief,Direct Mail,1,Completed,FY2023,Q2,May,2024
+DON01389,D0269,2024-10-27,26.19,Youth Education,Corporate,1,Completed,FY2024,Q4,October,2024
+DON01390,D0091,2023-05-27,24087.75,Annual Giving,Direct Mail,0,Completed,FY2022,Q2,May,2023
+DON01391,D0110,2024-03-08,1180.74,Annual Giving,Recurring,1,Completed,FY2023,Q1,March,2024
+DON01392,D0406,2023-05-06,114.01,Youth Education,Event,0,Pending,FY2022,Q2,May,2023
+DON01393,D0411,2022-03-05,92.91,Digital Inclusion,Online,0,Completed,FY2021,Q1,March,2022
+DON01394,D0082,2022-12-29,107.35,Environmental Care,Social Media,1,Completed,FY2022,Q4,December,2022
+DON01395,D0461,2022-11-23,11214.75,Women Empowerment,Telephone,0,Completed,FY2022,Q4,November,2022
+DON01396,D0017,2024-04-12,40.14,Annual Giving,Recurring,1,Completed,FY2023,Q2,April,2024
+DON01397,D0107,2023-06-17,5724.34,Emergency Relief,Recurring,1,Completed,FY2022,Q2,June,2023
+DON01398,D0280,2022-05-03,848.39,Annual Giving,Direct Mail,0,Completed,FY2021,Q2,May,2022
+DON01399,D0268,2022-09-12,23.63,Environmental Care,Direct Mail,0,Completed,FY2022,Q3,September,2022
+DON01400,D0097,2023-11-27,54.44,Women Empowerment,Direct Mail,0,Completed,FY2023,Q4,November,2023
+DON01401,D0013,2022-06-01,442.02,Emergency Relief,Direct Mail,0,Completed,FY2021,Q2,June,2022
+DON01402,D0299,2024-06-29,5513.96,Women Empowerment,Online,0,Completed,FY2023,Q2,June,2024
+DON01403,D0401,2022-10-31,154.09,Annual Giving,Recurring,1,Completed,FY2022,Q4,October,2022
+DON01404,D0378,2023-08-20,22.21,Women Empowerment,Corporate,0,Completed,FY2023,Q3,August,2023
+DON01405,D0280,2022-11-13,148.52,Environmental Care,Recurring,1,Completed,FY2022,Q4,November,2022
+DON01406,D0249,2023-06-11,21465.26,Digital Inclusion,Telephone,0,Completed,FY2022,Q2,June,2023
+DON01407,D0314,2023-06-16,103.33,Youth Education,Corporate,0,Completed,FY2022,Q2,June,2023
+DON01408,D0471,2022-11-16,962.34,Youth Education,Social Media,0,Completed,FY2022,Q4,November,2022
+DON01409,D0482,2024-12-11,949.75,Environmental Care,Corporate,0,Completed,FY2024,Q4,December,2024
+DON01410,D0323,2023-09-26,201.42,Emergency Relief,Direct Mail,0,Completed,FY2023,Q3,September,2023
+DON01411,D0380,2022-01-25,53.0,Women Empowerment,Event,1,Completed,FY2021,Q1,January,2022
+DON01412,D0190,2024-03-27,5482.76,Women Empowerment,Recurring,1,Completed,FY2023,Q1,March,2024
+DON01413,D0456,2024-12-31,200.59,Digital Inclusion,Corporate,1,Completed,FY2024,Q4,December,2024
+DON01414,D0078,2024-12-06,1188.17,Annual Giving,Direct Mail,0,Completed,FY2024,Q4,December,2024
+DON01415,D0043,2024-07-23,80.69,Community Health,Online,0,Failed,FY2024,Q3,July,2024
+DON01416,D0336,2022-05-11,2551.98,Emergency Relief,Recurring,1,Completed,FY2021,Q2,May,2022
+DON01417,D0486,2023-05-15,1009.02,Annual Giving,Online,0,Completed,FY2022,Q2,May,2023
+DON01418,D0118,2022-05-30,4196.54,Annual Giving,Direct Mail,0,Completed,FY2021,Q2,May,2022
+DON01419,D0411,2023-03-17,49.52,Emergency Relief,Event,0,Completed,FY2022,Q1,March,2023
+DON01420,D0357,2024-06-25,25.82,Emergency Relief,Recurring,1,Completed,FY2023,Q2,June,2024
+DON01421,D0169,2023-05-31,1035.58,Environmental Care,Social Media,0,Completed,FY2022,Q2,May,2023
+DON01422,D0046,2024-11-19,526.23,Women Empowerment,Event,0,Completed,FY2024,Q4,November,2024
+DON01423,D0231,2024-10-27,172.04,Community Health,Direct Mail,0,Completed,FY2024,Q4,October,2024
+DON01424,D0488,2024-11-09,74.63,Women Empowerment,Telephone,0,Completed,FY2024,Q4,November,2024
+DON01425,D0044,2024-06-26,552.09,Digital Inclusion,Online,0,Completed,FY2023,Q2,June,2024
+DON01426,D0294,2023-03-13,65.81,Emergency Relief,Recurring,1,Completed,FY2022,Q1,March,2023
+DON01427,D0116,2023-09-07,139.2,Environmental Care,Online,1,Completed,FY2023,Q3,September,2023
+DON01428,D0284,2022-12-18,69.71,Community Health,Recurring,1,Completed,FY2022,Q4,December,2022
+DON01429,D0186,2024-05-03,69.77,Environmental Care,Recurring,1,Completed,FY2023,Q2,May,2024
+DON01430,D0334,2023-09-14,133.72,Digital Inclusion,Event,0,Completed,FY2023,Q3,September,2023
+DON01431,D0061,2024-05-21,226.34,Women Empowerment,Direct Mail,0,Completed,FY2023,Q2,May,2024
+DON01432,D0250,2024-04-17,27.62,Refugee Support,Online,0,Completed,FY2023,Q2,April,2024
+DON01433,D0201,2023-02-19,55340.97,Annual Giving,Recurring,1,Completed,FY2022,Q1,February,2023
+DON01434,D0108,2024-05-25,45895.94,Women Empowerment,Online,0,Completed,FY2023,Q2,May,2024
+DON01435,D0020,2024-06-20,1095.61,Community Health,Corporate,1,Completed,FY2023,Q2,June,2024
+DON01436,D0473,2024-08-20,86.42,Environmental Care,Social Media,1,Pending,FY2024,Q3,August,2024
+DON01437,D0011,2024-02-08,53756.02,Environmental Care,Online,0,Completed,FY2023,Q1,February,2024
+DON01438,D0161,2023-08-06,182.08,Women Empowerment,Direct Mail,0,Completed,FY2023,Q3,August,2023
+DON01439,D0238,2022-11-05,46.49,Refugee Support,Recurring,1,Completed,FY2022,Q4,November,2022
+DON01440,D0191,2023-11-03,8799.98,Emergency Relief,Direct Mail,0,Completed,FY2023,Q4,November,2023
+DON01441,D0058,2022-10-15,153.4,Digital Inclusion,Recurring,1,Completed,FY2022,Q4,October,2022
+DON01442,D0345,2024-01-10,57.41,Women Empowerment,Social Media,1,Completed,FY2023,Q1,January,2024
+DON01443,D0446,2024-01-12,4368.28,Environmental Care,Online,0,Completed,FY2023,Q1,January,2024
+DON01444,D0322,2024-04-21,135.32,Annual Giving,Online,0,Completed,FY2023,Q2,April,2024
+DON01445,D0403,2024-11-15,1132.67,Annual Giving,Telephone,0,Completed,FY2024,Q4,November,2024
+DON01446,D0222,2024-10-04,591.96,Women Empowerment,Recurring,1,Completed,FY2024,Q4,October,2024
+DON01447,D0004,2022-08-19,210.75,Emergency Relief,Corporate,0,Completed,FY2022,Q3,August,2022
+DON01448,D0341,2023-01-26,1029.57,Environmental Care,Corporate,0,Completed,FY2022,Q1,January,2023
+DON01449,D0054,2022-11-08,281.78,Environmental Care,Event,0,Completed,FY2022,Q4,November,2022
+DON01450,D0398,2024-04-02,196.32,Refugee Support,Telephone,0,Completed,FY2023,Q2,April,2024
+DON01451,D0384,2022-11-05,40377.43,Community Health,Direct Mail,0,Completed,FY2022,Q4,November,2022
+DON01452,D0257,2023-12-28,202.59,Community Health,Recurring,1,Completed,FY2023,Q4,December,2023
+DON01453,D0034,2023-01-07,65.67,Youth Education,Online,0,Completed,FY2022,Q1,January,2023
+DON01454,D0286,2023-11-02,27.79,Women Empowerment,Social Media,1,Pending,FY2023,Q4,November,2023
+DON01455,D0028,2023-07-10,4403.4,Youth Education,Direct Mail,0,Completed,FY2023,Q3,July,2023
+DON01456,D0257,2024-02-08,162.18,Environmental Care,Online,0,Completed,FY2023,Q1,February,2024
+DON01457,D0220,2023-02-11,95.22,Environmental Care,Direct Mail,0,Completed,FY2022,Q1,February,2023
+DON01458,D0113,2024-11-23,41.86,Youth Education,Event,0,Completed,FY2024,Q4,November,2024
+DON01459,D0453,2023-10-11,58.81,Women Empowerment,Recurring,1,Completed,FY2023,Q4,October,2023
+DON01460,D0099,2024-11-07,119.41,Women Empowerment,Event,0,Completed,FY2024,Q4,November,2024
+DON01461,D0456,2022-07-24,23.8,Refugee Support,Direct Mail,0,Pending,FY2022,Q3,July,2022
+DON01462,D0396,2022-06-22,973.66,Digital Inclusion,Online,0,Completed,FY2021,Q2,June,2022
+DON01463,D0395,2023-10-25,403.17,Digital Inclusion,Recurring,1,Completed,FY2023,Q4,October,2023
+DON01464,D0119,2022-11-15,87.09,Annual Giving,Online,0,Completed,FY2022,Q4,November,2022
+DON01465,D0418,2023-08-24,8244.73,Community Health,Telephone,0,Completed,FY2023,Q3,August,2023
+DON01466,D0198,2022-11-07,967.7,Youth Education,Social Media,0,Completed,FY2022,Q4,November,2022
+DON01467,D0087,2022-03-03,23650.68,Emergency Relief,Recurring,1,Completed,FY2021,Q1,March,2022
+DON01468,D0123,2023-06-28,144.22,Women Empowerment,Telephone,0,Completed,FY2022,Q2,June,2023
+DON01469,D0041,2022-10-23,932.63,Environmental Care,Online,1,Completed,FY2022,Q4,October,2022
+DON01470,D0093,2022-01-31,55250.05,Youth Education,Online,0,Completed,FY2021,Q1,January,2022
+DON01471,D0404,2024-08-09,59763.83,Emergency Relief,Social Media,1,Completed,FY2024,Q3,August,2024
+DON01472,D0253,2024-08-19,976.17,Annual Giving,Direct Mail,1,Completed,FY2024,Q3,August,2024
+DON01473,D0217,2022-07-17,212.51,Women Empowerment,Social Media,0,Completed,FY2022,Q3,July,2022
+DON01474,D0231,2022-10-20,85.03,Youth Education,Recurring,1,Completed,FY2022,Q4,October,2022
+DON01475,D0453,2022-08-04,54.86,Refugee Support,Online,0,Completed,FY2022,Q3,August,2022
+DON01476,D0331,2024-11-30,139.72,Environmental Care,Recurring,1,Completed,FY2024,Q4,November,2024
+DON01477,D0003,2024-02-07,165.59,Youth Education,Direct Mail,0,Completed,FY2023,Q1,February,2024
+DON01478,D0037,2023-02-10,27.48,Refugee Support,Corporate,1,Completed,FY2022,Q1,February,2023
+DON01479,D0110,2023-10-23,1134.15,Community Health,Online,0,Completed,FY2023,Q4,October,2023
+DON01480,D0033,2023-03-16,2187.75,Refugee Support,Event,0,Completed,FY2022,Q1,March,2023
+DON01481,D0161,2024-11-19,423.56,Digital Inclusion,Recurring,1,Pending,FY2024,Q4,November,2024
+DON01482,D0329,2024-09-25,239.73,Youth Education,Online,0,Completed,FY2024,Q3,September,2024
+DON01483,D0431,2023-06-23,53.36,Women Empowerment,Recurring,1,Completed,FY2022,Q2,June,2023
+DON01484,D0489,2022-09-16,194.12,Annual Giving,Social Media,0,Failed,FY2022,Q3,September,2022
+DON01485,D0067,2023-12-13,42.41,Digital Inclusion,Online,0,Completed,FY2023,Q4,December,2023
+DON01486,D0009,2024-11-12,593.26,Youth Education,Direct Mail,0,Completed,FY2024,Q4,November,2024
+DON01487,D0122,2023-12-26,111.04,Community Health,Recurring,1,Completed,FY2023,Q4,December,2023
+DON01488,D0277,2024-01-13,76.89,Annual Giving,Recurring,1,Completed,FY2023,Q1,January,2024
+DON01489,D0276,2022-12-06,866.7,Youth Education,Online,0,Completed,FY2022,Q4,December,2022
+DON01490,D0326,2024-05-18,28432.39,Youth Education,Event,1,Completed,FY2023,Q2,May,2024
+DON01491,D0393,2024-08-16,229.65,Refugee Support,Telephone,0,Completed,FY2024,Q3,August,2024
+DON01492,D0366,2023-10-01,120.02,Digital Inclusion,Recurring,1,Completed,FY2023,Q4,October,2023
+DON01493,D0360,2024-09-11,41.18,Refugee Support,Online,1,Completed,FY2024,Q3,September,2024
+DON01494,D0223,2024-03-11,95.65,Youth Education,Corporate,0,Completed,FY2023,Q1,March,2024
+DON01495,D0406,2024-04-02,165.64,Digital Inclusion,Online,0,Completed,FY2023,Q2,April,2024
+DON01496,D0379,2023-07-19,21518.46,Environmental Care,Online,0,Completed,FY2023,Q3,July,2023
+DON01497,D0012,2024-08-22,50.41,Emergency Relief,Recurring,1,Completed,FY2024,Q3,August,2024
+DON01498,D0337,2024-07-19,459.76,Emergency Relief,Event,0,Completed,FY2024,Q3,July,2024
+DON01499,D0464,2023-06-08,230.02,Annual Giving,Direct Mail,0,Completed,FY2022,Q2,June,2023
+DON01500,D0388,2023-04-06,5752.48,Environmental Care,Recurring,1,Completed,FY2022,Q2,April,2023
+DON01501,D0455,2024-10-09,59.95,Women Empowerment,Online,1,Pending,FY2024,Q4,October,2024
+DON01502,D0329,2023-07-28,205.67,Emergency Relief,Telephone,1,Completed,FY2023,Q3,July,2023
+DON01503,D0012,2023-05-30,158.42,Women Empowerment,Direct Mail,1,Completed,FY2022,Q2,May,2023
+DON01504,D0360,2024-10-10,54.26,Environmental Care,Online,0,Completed,FY2024,Q4,October,2024
+DON01505,D0112,2024-02-09,126.24,Environmental Care,Corporate,0,Completed,FY2023,Q1,February,2024
+DON01506,D0337,2022-07-21,204.21,Emergency Relief,Corporate,0,Completed,FY2022,Q3,July,2022
+DON01507,D0313,2022-03-23,94.43,Refugee Support,Recurring,1,Completed,FY2021,Q1,March,2022
+DON01508,D0014,2024-06-03,5704.47,Annual Giving,Social Media,0,Completed,FY2023,Q2,June,2024
+DON01509,D0374,2024-04-24,8722.95,Women Empowerment,Online,1,Completed,FY2023,Q2,April,2024
+DON01510,D0137,2023-05-25,141.52,Women Empowerment,Direct Mail,0,Completed,FY2022,Q2,May,2023
+DON01511,D0189,2022-11-25,196.66,Digital Inclusion,Recurring,1,Completed,FY2022,Q4,November,2022
+DON01512,D0035,2022-12-19,1059.31,Refugee Support,Recurring,1,Completed,FY2022,Q4,December,2022
+DON01513,D0489,2023-09-19,46.68,Community Health,Direct Mail,0,Completed,FY2023,Q3,September,2023
+DON01514,D0268,2024-02-23,231.29,Environmental Care,Corporate,0,Completed,FY2023,Q1,February,2024
+DON01515,D0187,2022-11-23,470.12,Environmental Care,Telephone,1,Completed,FY2022,Q4,November,2022
+DON01516,D0361,2023-08-30,875.92,Digital Inclusion,Telephone,0,Completed,FY2023,Q3,August,2023
+DON01517,D0035,2022-07-05,261.85,Emergency Relief,Online,0,Completed,FY2022,Q3,July,2022
+DON01518,D0118,2023-11-28,24046.37,Digital Inclusion,Online,0,Completed,FY2023,Q4,November,2023
+DON01519,D0196,2022-06-18,210.36,Digital Inclusion,Corporate,0,Completed,FY2021,Q2,June,2022
+DON01520,D0226,2023-07-15,22.46,Youth Education,Recurring,1,Completed,FY2023,Q3,July,2023
+DON01521,D0262,2023-04-08,113.33,Community Health,Online,0,Completed,FY2022,Q2,April,2023
+DON01522,D0236,2024-09-16,60.37,Community Health,Social Media,1,Completed,FY2024,Q3,September,2024
+DON01523,D0133,2024-11-28,1199.35,Community Health,Direct Mail,0,Completed,FY2024,Q4,November,2024
+DON01524,D0155,2023-06-24,274.68,Women Empowerment,Recurring,1,Completed,FY2022,Q2,June,2023
+DON01525,D0450,2024-01-02,2900.05,Community Health,Direct Mail,0,Completed,FY2023,Q1,January,2024
+DON01526,D0240,2022-09-21,228.8,Community Health,Recurring,1,Completed,FY2022,Q3,September,2022
+DON01527,D0167,2023-04-12,1083.34,Women Empowerment,Online,0,Completed,FY2022,Q2,April,2023
+DON01528,D0180,2022-04-19,1128.43,Community Health,Event,0,Completed,FY2021,Q2,April,2022
+DON01529,D0358,2024-07-07,206.47,Youth Education,Online,0,Completed,FY2024,Q3,July,2024
+DON01530,D0197,2023-12-27,198.13,Youth Education,Online,0,Completed,FY2023,Q4,December,2023
+DON01531,D0434,2024-10-02,9008.05,Annual Giving,Recurring,1,Completed,FY2024,Q4,October,2024
+DON01532,D0183,2023-09-27,89.59,Community Health,Recurring,1,Completed,FY2023,Q3,September,2023
+DON01533,D0273,2024-11-06,23046.61,Community Health,Corporate,1,Completed,FY2024,Q4,November,2024
+DON01534,D0154,2022-04-19,1192.07,Women Empowerment,Telephone,0,Completed,FY2021,Q2,April,2022
+DON01535,D0031,2024-12-20,55.49,Emergency Relief,Corporate,0,Completed,FY2024,Q4,December,2024
+DON01536,D0033,2022-03-02,899.52,Youth Education,Recurring,1,Completed,FY2021,Q1,March,2022
+DON01537,D0170,2024-04-06,54573.34,Women Empowerment,Online,0,Pending,FY2023,Q2,April,2024
+DON01538,D0184,2022-10-11,112196.56,Refugee Support,Recurring,1,Completed,FY2022,Q4,October,2022
+DON01539,D0161,2024-05-31,62.88,Women Empowerment,Online,1,Completed,FY2023,Q2,May,2024
+DON01540,D0433,2022-06-17,67.82,Community Health,Online,0,Completed,FY2021,Q2,June,2022
+DON01541,D0405,2022-05-02,903.11,Annual Giving,Social Media,0,Completed,FY2021,Q2,May,2022
+DON01542,D0396,2024-02-27,1185.44,Annual Giving,Online,0,Completed,FY2023,Q1,February,2024
+DON01543,D0451,2024-10-17,228.75,Youth Education,Online,0,Completed,FY2024,Q4,October,2024
+DON01544,D0300,2022-12-29,41939.32,Youth Education,Corporate,1,Completed,FY2022,Q4,December,2022
+DON01545,D0439,2022-03-21,75.22,Environmental Care,Online,1,Completed,FY2021,Q1,March,2022
+DON01546,D0037,2022-08-09,56.14,Digital Inclusion,Social Media,0,Completed,FY2022,Q3,August,2022
+DON01547,D0379,2022-11-14,8669.54,Emergency Relief,Event,1,Completed,FY2022,Q4,November,2022
+DON01548,D0220,2022-08-27,585.72,Refugee Support,Recurring,1,Completed,FY2022,Q3,August,2022
+DON01549,D0068,2024-10-02,46.77,Women Empowerment,Online,0,Completed,FY2024,Q4,October,2024
+DON01550,D0448,2022-07-22,41172.48,Environmental Care,Recurring,1,Completed,FY2022,Q3,July,2022
+DON01551,D0054,2024-12-25,53.27,Women Empowerment,Telephone,0,Completed,FY2024,Q4,December,2024
+DON01552,D0478,2023-02-10,22825.62,Youth Education,Direct Mail,0,Completed,FY2022,Q1,February,2023
+DON01553,D0411,2024-10-03,243.51,Emergency Relief,Event,0,Completed,FY2024,Q4,October,2024
+DON01554,D0336,2023-08-12,9555.23,Environmental Care,Social Media,0,Completed,FY2023,Q3,August,2023
+DON01555,D0174,2023-09-21,1132.5,Community Health,Social Media,1,Completed,FY2023,Q3,September,2023
+DON01556,D0500,2022-04-07,26409.32,Annual Giving,Event,1,Completed,FY2021,Q2,April,2022
+DON01557,D0433,2024-06-07,237.13,Annual Giving,Recurring,1,Completed,FY2023,Q2,June,2024
+DON01558,D0426,2022-04-02,1139.69,Women Empowerment,Recurring,1,Completed,FY2021,Q2,April,2022
+DON01559,D0333,2023-10-18,49.14,Youth Education,Telephone,0,Completed,FY2023,Q4,October,2023
+DON01560,D0243,2024-02-21,102.85,Annual Giving,Online,0,Completed,FY2023,Q1,February,2024
+DON01561,D0137,2023-11-09,120.28,Community Health,Recurring,1,Failed,FY2023,Q4,November,2023
+DON01562,D0424,2024-04-03,282.66,Women Empowerment,Telephone,0,Completed,FY2023,Q2,April,2024
+DON01563,D0112,2024-05-15,104.87,Digital Inclusion,Telephone,0,Completed,FY2023,Q2,May,2024
+DON01564,D0047,2022-01-21,8819.51,Digital Inclusion,Direct Mail,0,Completed,FY2021,Q1,January,2022
+DON01565,D0192,2024-09-26,170.56,Community Health,Recurring,1,Completed,FY2024,Q3,September,2024
+DON01566,D0398,2024-07-08,26.27,Refugee Support,Online,0,Completed,FY2024,Q3,July,2024
+DON01567,D0302,2024-09-27,52.75,Emergency Relief,Online,0,Completed,FY2024,Q3,September,2024
+DON01568,D0061,2024-03-26,88.31,Digital Inclusion,Social Media,0,Completed,FY2023,Q1,March,2024
+DON01569,D0402,2023-02-18,42169.84,Emergency Relief,Direct Mail,1,Completed,FY2022,Q1,February,2023
+DON01570,D0279,2022-08-12,440.16,Annual Giving,Event,0,Completed,FY2022,Q3,August,2022
+DON01571,D0390,2024-01-30,43689.57,Emergency Relief,Online,0,Completed,FY2023,Q1,January,2024
+DON01572,D0407,2023-10-14,26.63,Community Health,Recurring,1,Completed,FY2023,Q4,October,2023
+DON01573,D0426,2023-05-29,29.49,Women Empowerment,Telephone,1,Completed,FY2022,Q2,May,2023
+DON01574,D0428,2022-11-10,116.06,Annual Giving,Direct Mail,1,Completed,FY2022,Q4,November,2022
+DON01575,D0460,2024-06-17,87.36,Community Health,Direct Mail,0,Completed,FY2023,Q2,June,2024
+DON01576,D0086,2022-10-21,26016.6,Digital Inclusion,Corporate,0,Completed,FY2022,Q4,October,2022
+DON01577,D0120,2022-02-05,53.7,Refugee Support,Event,0,Completed,FY2021,Q1,February,2022
+DON01578,D0168,2023-04-24,189.63,Youth Education,Telephone,0,Completed,FY2022,Q2,April,2023
+DON01579,D0157,2022-03-14,28.14,Emergency Relief,Telephone,0,Completed,FY2021,Q1,March,2022
+DON01580,D0494,2024-03-03,117488.44,Refugee Support,Online,0,Completed,FY2023,Q1,March,2024
+DON01581,D0384,2024-07-20,52252.17,Women Empowerment,Social Media,0,Completed,FY2024,Q3,July,2024
+DON01582,D0089,2023-08-11,101458.19,Women Empowerment,Online,0,Completed,FY2023,Q3,August,2023
+DON01583,D0013,2022-02-12,299.91,Youth Education,Direct Mail,0,Completed,FY2021,Q1,February,2022
+DON01584,D0075,2022-09-14,24.6,Community Health,Social Media,1,Completed,FY2022,Q3,September,2022
+DON01585,D0022,2024-07-15,242.11,Refugee Support,Event,0,Completed,FY2024,Q3,July,2024
+DON01586,D0304,2024-12-21,187.02,Refugee Support,Online,0,Completed,FY2024,Q4,December,2024
+DON01587,D0078,2024-04-16,5136.77,Women Empowerment,Telephone,0,Completed,FY2023,Q2,April,2024
+DON01588,D0367,2024-07-15,4282.66,Emergency Relief,Event,0,Completed,FY2024,Q3,July,2024
+DON01589,D0133,2022-11-17,205.09,Community Health,Direct Mail,0,Pending,FY2022,Q4,November,2022
+DON01590,D0198,2023-02-27,4360.63,Environmental Care,Online,0,Completed,FY2022,Q1,February,2023
+DON01591,D0473,2023-02-10,179.02,Youth Education,Corporate,0,Completed,FY2022,Q1,February,2023
+DON01592,D0246,2024-09-23,114.72,Youth Education,Recurring,1,Completed,FY2024,Q3,September,2024
+DON01593,D0192,2022-05-14,1094.13,Annual Giving,Recurring,1,Completed,FY2021,Q2,May,2022
+DON01594,D0092,2022-07-04,584.03,Annual Giving,Direct Mail,0,Completed,FY2022,Q3,July,2022
+DON01595,D0276,2022-05-16,109.74,Community Health,Direct Mail,0,Completed,FY2021,Q2,May,2022
+DON01596,D0438,2022-07-27,495.02,Youth Education,Online,1,Completed,FY2022,Q3,July,2022
+DON01597,D0160,2024-04-19,64.9,Emergency Relief,Event,0,Completed,FY2023,Q2,April,2024
+DON01598,D0161,2023-05-26,539.97,Digital Inclusion,Recurring,1,Failed,FY2022,Q2,May,2023
+DON01599,D0064,2022-10-05,87.28,Emergency Relief,Recurring,1,Completed,FY2022,Q4,October,2022
+DON01600,D0352,2024-01-13,475.87,Youth Education,Recurring,1,Pending,FY2023,Q1,January,2024
+DON01601,D0326,2023-12-06,24473.33,Annual Giving,Social Media,1,Failed,FY2023,Q4,December,2023
+DON01602,D0318,2024-03-17,165.51,Youth Education,Corporate,1,Completed,FY2023,Q1,March,2024
+DON01603,D0095,2022-06-20,118.46,Women Empowerment,Online,0,Failed,FY2021,Q2,June,2022
+DON01604,D0308,2024-01-18,403.19,Refugee Support,Social Media,1,Completed,FY2023,Q1,January,2024
+DON01605,D0372,2022-12-08,178.92,Annual Giving,Event,0,Completed,FY2022,Q4,December,2022
+DON01606,D0289,2023-07-13,45262.27,Refugee Support,Direct Mail,0,Completed,FY2023,Q3,July,2023
+DON01607,D0370,2022-09-25,5318.82,Women Empowerment,Corporate,1,Pending,FY2022,Q3,September,2022
+DON01608,D0444,2023-02-13,27.35,Annual Giving,Direct Mail,1,Completed,FY2022,Q1,February,2023
+DON01609,D0160,2023-11-19,26.95,Digital Inclusion,Recurring,1,Completed,FY2023,Q4,November,2023
+DON01610,D0465,2023-12-02,1141.45,Refugee Support,Direct Mail,0,Completed,FY2023,Q4,December,2023
+DON01611,D0210,2022-06-20,153.14,Environmental Care,Online,1,Completed,FY2021,Q2,June,2022
+DON01612,D0368,2022-08-21,56.11,Women Empowerment,Telephone,0,Completed,FY2022,Q3,August,2022
+DON01613,D0034,2022-11-12,44.86,Youth Education,Direct Mail,0,Completed,FY2022,Q4,November,2022
+DON01614,D0016,2023-11-30,57.27,Annual Giving,Recurring,1,Completed,FY2023,Q4,November,2023
+DON01615,D0286,2023-11-09,43.12,Environmental Care,Corporate,0,Completed,FY2023,Q4,November,2023
+DON01616,D0164,2022-06-16,41.12,Youth Education,Online,0,Completed,FY2021,Q2,June,2022
+DON01617,D0111,2022-06-12,400.77,Community Health,Online,0,Completed,FY2021,Q2,June,2022
+DON01618,D0130,2024-10-11,99.04,Community Health,Recurring,1,Completed,FY2024,Q4,October,2024
+DON01619,D0482,2024-11-05,74.08,Annual Giving,Direct Mail,0,Completed,FY2024,Q4,November,2024
+DON01620,D0355,2022-06-05,4526.52,Community Health,Recurring,1,Completed,FY2021,Q2,June,2022
+DON01621,D0255,2023-08-31,11025.14,Community Health,Online,0,Completed,FY2023,Q3,August,2023
+DON01622,D0083,2023-05-09,133.1,Digital Inclusion,Recurring,1,Completed,FY2022,Q2,May,2023
+DON01623,D0135,2022-05-09,136.89,Youth Education,Online,0,Completed,FY2021,Q2,May,2022
+DON01624,D0046,2024-07-02,26.2,Refugee Support,Online,0,Completed,FY2024,Q3,July,2024
+DON01625,D0011,2022-05-15,927.36,Women Empowerment,Recurring,1,Completed,FY2021,Q2,May,2022
+DON01626,D0489,2023-09-07,196.06,Environmental Care,Direct Mail,0,Completed,FY2023,Q3,September,2023
+DON01627,D0197,2023-12-24,89.12,Youth Education,Online,0,Completed,FY2023,Q4,December,2023
+DON01628,D0491,2024-08-09,2923.45,Refugee Support,Event,0,Completed,FY2024,Q3,August,2024
+DON01629,D0155,2023-10-11,241.96,Annual Giving,Telephone,0,Completed,FY2023,Q4,October,2023
+DON01630,D0428,2022-12-20,71.98,Annual Giving,Direct Mail,0,Pending,FY2022,Q4,December,2022
+DON01631,D0260,2023-07-09,83.79,Refugee Support,Event,0,Completed,FY2023,Q3,July,2023
+DON01632,D0135,2024-09-23,215.83,Digital Inclusion,Online,0,Completed,FY2024,Q3,September,2024
+DON01633,D0457,2022-05-03,294.73,Youth Education,Event,0,Completed,FY2021,Q2,May,2022
+DON01634,D0026,2024-11-28,216.48,Digital Inclusion,Online,1,Completed,FY2024,Q4,November,2024
+DON01635,D0421,2023-11-25,249.05,Digital Inclusion,Corporate,0,Completed,FY2023,Q4,November,2023
+DON01636,D0350,2023-11-30,261.16,Youth Education,Event,0,Completed,FY2023,Q4,November,2023
+DON01637,D0465,2024-07-04,71.09,Environmental Care,Online,0,Completed,FY2024,Q3,July,2024
+DON01638,D0036,2024-09-02,215.06,Women Empowerment,Corporate,0,Completed,FY2024,Q3,September,2024
+DON01639,D0286,2023-04-14,215.87,Youth Education,Social Media,0,Completed,FY2022,Q2,April,2023
+DON01640,D0170,2023-10-04,4977.18,Environmental Care,Telephone,0,Completed,FY2023,Q4,October,2023
+DON01641,D0052,2024-08-05,78.71,Emergency Relief,Event,0,Completed,FY2024,Q3,August,2024
+DON01642,D0370,2023-01-31,22660.07,Environmental Care,Direct Mail,0,Completed,FY2022,Q1,January,2023
+DON01643,D0435,2023-04-03,70.91,Annual Giving,Event,0,Completed,FY2022,Q2,April,2023
+DON01644,D0340,2024-09-19,512.38,Digital Inclusion,Social Media,1,Completed,FY2024,Q3,September,2024
+DON01645,D0020,2022-09-04,880.02,Community Health,Social Media,0,Completed,FY2022,Q3,September,2022
+DON01646,D0007,2024-02-10,100.94,Digital Inclusion,Online,0,Completed,FY2023,Q1,February,2024
+DON01647,D0082,2022-02-21,22.98,Community Health,Online,0,Completed,FY2021,Q1,February,2022
+DON01648,D0333,2022-10-30,207.87,Environmental Care,Recurring,1,Completed,FY2022,Q4,October,2022
+DON01649,D0277,2022-08-09,255.53,Environmental Care,Recurring,1,Pending,FY2022,Q3,August,2022
+DON01650,D0083,2022-09-21,455.19,Environmental Care,Online,0,Completed,FY2022,Q3,September,2022
+DON01651,D0342,2023-10-08,28.68,Environmental Care,Direct Mail,1,Completed,FY2023,Q4,October,2023
+DON01652,D0410,2023-10-31,26.29,Women Empowerment,Direct Mail,0,Completed,FY2023,Q4,October,2023
+DON01653,D0321,2022-04-25,139.44,Annual Giving,Telephone,0,Completed,FY2021,Q2,April,2022
+DON01654,D0020,2022-07-29,412.78,Emergency Relief,Online,0,Pending,FY2022,Q3,July,2022
+DON01655,D0499,2023-11-24,83.67,Women Empowerment,Social Media,0,Completed,FY2023,Q4,November,2023
+DON01656,D0024,2024-03-21,49.85,Annual Giving,Event,0,Completed,FY2023,Q1,March,2024
+DON01657,D0023,2023-06-19,56.29,Environmental Care,Online,0,Completed,FY2022,Q2,June,2023
+DON01658,D0328,2023-04-07,25576.85,Annual Giving,Corporate,0,Completed,FY2022,Q2,April,2023
+DON01659,D0133,2023-10-24,118.0,Youth Education,Event,0,Completed,FY2023,Q4,October,2023
+DON01660,D0313,2024-04-29,201.93,Digital Inclusion,Event,0,Completed,FY2023,Q2,April,2024
+DON01661,D0479,2022-06-15,22.09,Environmental Care,Online,0,Completed,FY2021,Q2,June,2022
+DON01662,D0038,2023-07-31,71.92,Youth Education,Event,0,Completed,FY2023,Q3,July,2023
+DON01663,D0305,2023-06-09,215.99,Community Health,Recurring,1,Completed,FY2022,Q2,June,2023
+DON01664,D0496,2023-08-08,231.83,Refugee Support,Online,0,Completed,FY2023,Q3,August,2023
+DON01665,D0121,2022-03-27,1108.01,Community Health,Online,0,Completed,FY2021,Q1,March,2022
+DON01666,D0458,2023-03-15,88.01,Digital Inclusion,Recurring,1,Completed,FY2022,Q1,March,2023
+DON01667,D0209,2023-04-16,2360.94,Annual Giving,Corporate,0,Completed,FY2022,Q2,April,2023
+DON01668,D0386,2023-03-20,133.01,Annual Giving,Direct Mail,1,Completed,FY2022,Q1,March,2023
+DON01669,D0488,2024-07-26,99.98,Refugee Support,Recurring,1,Failed,FY2024,Q3,July,2024
+DON01670,D0301,2023-08-08,87.62,Environmental Care,Corporate,0,Completed,FY2023,Q3,August,2023
+DON01671,D0121,2022-03-05,83.11,Emergency Relief,Telephone,0,Completed,FY2021,Q1,March,2022
+DON01672,D0369,2022-11-23,175.81,Digital Inclusion,Direct Mail,0,Completed,FY2022,Q4,November,2022
+DON01673,D0115,2024-05-05,118.84,Women Empowerment,Online,0,Completed,FY2023,Q2,May,2024
+DON01674,D0450,2024-07-24,579.7,Digital Inclusion,Online,1,Completed,FY2024,Q3,July,2024
+DON01675,D0377,2024-09-02,84.81,Annual Giving,Telephone,0,Completed,FY2024,Q3,September,2024
+DON01676,D0459,2024-09-09,4910.49,Digital Inclusion,Online,0,Completed,FY2024,Q3,September,2024
+DON01677,D0107,2024-10-15,826.06,Refugee Support,Online,0,Completed,FY2024,Q4,October,2024
+DON01678,D0248,2023-07-30,5945.81,Annual Giving,Recurring,1,Completed,FY2023,Q3,July,2023
+DON01679,D0246,2023-07-11,440.54,Digital Inclusion,Online,1,Completed,FY2023,Q3,July,2023
+DON01680,D0420,2024-06-10,112414.16,Annual Giving,Telephone,0,Completed,FY2023,Q2,June,2024
+DON01681,D0433,2022-07-01,108.62,Annual Giving,Online,0,Completed,FY2022,Q3,July,2022
+DON01682,D0193,2024-01-31,508.92,Women Empowerment,Recurring,1,Completed,FY2023,Q1,January,2024
+DON01683,D0057,2024-04-02,4641.42,Women Empowerment,Direct Mail,0,Failed,FY2023,Q2,April,2024
+DON01684,D0293,2024-04-15,128.86,Environmental Care,Recurring,1,Completed,FY2023,Q2,April,2024
+DON01685,D0204,2023-11-13,208.64,Digital Inclusion,Telephone,1,Completed,FY2023,Q4,November,2023
+DON01686,D0355,2023-12-05,55074.07,Youth Education,Telephone,0,Completed,FY2023,Q4,December,2023
+DON01687,D0483,2022-10-13,77.96,Youth Education,Telephone,1,Completed,FY2022,Q4,October,2022
+DON01688,D0062,2024-10-23,208.17,Refugee Support,Telephone,0,Completed,FY2024,Q4,October,2024
+DON01689,D0045,2023-11-17,22.55,Youth Education,Recurring,1,Completed,FY2023,Q4,November,2023
+DON01690,D0387,2024-03-19,218.55,Women Empowerment,Event,0,Completed,FY2023,Q1,March,2024
+DON01691,D0124,2022-08-06,1030.81,Refugee Support,Recurring,1,Completed,FY2022,Q3,August,2022
+DON01692,D0139,2024-10-30,431.14,Community Health,Recurring,1,Completed,FY2024,Q4,October,2024
+DON01693,D0397,2023-09-20,428.87,Emergency Relief,Recurring,1,Completed,FY2023,Q3,September,2023
+DON01694,D0427,2022-07-17,92114.3,Community Health,Event,1,Completed,FY2022,Q3,July,2022
+DON01695,D0058,2022-05-27,20.31,Emergency Relief,Online,0,Completed,FY2021,Q2,May,2022
+DON01696,D0010,2022-01-22,484.38,Women Empowerment,Recurring,1,Completed,FY2021,Q1,January,2022
+DON01697,D0235,2024-05-27,140.59,Women Empowerment,Online,0,Completed,FY2023,Q2,May,2024
+DON01698,D0213,2023-12-21,1071.65,Annual Giving,Event,0,Completed,FY2023,Q4,December,2023
+DON01699,D0218,2023-12-20,110116.72,Emergency Relief,Direct Mail,1,Completed,FY2023,Q4,December,2023
+DON01700,D0339,2022-06-27,23.8,Environmental Care,Recurring,1,Completed,FY2021,Q2,June,2022
+DON01701,D0462,2022-07-12,836.82,Community Health,Recurring,1,Completed,FY2022,Q3,July,2022
+DON01702,D0336,2023-09-27,23373.83,Environmental Care,Online,0,Completed,FY2023,Q3,September,2023
+DON01703,D0309,2022-09-20,443.31,Refugee Support,Online,0,Completed,FY2022,Q3,September,2022
+DON01704,D0039,2023-01-07,29.36,Environmental Care,Online,0,Completed,FY2022,Q1,January,2023
+DON01705,D0293,2022-08-29,280.13,Annual Giving,Online,0,Completed,FY2022,Q3,August,2022
+DON01706,D0015,2023-11-10,91735.58,Youth Education,Online,0,Completed,FY2023,Q4,November,2023
+DON01707,D0262,2024-03-04,43.98,Environmental Care,Online,0,Completed,FY2023,Q1,March,2024
+DON01708,D0079,2023-04-03,83.17,Annual Giving,Direct Mail,0,Completed,FY2022,Q2,April,2023
+DON01709,D0003,2022-08-26,445.75,Environmental Care,Recurring,1,Completed,FY2022,Q3,August,2022
+DON01710,D0127,2024-01-21,63.96,Annual Giving,Direct Mail,0,Completed,FY2023,Q1,January,2024
+DON01711,D0317,2022-08-06,1159.08,Women Empowerment,Corporate,0,Completed,FY2022,Q3,August,2022
+DON01712,D0345,2022-06-28,255.73,Refugee Support,Online,0,Pending,FY2021,Q2,June,2022
+DON01713,D0318,2022-10-09,197.97,Community Health,Telephone,0,Completed,FY2022,Q4,October,2022
+DON01714,D0327,2024-02-04,79.94,Environmental Care,Recurring,1,Completed,FY2023,Q1,February,2024
+DON01715,D0479,2022-08-26,413.36,Youth Education,Corporate,0,Completed,FY2022,Q3,August,2022
+DON01716,D0134,2022-05-03,69.01,Refugee Support,Online,0,Completed,FY2021,Q2,May,2022
+DON01717,D0196,2022-10-08,1066.36,Annual Giving,Direct Mail,0,Completed,FY2022,Q4,October,2022
+DON01718,D0355,2024-09-06,56024.51,Community Health,Recurring,1,Completed,FY2024,Q3,September,2024
+DON01719,D0278,2022-09-18,43.45,Emergency Relief,Online,1,Completed,FY2022,Q3,September,2022
+DON01720,D0487,2023-05-21,495.54,Emergency Relief,Corporate,0,Completed,FY2022,Q2,May,2023
+DON01721,D0310,2024-06-03,235.01,Digital Inclusion,Direct Mail,0,Completed,FY2023,Q2,June,2024
+DON01722,D0015,2023-04-06,81106.61,Women Empowerment,Direct Mail,0,Completed,FY2022,Q2,April,2023
+DON01723,D0294,2024-12-03,1155.5,Youth Education,Online,0,Completed,FY2024,Q4,December,2024
+DON01724,D0219,2022-06-23,259.98,Refugee Support,Online,0,Completed,FY2021,Q2,June,2022
+DON01725,D0360,2023-12-01,23.7,Refugee Support,Online,0,Completed,FY2023,Q4,December,2023
+DON01726,D0427,2024-03-01,58386.54,Environmental Care,Event,0,Completed,FY2023,Q1,March,2024
+DON01727,D0316,2023-12-03,4938.66,Emergency Relief,Recurring,1,Completed,FY2023,Q4,December,2023
+DON01728,D0463,2023-08-15,900.64,Digital Inclusion,Social Media,0,Completed,FY2023,Q3,August,2023
+DON01729,D0440,2023-09-20,232.58,Community Health,Direct Mail,0,Completed,FY2023,Q3,September,2023
+DON01730,D0129,2023-01-21,227.85,Refugee Support,Recurring,1,Completed,FY2022,Q1,January,2023
+DON01731,D0165,2024-01-11,5604.49,Digital Inclusion,Online,0,Completed,FY2023,Q1,January,2024
+DON01732,D0139,2023-08-20,111.92,Youth Education,Online,0,Completed,FY2023,Q3,August,2023
+DON01733,D0294,2024-03-13,174.65,Environmental Care,Direct Mail,0,Completed,FY2023,Q1,March,2024
+DON01734,D0417,2022-05-28,507.48,Youth Education,Online,0,Pending,FY2021,Q2,May,2022
+DON01735,D0245,2023-06-06,80130.68,Community Health,Recurring,1,Pending,FY2022,Q2,June,2023
+DON01736,D0478,2024-05-11,117390.04,Digital Inclusion,Event,0,Completed,FY2023,Q2,May,2024
+DON01737,D0190,2024-09-02,52562.25,Environmental Care,Corporate,0,Completed,FY2024,Q3,September,2024
+DON01738,D0144,2022-04-22,4362.21,Women Empowerment,Recurring,1,Completed,FY2021,Q2,April,2022
+DON01739,D0110,2022-07-16,910.94,Digital Inclusion,Online,1,Completed,FY2022,Q3,July,2022
+DON01740,D0035,2023-11-23,81.6,Annual Giving,Online,1,Completed,FY2023,Q4,November,2023
+DON01741,D0408,2023-07-01,145.79,Community Health,Online,1,Completed,FY2023,Q3,July,2023
+DON01742,D0369,2022-12-18,86.07,Women Empowerment,Recurring,1,Completed,FY2022,Q4,December,2022
+DON01743,D0338,2022-07-06,220.31,Annual Giving,Social Media,0,Completed,FY2022,Q3,July,2022
+DON01744,D0238,2024-04-12,168.57,Emergency Relief,Online,0,Completed,FY2023,Q2,April,2024
+DON01745,D0316,2022-01-07,5783.77,Community Health,Online,0,Completed,FY2021,Q1,January,2022
+DON01746,D0122,2022-06-17,244.62,Community Health,Online,0,Completed,FY2021,Q2,June,2022
+DON01747,D0051,2024-02-18,82.17,Refugee Support,Telephone,0,Completed,FY2023,Q1,February,2024
+DON01748,D0437,2024-12-09,115.27,Environmental Care,Direct Mail,0,Completed,FY2024,Q4,December,2024
+DON01749,D0344,2024-02-03,1046.26,Environmental Care,Corporate,0,Completed,FY2023,Q1,February,2024
+DON01750,D0220,2023-10-06,216.84,Refugee Support,Online,0,Completed,FY2023,Q4,October,2023
+DON01751,D0317,2024-08-19,173.91,Refugee Support,Corporate,1,Completed,FY2024,Q3,August,2024
+DON01752,D0321,2022-02-14,105.82,Emergency Relief,Event,0,Completed,FY2021,Q1,February,2022
+DON01753,D0019,2024-05-18,40409.88,Refugee Support,Recurring,1,Completed,FY2023,Q2,May,2024
+DON01754,D0304,2023-06-17,140.89,Digital Inclusion,Direct Mail,0,Completed,FY2022,Q2,June,2023
+DON01755,D0206,2024-02-21,1039.64,Community Health,Recurring,1,Completed,FY2023,Q1,February,2024
+DON01756,D0440,2022-04-13,83.6,Youth Education,Online,0,Completed,FY2021,Q2,April,2022
+DON01757,D0113,2024-06-11,147.19,Digital Inclusion,Online,0,Completed,FY2023,Q2,June,2024
+DON01758,D0151,2023-04-20,96.38,Youth Education,Event,1,Completed,FY2022,Q2,April,2023
+DON01759,D0417,2022-12-10,68.65,Environmental Care,Social Media,0,Completed,FY2022,Q4,December,2022
+DON01760,D0385,2022-07-27,5205.27,Emergency Relief,Online,0,Completed,FY2022,Q3,July,2022
+DON01761,D0490,2024-01-26,849.65,Environmental Care,Corporate,0,Completed,FY2023,Q1,January,2024
+DON01762,D0441,2022-12-18,4491.29,Annual Giving,Direct Mail,0,Completed,FY2022,Q4,December,2022
+DON01763,D0473,2022-12-09,25.01,Annual Giving,Direct Mail,0,Completed,FY2022,Q4,December,2022
+DON01764,D0180,2023-07-26,67.26,Women Empowerment,Corporate,0,Completed,FY2023,Q3,July,2023
+DON01765,D0263,2022-03-28,54.27,Youth Education,Corporate,0,Completed,FY2021,Q1,March,2022
+DON01766,D0034,2024-03-19,22.87,Environmental Care,Recurring,1,Completed,FY2023,Q1,March,2024
+DON01767,D0347,2024-11-30,288.88,Environmental Care,Social Media,0,Completed,FY2024,Q4,November,2024
+DON01768,D0154,2024-10-20,275.16,Refugee Support,Online,0,Completed,FY2024,Q4,October,2024
+DON01769,D0143,2022-08-25,52.0,Women Empowerment,Recurring,1,Completed,FY2022,Q3,August,2022
+DON01770,D0152,2023-10-07,95302.89,Digital Inclusion,Direct Mail,0,Completed,FY2023,Q4,October,2023
+DON01771,D0163,2022-10-14,4871.08,Youth Education,Direct Mail,0,Completed,FY2022,Q4,October,2022
+DON01772,D0495,2023-06-02,85.69,Community Health,Telephone,0,Completed,FY2022,Q2,June,2023
+DON01773,D0497,2024-05-01,4743.13,Community Health,Event,1,Completed,FY2023,Q2,May,2024
+DON01774,D0106,2022-04-19,5794.08,Emergency Relief,Online,0,Completed,FY2021,Q2,April,2022
+DON01775,D0306,2024-11-15,207.81,Digital Inclusion,Direct Mail,0,Completed,FY2024,Q4,November,2024
+DON01776,D0484,2024-11-03,413.55,Women Empowerment,Online,0,Failed,FY2024,Q4,November,2024
+DON01777,D0119,2024-11-09,82.33,Digital Inclusion,Online,0,Completed,FY2024,Q4,November,2024
+DON01778,D0317,2024-07-31,24.48,Women Empowerment,Recurring,1,Completed,FY2024,Q3,July,2024
+DON01779,D0290,2022-09-10,9139.71,Annual Giving,Recurring,1,Completed,FY2022,Q3,September,2022
+DON01780,D0308,2024-11-02,486.68,Annual Giving,Recurring,1,Completed,FY2024,Q4,November,2024
+DON01781,D0291,2024-06-19,87.99,Refugee Support,Direct Mail,0,Completed,FY2023,Q2,June,2024
+DON01782,D0398,2024-02-26,64.27,Community Health,Online,0,Completed,FY2023,Q1,February,2024
+DON01783,D0174,2023-02-01,23.03,Youth Education,Online,0,Completed,FY2022,Q1,February,2023
+DON01784,D0269,2023-03-08,72.81,Digital Inclusion,Social Media,0,Completed,FY2022,Q1,March,2023
+DON01785,D0424,2023-03-25,22.66,Environmental Care,Recurring,1,Completed,FY2022,Q1,March,2023
+DON01786,D0162,2024-07-30,87.74,Environmental Care,Online,1,Completed,FY2024,Q3,July,2024
+DON01787,D0446,2023-11-09,11402.38,Digital Inclusion,Corporate,0,Completed,FY2023,Q4,November,2023
+DON01788,D0267,2023-05-18,80.03,Digital Inclusion,Recurring,1,Completed,FY2022,Q2,May,2023
+DON01789,D0064,2024-11-08,24.34,Digital Inclusion,Direct Mail,0,Failed,FY2024,Q4,November,2024
+DON01790,D0032,2023-06-12,205.13,Digital Inclusion,Recurring,1,Completed,FY2022,Q2,June,2023
+DON01791,D0157,2023-05-25,76.65,Community Health,Telephone,0,Completed,FY2022,Q2,May,2023
+DON01792,D0212,2024-03-29,53.95,Women Empowerment,Direct Mail,0,Completed,FY2023,Q1,March,2024
+DON01793,D0296,2022-05-16,44.85,Environmental Care,Social Media,0,Pending,FY2021,Q2,May,2022
+DON01794,D0235,2024-08-27,24.36,Refugee Support,Online,1,Completed,FY2024,Q3,August,2024
+DON01795,D0196,2024-10-04,169.46,Community Health,Event,1,Completed,FY2024,Q4,October,2024
+DON01796,D0426,2022-12-04,96.21,Community Health,Online,0,Completed,FY2022,Q4,December,2022
+DON01797,D0295,2022-01-18,285.32,Emergency Relief,Online,0,Completed,FY2021,Q1,January,2022
+DON01798,D0032,2022-01-05,58.69,Youth Education,Social Media,0,Completed,FY2021,Q1,January,2022
+DON01799,D0493,2024-01-02,179.02,Women Empowerment,Recurring,1,Completed,FY2023,Q1,January,2024
+DON01800,D0041,2022-03-21,816.17,Digital Inclusion,Direct Mail,1,Completed,FY2021,Q1,March,2022
+DON01801,D0373,2024-03-11,10457.45,Community Health,Recurring,1,Completed,FY2023,Q1,March,2024
+DON01802,D0247,2024-12-13,42150.77,Digital Inclusion,Corporate,0,Completed,FY2024,Q4,December,2024
+DON01803,D0382,2024-11-20,61.95,Digital Inclusion,Online,0,Completed,FY2024,Q4,November,2024
+DON01804,D0420,2024-08-26,40640.67,Women Empowerment,Recurring,1,Completed,FY2024,Q3,August,2024
+DON01805,D0151,2024-04-01,236.14,Digital Inclusion,Online,0,Pending,FY2023,Q2,April,2024
+DON01806,D0352,2022-11-01,159.98,Community Health,Online,0,Completed,FY2022,Q4,November,2022
+DON01807,D0214,2024-07-08,25.88,Emergency Relief,Online,0,Completed,FY2024,Q3,July,2024
+DON01808,D0013,2024-09-13,166.22,Women Empowerment,Corporate,0,Completed,FY2024,Q3,September,2024
+DON01809,D0326,2022-03-11,58748.72,Community Health,Telephone,0,Completed,FY2021,Q1,March,2022
+DON01810,D0151,2023-06-01,165.28,Annual Giving,Recurring,1,Completed,FY2022,Q2,June,2023
+DON01811,D0140,2023-10-25,49270.08,Refugee Support,Recurring,1,Completed,FY2023,Q4,October,2023
+DON01812,D0254,2023-01-12,219.62,Refugee Support,Recurring,1,Completed,FY2022,Q1,January,2023
+DON01813,D0331,2023-11-17,88.63,Refugee Support,Online,0,Completed,FY2023,Q4,November,2023
+DON01814,D0386,2023-02-19,100.51,Environmental Care,Social Media,0,Completed,FY2022,Q1,February,2023
+DON01815,D0205,2024-02-03,26.32,Women Empowerment,Recurring,1,Completed,FY2023,Q1,February,2024
+DON01816,D0389,2023-11-12,49.66,Community Health,Online,0,Completed,FY2023,Q4,November,2023
+DON01817,D0054,2023-02-07,909.38,Refugee Support,Telephone,0,Pending,FY2022,Q1,February,2023
+DON01818,D0353,2024-07-23,24.55,Digital Inclusion,Event,0,Completed,FY2024,Q3,July,2024
+DON01819,D0355,2024-05-04,51786.41,Emergency Relief,Event,1,Completed,FY2023,Q2,May,2024
+DON01820,D0450,2023-04-02,10287.59,Women Empowerment,Recurring,1,Completed,FY2022,Q2,April,2023
+DON01821,D0216,2023-06-05,173.49,Annual Giving,Recurring,1,Completed,FY2022,Q2,June,2023
+DON01822,D0272,2024-07-09,25.31,Annual Giving,Online,0,Completed,FY2024,Q3,July,2024
+DON01823,D0099,2024-05-03,29.59,Digital Inclusion,Event,0,Completed,FY2023,Q2,May,2024
+DON01824,D0099,2023-03-14,166.13,Annual Giving,Event,0,Completed,FY2022,Q1,March,2023
+DON01825,D0348,2023-11-04,57.1,Refugee Support,Corporate,0,Completed,FY2023,Q4,November,2023
+DON01826,D0305,2023-05-18,26.85,Emergency Relief,Direct Mail,1,Completed,FY2022,Q2,May,2023
+DON01827,D0045,2023-08-22,87.93,Digital Inclusion,Online,0,Completed,FY2023,Q3,August,2023
+DON01828,D0138,2023-08-15,220.41,Youth Education,Direct Mail,0,Completed,FY2023,Q3,August,2023
+DON01829,D0069,2022-01-07,830.49,Youth Education,Telephone,1,Completed,FY2021,Q1,January,2022
+DON01830,D0200,2023-11-23,2965.14,Emergency Relief,Recurring,1,Completed,FY2023,Q4,November,2023
+DON01831,D0485,2023-07-24,986.12,Emergency Relief,Event,0,Completed,FY2023,Q3,July,2023
+DON01832,D0347,2023-05-28,47.06,Refugee Support,Recurring,1,Completed,FY2022,Q2,May,2023
+DON01833,D0228,2022-11-25,59.84,Youth Education,Online,0,Completed,FY2022,Q4,November,2022
+DON01834,D0473,2024-03-08,99.15,Women Empowerment,Online,0,Completed,FY2023,Q1,March,2024
+DON01835,D0254,2023-01-25,1110.34,Refugee Support,Online,0,Completed,FY2022,Q1,January,2023
+DON01836,D0281,2024-10-09,59.52,Community Health,Recurring,1,Completed,FY2024,Q4,October,2024
+DON01837,D0221,2022-03-27,477.46,Women Empowerment,Online,0,Completed,FY2021,Q1,March,2022
+DON01838,D0336,2024-05-01,9421.69,Women Empowerment,Corporate,0,Completed,FY2023,Q2,May,2024
+DON01839,D0491,2022-07-16,2862.01,Emergency Relief,Online,0,Completed,FY2022,Q3,July,2022
+DON01840,D0105,2023-11-29,51.86,Environmental Care,Event,0,Completed,FY2023,Q4,November,2023
+DON01841,D0086,2022-08-07,44920.75,Refugee Support,Online,0,Completed,FY2022,Q3,August,2022
+DON01842,D0053,2023-07-29,80.88,Refugee Support,Social Media,0,Completed,FY2023,Q3,July,2023
+DON01843,D0167,2023-09-24,59.5,Women Empowerment,Online,0,Completed,FY2023,Q3,September,2023
+DON01844,D0240,2022-07-10,29.81,Women Empowerment,Online,1,Pending,FY2022,Q3,July,2022
+DON01845,D0461,2023-11-15,9450.13,Emergency Relief,Social Media,0,Completed,FY2023,Q4,November,2023
+DON01846,D0286,2023-07-21,103.29,Emergency Relief,Online,0,Completed,FY2023,Q3,July,2023
+DON01847,D0227,2023-09-01,1165.19,Emergency Relief,Recurring,1,Completed,FY2023,Q3,September,2023
+DON01848,D0324,2022-03-25,22975.46,Refugee Support,Recurring,1,Completed,FY2021,Q1,March,2022
+DON01849,D0201,2022-04-17,41859.35,Women Empowerment,Online,0,Completed,FY2021,Q2,April,2022
+DON01850,D0149,2024-01-10,21.07,Environmental Care,Online,0,Completed,FY2023,Q1,January,2024
+DON01851,D0269,2022-12-11,77.73,Community Health,Online,0,Completed,FY2022,Q4,December,2022
+DON01852,D0067,2022-09-17,52.62,Annual Giving,Event,0,Pending,FY2022,Q3,September,2022
+DON01853,D0260,2024-12-07,895.43,Refugee Support,Online,1,Completed,FY2024,Q4,December,2024
+DON01854,D0436,2023-05-03,27762.62,Community Health,Event,0,Completed,FY2022,Q2,May,2023
+DON01855,D0345,2024-04-08,219.25,Digital Inclusion,Direct Mail,1,Completed,FY2023,Q2,April,2024
+DON01856,D0381,2023-06-07,136.16,Emergency Relief,Recurring,1,Completed,FY2022,Q2,June,2023
+DON01857,D0060,2023-01-27,400.29,Emergency Relief,Direct Mail,0,Completed,FY2022,Q1,January,2023
+DON01858,D0131,2023-05-25,84.43,Emergency Relief,Social Media,0,Completed,FY2022,Q2,May,2023
+DON01859,D0332,2022-09-30,109.8,Emergency Relief,Recurring,1,Pending,FY2022,Q3,September,2022
+DON01860,D0364,2022-08-15,2959.4,Annual Giving,Recurring,1,Completed,FY2022,Q3,August,2022
+DON01861,D0320,2022-10-23,24.13,Women Empowerment,Online,0,Completed,FY2022,Q4,October,2022
+DON01862,D0279,2024-02-15,57.38,Women Empowerment,Social Media,0,Completed,FY2023,Q1,February,2024
+DON01863,D0170,2023-12-25,53262.39,Youth Education,Online,0,Completed,FY2023,Q4,December,2023
+DON01864,D0320,2023-06-01,99.6,Digital Inclusion,Direct Mail,0,Completed,FY2022,Q2,June,2023
+DON01865,D0465,2024-12-09,27.81,Annual Giving,Recurring,1,Completed,FY2024,Q4,December,2024
+DON01866,D0418,2023-07-27,84416.66,Digital Inclusion,Online,0,Completed,FY2023,Q3,July,2023
+DON01867,D0064,2023-12-14,557.14,Emergency Relief,Corporate,0,Completed,FY2023,Q4,December,2023
+DON01868,D0356,2024-03-10,107.54,Digital Inclusion,Recurring,1,Completed,FY2023,Q1,March,2024
+DON01869,D0244,2023-04-26,444.11,Youth Education,Online,0,Completed,FY2022,Q2,April,2023
+DON01870,D0014,2024-01-30,10038.79,Youth Education,Online,0,Completed,FY2023,Q1,January,2024
+DON01871,D0303,2022-02-11,171.72,Digital Inclusion,Recurring,1,Completed,FY2021,Q1,February,2022
+DON01872,D0341,2023-05-16,896.49,Digital Inclusion,Online,0,Completed,FY2022,Q2,May,2023
+DON01873,D0381,2024-12-18,1142.34,Youth Education,Corporate,0,Pending,FY2024,Q4,December,2024
+DON01874,D0111,2022-01-03,2768.49,Refugee Support,Corporate,0,Completed,FY2021,Q1,January,2022
+DON01875,D0019,2023-07-11,10883.52,Refugee Support,Online,0,Completed,FY2023,Q3,July,2023
+DON01876,D0171,2023-05-17,8384.36,Environmental Care,Corporate,0,Completed,FY2022,Q2,May,2023
+DON01877,D0282,2024-10-06,197.71,Community Health,Event,0,Pending,FY2024,Q4,October,2024
+DON01878,D0353,2022-10-08,26.9,Emergency Relief,Corporate,0,Completed,FY2022,Q4,October,2022
+DON01879,D0249,2024-06-22,24670.83,Emergency Relief,Online,0,Completed,FY2023,Q2,June,2024
+DON01880,D0208,2022-01-24,88.74,Emergency Relief,Online,1,Completed,FY2021,Q1,January,2022
+DON01881,D0348,2022-07-11,158.58,Environmental Care,Telephone,0,Completed,FY2022,Q3,July,2022
+DON01882,D0298,2023-05-09,41.87,Digital Inclusion,Recurring,1,Completed,FY2022,Q2,May,2023
+DON01883,D0147,2022-01-14,22770.82,Youth Education,Recurring,1,Pending,FY2021,Q1,January,2022
+DON01884,D0176,2023-11-09,563.41,Community Health,Recurring,1,Completed,FY2023,Q4,November,2023
+DON01885,D0314,2023-12-16,1033.15,Digital Inclusion,Online,1,Completed,FY2023,Q4,December,2023
+DON01886,D0479,2022-02-13,1078.38,Annual Giving,Recurring,1,Completed,FY2021,Q1,February,2022
+DON01887,D0014,2022-04-03,868.83,Youth Education,Online,0,Completed,FY2021,Q2,April,2022
+DON01888,D0224,2024-07-09,87.91,Digital Inclusion,Event,0,Completed,FY2024,Q3,July,2024
+DON01889,D0285,2023-09-06,54.51,Community Health,Direct Mail,1,Completed,FY2023,Q3,September,2023
+DON01890,D0329,2022-01-16,56.67,Youth Education,Event,0,Completed,FY2021,Q1,January,2022
+DON01891,D0357,2022-11-19,80.53,Refugee Support,Online,0,Completed,FY2022,Q4,November,2022
+DON01892,D0351,2024-12-01,48.69,Youth Education,Online,0,Completed,FY2024,Q4,December,2024
+DON01893,D0420,2024-12-27,57727.76,Youth Education,Recurring,1,Completed,FY2024,Q4,December,2024
+DON01894,D0361,2024-06-30,5907.24,Refugee Support,Online,0,Completed,FY2023,Q2,June,2024
+DON01895,D0145,2023-08-29,5852.43,Annual Giving,Online,0,Completed,FY2023,Q3,August,2023
+DON01896,D0391,2022-09-17,574.94,Emergency Relief,Recurring,1,Completed,FY2022,Q3,September,2022
+DON01897,D0096,2024-03-19,109.48,Emergency Relief,Corporate,1,Completed,FY2023,Q1,March,2024
+DON01898,D0234,2023-04-20,61.58,Youth Education,Event,0,Completed,FY2022,Q2,April,2023
+DON01899,D0493,2022-06-21,25.08,Emergency Relief,Online,0,Completed,FY2021,Q2,June,2022
+DON01900,D0329,2022-04-01,135.67,Youth Education,Recurring,1,Completed,FY2021,Q2,April,2022
+DON01901,D0312,2022-07-03,85.59,Community Health,Recurring,1,Completed,FY2022,Q3,July,2022
+DON01902,D0475,2023-10-22,41428.7,Emergency Relief,Recurring,1,Completed,FY2023,Q4,October,2023
+DON01903,D0451,2022-01-24,179.57,Women Empowerment,Online,0,Completed,FY2021,Q1,January,2022
+DON01904,D0009,2022-12-04,20242.07,Annual Giving,Online,0,Completed,FY2022,Q4,December,2022
+DON01905,D0124,2022-07-21,8324.25,Community Health,Event,0,Completed,FY2022,Q3,July,2022
+DON01906,D0323,2023-12-25,164.58,Annual Giving,Recurring,1,Completed,FY2023,Q4,December,2023
+DON01907,D0408,2023-06-19,55.89,Digital Inclusion,Recurring,1,Completed,FY2022,Q2,June,2023
+DON01908,D0176,2024-12-05,1125.11,Environmental Care,Online,1,Completed,FY2024,Q4,December,2024
+DON01909,D0233,2022-03-28,5648.71,Digital Inclusion,Event,0,Completed,FY2021,Q1,March,2022
+DON01910,D0164,2022-04-11,973.88,Annual Giving,Online,0,Completed,FY2021,Q2,April,2022
+DON01911,D0409,2024-11-22,95.12,Women Empowerment,Online,0,Completed,FY2024,Q4,November,2024
+DON01912,D0218,2023-07-06,102520.06,Community Health,Direct Mail,0,Failed,FY2023,Q3,July,2023
+DON01913,D0415,2022-12-15,212.91,Women Empowerment,Direct Mail,0,Completed,FY2022,Q4,December,2022
+DON01914,D0013,2022-04-19,25.53,Annual Giving,Corporate,0,Completed,FY2021,Q2,April,2022
+DON01915,D0037,2022-02-04,984.01,Women Empowerment,Recurring,1,Completed,FY2021,Q1,February,2022
+DON01916,D0091,2022-05-05,29531.05,Youth Education,Online,0,Completed,FY2021,Q2,May,2022
+DON01917,D0110,2022-09-12,1146.1,Digital Inclusion,Recurring,1,Completed,FY2022,Q3,September,2022
+DON01918,D0287,2022-12-30,904.64,Digital Inclusion,Social Media,0,Completed,FY2022,Q4,December,2022
+DON01919,D0366,2023-01-20,100.63,Refugee Support,Recurring,1,Completed,FY2022,Q1,January,2023
+DON01920,D0099,2022-05-15,47.99,Community Health,Online,0,Completed,FY2021,Q2,May,2022
+DON01921,D0232,2022-11-21,163.56,Digital Inclusion,Direct Mail,0,Completed,FY2022,Q4,November,2022
+DON01922,D0080,2023-09-27,21305.1,Refugee Support,Online,1,Completed,FY2023,Q3,September,2023
+DON01923,D0192,2024-03-09,574.69,Refugee Support,Online,0,Pending,FY2023,Q1,March,2024
+DON01924,D0140,2023-04-15,11030.63,Annual Giving,Online,0,Completed,FY2022,Q2,April,2023
+DON01925,D0417,2022-02-17,1073.27,Digital Inclusion,Online,0,Completed,FY2021,Q1,February,2022
+DON01926,D0494,2024-11-16,48223.83,Digital Inclusion,Telephone,0,Completed,FY2024,Q4,November,2024
+DON01927,D0432,2024-10-22,1108.81,Emergency Relief,Direct Mail,0,Completed,FY2024,Q4,October,2024
+DON01928,D0060,2022-05-07,139.89,Youth Education,Event,0,Completed,FY2021,Q2,May,2022
+DON01929,D0242,2023-08-20,10747.31,Annual Giving,Social Media,0,Completed,FY2023,Q3,August,2023
+DON01930,D0490,2024-12-13,118.79,Women Empowerment,Online,0,Completed,FY2024,Q4,December,2024
+DON01931,D0009,2022-07-29,21221.8,Community Health,Recurring,1,Completed,FY2022,Q3,July,2022
+DON01932,D0114,2023-02-11,505.24,Emergency Relief,Event,0,Completed,FY2022,Q1,February,2023
+DON01933,D0321,2023-10-24,99.7,Youth Education,Direct Mail,1,Completed,FY2023,Q4,October,2023
+DON01934,D0302,2024-10-31,285.48,Emergency Relief,Social Media,0,Pending,FY2024,Q4,October,2024
+DON01935,D0476,2024-12-10,209.53,Refugee Support,Recurring,1,Completed,FY2024,Q4,December,2024
+DON01936,D0450,2022-03-02,582.3,Community Health,Recurring,1,Completed,FY2021,Q1,March,2022
+DON01937,D0397,2024-12-08,222.29,Emergency Relief,Event,1,Completed,FY2024,Q4,December,2024
+DON01938,D0002,2023-08-04,233.39,Environmental Care,Online,1,Completed,FY2023,Q3,August,2023
+DON01939,D0496,2023-12-10,291.67,Community Health,Direct Mail,0,Completed,FY2023,Q4,December,2023
+DON01940,D0406,2023-08-11,156.22,Emergency Relief,Telephone,0,Completed,FY2023,Q3,August,2023
+DON01941,D0489,2022-02-24,95.88,Environmental Care,Direct Mail,0,Completed,FY2021,Q1,February,2022
+DON01942,D0495,2024-11-01,219.47,Youth Education,Social Media,0,Completed,FY2024,Q4,November,2024
+DON01943,D0127,2023-06-07,140.11,Refugee Support,Online,1,Completed,FY2022,Q2,June,2023
+DON01944,D0210,2022-03-29,127.8,Refugee Support,Social Media,1,Completed,FY2021,Q1,March,2022
+DON01945,D0237,2022-04-05,179.01,Refugee Support,Direct Mail,0,Completed,FY2021,Q2,April,2022
+DON01946,D0027,2023-01-31,72.8,Annual Giving,Social Media,1,Completed,FY2022,Q1,January,2023
+DON01947,D0036,2022-07-01,94.45,Refugee Support,Telephone,1,Completed,FY2022,Q3,July,2022
+DON01948,D0348,2023-03-12,215.4,Environmental Care,Online,0,Completed,FY2022,Q1,March,2023
+DON01949,D0330,2024-05-30,90.16,Women Empowerment,Direct Mail,0,Completed,FY2023,Q2,May,2024
+DON01950,D0087,2022-10-20,9941.54,Environmental Care,Direct Mail,0,Failed,FY2022,Q4,October,2022
+DON01951,D0417,2023-09-15,137.42,Annual Giving,Online,1,Completed,FY2023,Q3,September,2023
+DON01952,D0403,2024-09-03,55604.87,Women Empowerment,Online,1,Completed,FY2024,Q3,September,2024
+DON01953,D0361,2024-02-06,4814.91,Community Health,Online,0,Completed,FY2023,Q1,February,2024
+DON01954,D0438,2022-02-06,53.34,Environmental Care,Recurring,1,Completed,FY2021,Q1,February,2022
+DON01955,D0132,2023-08-09,10029.6,Emergency Relief,Recurring,1,Completed,FY2023,Q3,August,2023
+DON01956,D0252,2022-12-06,27.15,Environmental Care,Social Media,0,Completed,FY2022,Q4,December,2022
+DON01957,D0074,2023-08-31,276.66,Refugee Support,Telephone,1,Completed,FY2023,Q3,August,2023
+DON01958,D0249,2024-01-20,83586.19,Digital Inclusion,Online,0,Completed,FY2023,Q1,January,2024
+DON01959,D0088,2024-10-21,85.88,Emergency Relief,Online,1,Completed,FY2024,Q4,October,2024
+DON01960,D0221,2023-04-02,118.13,Community Health,Online,0,Completed,FY2022,Q2,April,2023
+DON01961,D0280,2022-02-17,240.42,Annual Giving,Direct Mail,1,Completed,FY2021,Q1,February,2022
+DON01962,D0061,2022-03-04,264.02,Environmental Care,Recurring,1,Completed,FY2021,Q1,March,2022
+DON01963,D0220,2023-04-13,82.48,Digital Inclusion,Corporate,0,Completed,FY2022,Q2,April,2023
+DON01964,D0229,2024-12-01,26625.43,Women Empowerment,Recurring,1,Completed,FY2024,Q4,December,2024
+DON01965,D0142,2023-12-07,1102.8,Digital Inclusion,Recurring,1,Pending,FY2023,Q4,December,2023
+DON01966,D0013,2022-10-29,59.63,Refugee Support,Direct Mail,0,Completed,FY2022,Q4,October,2022
+DON01967,D0305,2022-07-11,1070.62,Refugee Support,Recurring,1,Completed,FY2022,Q3,July,2022
+DON01968,D0032,2022-05-30,257.29,Women Empowerment,Direct Mail,1,Completed,FY2021,Q2,May,2022
+DON01969,D0175,2022-10-26,992.77,Refugee Support,Online,0,Completed,FY2022,Q4,October,2022
+DON01970,D0427,2023-01-29,51430.14,Emergency Relief,Online,0,Completed,FY2022,Q1,January,2023
+DON01971,D0075,2023-07-11,67.22,Digital Inclusion,Recurring,1,Completed,FY2023,Q3,July,2023
+DON01972,D0034,2023-04-04,28.55,Youth Education,Event,0,Completed,FY2022,Q2,April,2023
+DON01973,D0324,2024-03-08,9736.99,Refugee Support,Telephone,0,Completed,FY2023,Q1,March,2024
+DON01974,D0194,2023-01-31,250.39,Emergency Relief,Online,1,Completed,FY2022,Q1,January,2023
+DON01975,D0493,2022-04-25,20.48,Emergency Relief,Direct Mail,0,Completed,FY2021,Q2,April,2022
+DON01976,D0279,2023-10-21,157.79,Emergency Relief,Telephone,0,Completed,FY2023,Q4,October,2023
+DON01977,D0284,2024-06-26,85.89,Community Health,Telephone,0,Completed,FY2023,Q2,June,2024
+DON01978,D0239,2023-07-08,1091.99,Community Health,Corporate,0,Completed,FY2023,Q3,July,2023
+DON01979,D0396,2024-07-08,51976.71,Refugee Support,Online,1,Completed,FY2024,Q3,July,2024
+DON01980,D0288,2022-07-08,267.14,Youth Education,Direct Mail,0,Completed,FY2022,Q3,July,2022
+DON01981,D0268,2022-05-17,584.57,Annual Giving,Social Media,0,Completed,FY2021,Q2,May,2022
+DON01982,D0473,2023-02-04,293.66,Digital Inclusion,Online,0,Completed,FY2022,Q1,February,2023
+DON01983,D0322,2022-12-17,58.74,Women Empowerment,Direct Mail,0,Completed,FY2022,Q4,December,2022
+DON01984,D0492,2023-02-24,210.87,Emergency Relief,Event,1,Completed,FY2022,Q1,February,2023
+DON01985,D0038,2022-01-01,80.34,Emergency Relief,Corporate,0,Completed,FY2021,Q1,January,2022
+DON01986,D0030,2024-10-12,44759.46,Women Empowerment,Online,0,Failed,FY2024,Q4,October,2024
+DON01987,D0065,2023-08-31,84850.57,Community Health,Direct Mail,0,Completed,FY2023,Q3,August,2023
+DON01988,D0299,2024-03-21,5729.12,Women Empowerment,Online,0,Completed,FY2023,Q1,March,2024
+DON01989,D0374,2023-04-30,486.23,Digital Inclusion,Social Media,0,Completed,FY2022,Q2,April,2023
+DON01990,D0411,2024-08-06,47.97,Emergency Relief,Telephone,0,Completed,FY2024,Q3,August,2024
+DON01991,D0123,2022-11-27,868.13,Youth Education,Online,0,Completed,FY2022,Q4,November,2022
+DON01992,D0166,2023-06-19,1130.93,Emergency Relief,Corporate,0,Failed,FY2022,Q2,June,2023
+DON01993,D0363,2024-10-03,77.18,Women Empowerment,Recurring,1,Completed,FY2024,Q4,October,2024
+DON01994,D0189,2023-04-20,446.77,Refugee Support,Telephone,1,Completed,FY2022,Q2,April,2023
+DON01995,D0287,2023-10-15,1139.23,Youth Education,Event,0,Completed,FY2023,Q4,October,2023
+DON01996,D0195,2024-05-27,11001.08,Annual Giving,Event,0,Pending,FY2023,Q2,May,2024
+DON01997,D0221,2024-10-13,49.07,Annual Giving,Direct Mail,0,Completed,FY2024,Q4,October,2024
+DON01998,D0145,2022-01-05,5720.2,Annual Giving,Direct Mail,0,Completed,FY2021,Q1,January,2022
+DON01999,D0470,2022-11-23,65.41,Women Empowerment,Direct Mail,0,Completed,FY2022,Q4,November,2022
+DON02000,D0037,2024-07-05,161.19,Women Empowerment,Event,1,Completed,FY2024,Q3,July,2024
