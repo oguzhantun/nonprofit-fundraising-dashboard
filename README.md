@@ -61,8 +61,8 @@ The dataset is synthetic but realistic, comprising **500 donors** and **2,000 do
 
 ## Sample Charts
 
-### Monthly Fundraising Trend
-![Monthly Trend](02_monthly_trend.png)
+## Dashboard Preview
+![Nonprofit Fundraising Dashboard](dashboard.png)
 
 ### Campaign Performance
 ![Campaign Performance](01_campaign_performance.png)
