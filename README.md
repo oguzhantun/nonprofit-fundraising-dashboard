@@ -1,6 +1,20 @@
+# Nonprofit Fundraising Dashboard
+
+**End-to-end data analysis project simulating a real-world fundraising reporting solution for a not-for-profit organisation.**
+
+Built to demonstrate skills in SQL, Python (Pandas, Matplotlib, Seaborn), and Power BI — covering the full analytics lifecycle from data preparation through to executive-ready insights.
+
 ---
 
-## 📊 Key Metrics (Dataset Summary)
+## Project Overview
+
+This project replicates the type of work delivered during a Data Analyst contract at a not-for-profit organisation, where the goal was to replace fragmented third-party reporting tools with a trusted, in-house Power BI solution — resulting in approximately 20% reduction in reporting costs.
+
+The dataset is synthetic but realistic, comprising **500 donors** and **2,000 donations** across 3 years (2022–2024), covering multiple campaigns, acquisition channels, and geographic regions across Australia.
+
+---
+
+## Key Metrics
 
 | Metric | Value |
 |---|---|
@@ -15,20 +29,20 @@
 
 ---
 
-## 🔍 Analysis Included
+## Analysis Included
 
-### SQL (`sql/fundraising_analysis.sql`)
+**SQL**
 - KPI overview — total raised, average gift, revenue per donor
 - Campaign performance with percentage contribution
 - Donor segmentation by type (Individual, Corporate, Foundation, Government)
 - Top 10 donors by lifetime value
 - Donor retention analysis using window functions (LAG)
 - Channel analysis with recurring donation rates
-- Quarter-over-quarter growth using LAG and window functions
+- Quarter-over-quarter growth
 - Geographic analysis by state
 - Data quality checks — duplicates, failed donations, missing records
 
-### Python EDA (`python/fundraising_eda.py`)
+**Python EDA**
 - Campaign revenue and average gift comparison
 - Monthly fundraising trend (2022–2024)
 - Donor type breakdown — revenue share and count
@@ -37,7 +51,7 @@
 - Year-over-year campaign revenue comparison
 - Donor retention — new vs returning donors
 
-### Power BI (see `powerbi/dashboard_notes.md`)
+**Power BI**
 - Executive summary page with KPI cards
 - Campaign performance page
 - Donor segmentation page
@@ -45,7 +59,7 @@
 
 ---
 
-## 📈 Sample Charts
+## Sample Charts
 
 ### Monthly Fundraising Trend
 ![Monthly Trend](02_monthly_trend.png)
@@ -56,12 +70,12 @@
 ### Donor Retention
 ![Donor Retention](07_retention.png)
 
-### Year-over-Year Campaign Revenue
+### Year-over-Year Revenue
 ![YoY Comparison](06_yoy_campaign.png)
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools Used
 
 | Tool | Purpose |
 |---|---|
@@ -74,24 +88,21 @@
 
 ---
 
-## 🚀 How to Run
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/nonprofit-fundraising-dashboard.git
-cd nonprofit-fundraising-dashboard
+## How to Run
 
-# Install dependencies
-pip install pandas numpy matplotlib seaborn
+Clone the repository and install dependencies:
 
-# Run the EDA
-python fundraising_eda.py
-```
+    pip install pandas numpy matplotlib seaborn
 
-For SQL — load `donors.csv` and `donations.csv` into any SQL database (PostgreSQL, SQLite, or SQL Server) and run `fundraising_analysis.sql`.
+Then run:
+
+    python fundraising_eda.py
+
+For SQL — load donors.csv and donations.csv into any SQL database (PostgreSQL, SQLite, or SQL Server) and run fundraising_analysis.sql.
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 1. **Youth Education** and **Community Health** are the top-performing campaigns, together accounting for over 35% of total revenue
 2. **Online** and **Recurring** channels deliver the highest volume — recurring donors represent 35.7% of all donations
@@ -101,13 +112,13 @@ For SQL — load `donors.csv` and `donations.csv` into any SQL database (Postgre
 
 ---
 
-## 👤 About
+## About
 
-**Oguz Tuncel** — Data Analyst | Power BI Developer
+**Oguz Tuncel** — Data Analyst | Business Analyst | Power BI Developer
 
-- 🔗 [LinkedIn](https://linkedin.com/in/oguztuncel)
-- 📧 ogzhantuncell@gmail.com
-- 📍 Melbourne, VIC, Australia
+- LinkedIn: https://linkedin.com/in/oguztuncel
+- Email: ogzhantuncell@gmail.com
+- Melbourne, VIC, Australia
 
 ---
 
